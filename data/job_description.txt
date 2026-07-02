@@ -1,0 +1,42 @@
+Job Description: Senior AI Engineer — Founding Team
+
+Company: Redrob AI (Series A AI-native talent intelligence platform)
+Location: Pune/Noida, India (Hybrid — flexible cadence) | Open to relocation candidates from Tier-1 Indian cities
+Employment Type: Full-time
+Experience Required: 5-9 years
+
+Role Summary:
+Own the intelligence layer of Redrob's product — ranking, retrieval, and matching systems.
+
+Must-Have Skills:
+- Production experience with embeddings-based retrieval systems (sentence-transformers, BGE, E5, or similar)
+- Production experience with vector databases or hybrid search infrastructure (Pinecone, Weaviate, Qdrant, Milvus, OpenSearch, Elasticsearch, FAISS)
+- Strong Python
+- Hands-on experience designing evaluation frameworks for ranking systems (NDCG, MRR, MAP, A/B testing)
+- NLP / Information Retrieval background
+
+Nice-to-Have Skills:
+- LLM fine-tuning (LoRA, QLoRA, PEFT)
+- Learning-to-rank models (XGBoost-based or neural)
+- HR-tech / recruiting tech / marketplace products experience
+- Distributed systems or large-scale inference optimization
+- Open-source contributions in AI/ML
+
+Explicit Disqualifiers:
+- Pure research without production deployment
+- AI experience limited to recent LangChain/OpenAI wrapper projects (< 12 months)
+- Senior engineers who haven't written production code in 18+ months
+- Title-chasers switching companies every 1.5 years
+- Framework enthusiasts without systems thinking
+- Entire career at consulting firms (TCS, Infosys, Wipro, Accenture, Cognizant, Capgemini)
+- Primary expertise in computer vision, speech, or robotics WITHOUT NLP/IR exposure
+- Entirely closed-source work for 5+ years without external validation
+
+Ideal Candidate Profile:
+- 6-8 years total experience, 4-5 in applied ML/AI at product companies
+- Shipped end-to-end ranking/search/recommendation system to real users
+- Strong opinions about retrieval, evaluation, and LLM integration
+- Located in or willing to relocate to Noida or Pune
+- Active on platform with good behavioral signals
+
+Notice Period: Prefer sub-30-day. Can buy out up to 30 days.

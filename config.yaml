@@ -1,0 +1,204 @@
+# =============================================================================
+# AI Candidate Ranking Engine — Master Configuration
+# =============================================================================
+# All weights, thresholds, and model choices are configurable here.
+# No code changes needed to tune the pipeline.
+
+# --- Paths ---
+paths:
+  candidates: "[PUB] India_runs_data_and_ai_challenge/[PUB] India_runs_data_and_ai_challenge/India_runs_data_and_ai_challenge/candidates.jsonl"
+  sample_candidates: "data/sample_candidates.json"
+  job_description: "data/job_description.txt"
+  eval_set: "data/eval_set.json"
+  embedding_cache: "data/cache/embeddings.npy"
+  faiss_index: "data/cache/faiss.index"
+  candidate_ids_cache: "data/cache/candidate_ids.json"
+  output_csv: "output/submission.csv"
+  output_detailed: "output/submission_detailed.json"
+
+# --- Models (free, CPU-friendly, open-source) ---
+models:
+  embedding: "all-MiniLM-L6-v2"
+  cross_encoder: "cross-encoder/ms-marco-MiniLM-L-6-v2"
+
+# --- Retrieval ---
+retrieval:
+  bm25_top_k: 1000
+  dense_top_k: 1000
+  hybrid_top_k: 500
+  rerank_top_k: 300
+  rrf_k: 60
+  final_top_k: 100
+
+# --- Score Weights (must sum to 1.0) ---
+weights:
+  semantic: 0.30
+  attribute: 0.45
+  behavioral: 0.25
+
+# --- Attribute Scoring Weights (within attribute category) ---
+attribute_weights:
+  skills_match: 0.25
+  experience_fit: 0.20
+  title_relevance: 0.20
+  domain_fit: 0.15
+  career_trajectory: 0.10
+  location_fit: 0.05
+  education_fit: 0.05
+
+# --- Behavioral Scoring Weights (within behavioral category) ---
+behavioral_weights:
+  recency: 0.25
+  responsiveness: 0.20
+  engagement: 0.15
+  availability: 0.15
+  assessment: 0.10
+  social_proof: 0.10
+  verification: 0.05
+
+# --- Behavioral Signal Decay ---
+decay:
+  half_life_days: 90
+  reference_date: "2026-06-15"
+
+# --- Diversity (MMR) ---
+mmr:
+  enabled: true
+  lambda: 0.8
+  top_k: 100
+
+# --- Honeypot Detection Thresholds ---
+honeypot:
+  max_expert_skills_zero_duration: 2
+  max_experience_gap_years: 3
+  min_career_entries: 0
+
+# --- JD Requirements (extracted from the actual job description) ---
+jd:
+  title: "Senior AI Engineer"
+  company: "Redrob AI"
+  experience_range: [5, 9]
+  location_preferred: ["Pune", "Noida", "Hyderabad", "Mumbai", "Delhi NCR", "India"]
+  work_mode: "hybrid"
+  notice_period_preferred_max: 30
+
+  must_have_skills:
+    - "embeddings"
+    - "retrieval"
+    - "ranking"
+    - "sentence-transformers"
+    - "vector database"
+    - "FAISS"
+    - "Pinecone"
+    - "Weaviate"
+    - "Qdrant"
+    - "Milvus"
+    - "OpenSearch"
+    - "Elasticsearch"
+    - "Python"
+    - "NDCG"
+    - "MRR"
+    - "MAP"
+    - "A/B testing"
+    - "NLP"
+    - "information retrieval"
+    - "search"
+    - "recommendation"
+
+  nice_to_have_skills:
+    - "LLM"
+    - "fine-tuning"
+    - "LoRA"
+    - "QLoRA"
+    - "PEFT"
+    - "XGBoost"
+    - "learning to rank"
+    - "distributed systems"
+    - "inference optimization"
+    - "open-source"
+    - "RAG"
+    - "hybrid search"
+    - "BM25"
+    - "transformers"
+    - "PyTorch"
+    - "TensorFlow"
+    - "MLOps"
+    - "Docker"
+    - "Kubernetes"
+
+  domain_keywords:
+    - "AI"
+    - "ML"
+    - "machine learning"
+    - "deep learning"
+    - "natural language processing"
+    - "data science"
+    - "data engineering"
+    - "search"
+    - "retrieval"
+    - "ranking"
+    - "recommendation"
+
+  relevant_titles:
+    - "AI Engineer"
+    - "ML Engineer"
+    - "Machine Learning Engineer"
+    - "Data Scientist"
+    - "NLP Engineer"
+    - "Research Engineer"
+    - "Search Engineer"
+    - "Ranking Engineer"
+    - "Software Engineer"
+    - "Backend Engineer"
+    - "Senior Software Engineer"
+    - "Lead Engineer"
+    - "Principal Engineer"
+    - "Staff Engineer"
+
+  irrelevant_titles:
+    - "Marketing Manager"
+    - "HR Manager"
+    - "Accountant"
+    - "Sales Executive"
+    - "Content Writer"
+    - "Graphic Designer"
+    - "Civil Engineer"
+    - "Mechanical Engineer"
+    - "Operations Manager"
+    - "Customer Support"
+    - "Business Analyst"
+    - "Project Manager"
+
+  product_industries:
+    - "Software"
+    - "Internet"
+    - "Technology"
+    - "SaaS"
+    - "E-commerce"
+    - "FinTech"
+    - "HealthTech"
+    - "EdTech"
+    - "AI/ML"
+
+  consulting_firms:
+    - "TCS"
+    - "Infosys"
+    - "Wipro"
+    - "Accenture"
+    - "Cognizant"
+    - "Capgemini"
+    - "HCL"
+    - "Tech Mahindra"
+    - "Mindtree"
+    - "L&T Infotech"
+
+# --- Schema Mapping (for swapping in different data sources) ---
+schema_mapping:
+  candidate_id: "candidate_id"
+  profile: "profile"
+  career_history: "career_history"
+  education: "education"
+  skills: "skills"
+  certifications: "certifications"
+  languages: "languages"
+  signals: "redrob_signals"

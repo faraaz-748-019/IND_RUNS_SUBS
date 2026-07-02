@@ -1,0 +1,15 @@
+# AI Candidate Ranking Engine — Dependencies
+# Free, open-source only. No version pins per challenge rules.
+sentence-transformers
+faiss-cpu
+rank-bm25
+scikit-learn
+pandas
+numpy
+streamlit
+plotly
+pyyaml
+python-docx
+pdfplumber
+torch
+nltk

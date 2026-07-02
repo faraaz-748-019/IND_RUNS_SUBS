@@ -1,0 +1,57 @@
+# Redrob Hackathon — Submission Metadata
+# Filled from submission_metadata_template.yaml
+
+team_name: "FILL_IN_YOUR_TEAM_NAME"
+
+primary_contact:
+  name: "FILL_IN"
+  email: "FILL_IN"
+  phone: "+91-XXXXXXXXXX"
+
+team_members:
+  - name: "FILL_IN"
+    email: "FILL_IN"
+    role: "ML Engineer"
+
+github_repo: "FILL_IN_GITHUB_URL"
+
+sandbox_link: "FILL_IN_SANDBOX_URL"
+
+reproduce_command: "python rank.py --candidates ./candidates.jsonl --out ./submission.csv"
+
+compute:
+  platform: "Windows PC"
+  cpu_cores: 8
+  ram_gb: 16
+  python_version: "3.14.2"
+  os: "Windows"
+  uses_gpu_for_inference: false
+  has_network_during_ranking: false
+  pre_computation_required: true
+  pre_computation_time_minutes: 15
+
+ai_tools_used:
+  - "Claude"
+
+ai_usage_summary: |
+  Used Claude for architecture discussion, code review, and accelerating
+  implementation. All engineering decisions were human-driven. No candidate
+  data was fed to any LLM during ranking.
+
+methodology_summary: |
+  Hybrid retrieval engine combining BM25 sparse keyword matching with dense
+  sentence-transformer embeddings (all-MiniLM-L6-v2), fused via Reciprocal
+  Rank Fusion. Top candidates re-ranked with a cross-encoder
+  (ms-marco-MiniLM-L-6-v2) for precision. Three scoring pillars: semantic
+  similarity (0.30), structured attribute match with anti-pattern detection
+  (0.45), and behavioral signals with recency decay (0.25). Honeypot
+  detection via 10 profile-impossibility heuristics. MMR diversity
+  re-ranking prevents near-duplicate shortlists. Per-candidate rationale
+  generated from specific profile data. All free, CPU-only models.
+
+declarations:
+  read_submission_spec: true
+  code_is_original_work: true
+  no_collusion: true
+  honeypot_check_done: true
+  reproduction_tested: true

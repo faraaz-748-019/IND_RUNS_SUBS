@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+.venv
+venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Project specific ignores
+# Ignore the 500MB candidates file
+data/candidates.jsonl
+
+# Ignore FAISS index and embeddings cache
+data/cache/
+
+# Ignore outputs if you want, but for hackathons sometimes you submit them.
+# Let's include submission CSV/JSON but ignore ablation caches if any.
+# output/
+
+# Ignore original challenge folder
+\[PUB\]*
+*.docx

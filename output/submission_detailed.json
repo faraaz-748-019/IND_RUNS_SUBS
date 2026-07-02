@@ -1,0 +1,1802 @@
+[
+  {
+    "candidate_id": "CAND_0000031",
+    "rank": 1,
+    "final_score": 0.7880305883119013,
+    "reasoning": "Currently Recommendation Systems Engineer at Swiggy (6.0 yrs), has relevant technical background. 6/21 must-have skills matched (Embeddings, Pinecone, Hugging Face Transformers, Sentence Transformers). open to work; 91% response rate; recently active.",
+    "score_breakdown": {
+      "final_score": 0.788,
+      "semantic_score": 1.0,
+      "attribute_score": 0.6626,
+      "behavioral_score": 0.7595,
+      "attribute_breakdown": {
+        "skills": 0.1904,
+        "experience": 1.0,
+        "title": 0.82,
+        "domain": 0.6,
+        "career_trajectory": 0.75,
+        "location": 1.0,
+        "education": 0.72
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8442,
+        "responsiveness": 0.666,
+        "engagement": 0.7919,
+        "availability": 0.86,
+        "assessment": 0.7955,
+        "social_proof": 0.7122,
+        "verification": 0.3333
+      }
+    },
+    "profile_summary": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Swiggy",
+      "experience": 6.0,
+      "location": "Hyderabad, Telangana"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000001",
+    "rank": 2,
+    "final_score": 0.5580640357895915,
+    "reasoning": "Backend Engineer at Mindtree with 6.9 yrs experience. 2/21 must-have skills matched (TTS, Speech Recognition, Milvus, NLP). open to work; recently active.",
+    "score_breakdown": {
+      "final_score": 0.5581,
+      "semantic_score": 0.3981,
+      "attribute_score": 0.6194,
+      "behavioral_score": 0.6396,
+      "attribute_breakdown": {
+        "skills": 0.0818,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.35,
+        "career_trajectory": 1.0,
+        "location": 0.2,
+        "education": 0.73
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8186,
+        "responsiveness": 0.244,
+        "engagement": 0.8041,
+        "availability": 0.735,
+        "assessment": 0.6573,
+        "social_proof": 0.5619,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Backend Engineer",
+      "company": "Mindtree",
+      "experience": 6.9,
+      "location": "Toronto"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000023",
+    "rank": 3,
+    "final_score": 0.5191401253594907,
+    "reasoning": "Software Engineer at Acme Corp with 3.7 yrs experience. skills include Node.js, Rust, Marketing, Django. 57% response rate; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.5191,
+      "semantic_score": 0.3859,
+      "attribute_score": 0.567,
+      "behavioral_score": 0.5929,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.605,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 0.6,
+        "location": 0.2,
+        "education": 0.82
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5833,
+        "responsiveness": 0.542,
+        "engagement": 0.5775,
+        "availability": 0.72,
+        "assessment": 0.3,
+        "social_proof": 0.807,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Software Engineer",
+      "company": "Acme Corp",
+      "experience": 3.7,
+      "location": "New York"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000015",
+    "rank": 4,
+    "final_score": 0.5062399006097236,
+    "reasoning": "Software Engineer at Razorpay with 5.4 yrs experience. 1/21 must-have skills matched (Qdrant, Sales, Next.js, PyTorch). open to work.",
+    "score_breakdown": {
+      "final_score": 0.5062,
+      "semantic_score": 0.2761,
+      "attribute_score": 0.6501,
+      "behavioral_score": 0.5234,
+      "attribute_breakdown": {
+        "skills": 0.0225,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 0.85,
+        "location": 0.5,
+        "education": 0.79
+      },
+      "behavioral_breakdown": {
+        "recency": 0.3879,
+        "responsiveness": 0.312,
+        "engagement": 0.8279,
+        "availability": 0.715,
+        "assessment": 0.3,
+        "social_proof": 0.693,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Software Engineer",
+      "company": "Razorpay",
+      "experience": 5.4,
+      "location": "Trivandrum, Kerala"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000014",
+    "rank": 5,
+    "final_score": 0.49621178892593804,
+    "reasoning": "Currently Frontend Engineer at Zomato (8.4 yrs), has relevant technical background. 3/21 must-have skills matched (OpenSearch, FAISS, OpenCV, GANs). 80% response rate.",
+    "score_breakdown": {
+      "final_score": 0.4962,
+      "semantic_score": 0.3311,
+      "attribute_score": 0.5324,
+      "behavioral_score": 0.6293,
+      "attribute_breakdown": {
+        "skills": 0.08,
+        "experience": 0.8,
+        "title": 0.692,
+        "domain": 0.35,
+        "career_trajectory": 0.75,
+        "location": 1.0,
+        "education": 0.73
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6109,
+        "responsiveness": 0.88,
+        "engagement": 0.4907,
+        "availability": 0.435,
+        "assessment": 0.816,
+        "social_proof": 0.4675,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Frontend Engineer",
+      "company": "Zomato",
+      "experience": 8.4,
+      "location": "Hyderabad, Telangana"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000033",
+    "rank": 6,
+    "final_score": 0.4861340635030229,
+    "reasoning": "Graphic Designer at Wipro (8.6 yrs). skills include TypeScript, Content Writing, Snowflake, CI/CD. open to work; 30-day notice period. Concerns: non-technical title (Graphic Designer); low recruiter response rate (8%).",
+    "score_breakdown": {
+      "final_score": 0.4861,
+      "semantic_score": 0.6456,
+      "attribute_score": 0.3588,
+      "behavioral_score": 0.524,
+      "attribute_breakdown": {
+        "skills": 0.0032,
+        "experience": 0.8,
+        "title": 0.05,
+        "domain": 0.35,
+        "career_trajectory": 0.5,
+        "location": 1.0,
+        "education": 0.71
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5401,
+        "responsiveness": 0.088,
+        "engagement": 0.905,
+        "availability": 0.925,
+        "assessment": 0.3,
+        "social_proof": 0.5021,
+        "verification": 0.3333
+      }
+    },
+    "profile_summary": {
+      "title": "Graphic Designer",
+      "company": "Wipro",
+      "experience": 8.6,
+      "location": "Pune, Maharashtra"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000026",
+    "rank": 7,
+    "final_score": 0.4788086340886605,
+    "reasoning": "Currently Graphic Designer at Initech (6.8 yrs), has relevant technical background. skills include Kubeflow, Kubernetes, Airflow, Apache Beam. 59% response rate; 30-day notice period. Concerns: inactive for 255 days.",
+    "score_breakdown": {
+      "final_score": 0.4788,
+      "semantic_score": 0.2907,
+      "attribute_score": 0.5743,
+      "behavioral_score": 0.5327,
+      "attribute_breakdown": {
+        "skills": 0.0111,
+        "experience": 1.0,
+        "title": 0.5,
+        "domain": 0.9,
+        "career_trajectory": 0.75,
+        "location": 0.5,
+        "education": 0.73
+      },
+      "behavioral_breakdown": {
+        "recency": 0.1404,
+        "responsiveness": 0.634,
+        "engagement": 0.931,
+        "availability": 0.72,
+        "assessment": 0.3,
+        "social_proof": 0.5985,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Graphic Designer",
+      "company": "Initech",
+      "experience": 6.8,
+      "location": "Kochi, Kerala"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000019",
+    "rank": 8,
+    "final_score": 0.47770555174864104,
+    "reasoning": "Project Manager at Wayne Enterprises (6.5 yrs). skills include Figma, AWS, YOLO, Azure. recently active. Concerns: non-technical title (Project Manager).",
+    "score_breakdown": {
+      "final_score": 0.4777,
+      "semantic_score": 0.4698,
+      "attribute_score": 0.4355,
+      "behavioral_score": 0.5631,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 1.0,
+        "title": 0.05,
+        "domain": 0.35,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 0.96
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8249,
+        "responsiveness": 0.324,
+        "engagement": 0.7851,
+        "availability": 0.58,
+        "assessment": 0.3,
+        "social_proof": 0.4065,
+        "verification": 0.3333
+      }
+    },
+    "profile_summary": {
+      "title": "Project Manager",
+      "company": "Wayne Enterprises",
+      "experience": 6.5,
+      "location": "Trivandrum, Kerala"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000049",
+    "rank": 9,
+    "final_score": 0.47713426990603647,
+    "reasoning": "Mechanical Engineer at Wayne Enterprises (11.8 yrs). skills include GraphQL, Kubernetes, Rust, Apache Beam. 59% response rate. Concerns: non-technical title (Mechanical Engineer).",
+    "score_breakdown": {
+      "final_score": 0.4771,
+      "semantic_score": 0.6689,
+      "attribute_score": 0.3145,
+      "behavioral_score": 0.5398,
+      "attribute_breakdown": {
+        "skills": 0.0079,
+        "experience": 0.56,
+        "title": 0.05,
+        "domain": 0.6,
+        "career_trajectory": 0.5,
+        "location": 0.2,
+        "education": 0.81
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7756,
+        "responsiveness": 0.474,
+        "engagement": 0.584,
+        "availability": 0.315,
+        "assessment": 0.3,
+        "social_proof": 0.529,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Mechanical Engineer",
+      "company": "Wayne Enterprises",
+      "experience": 11.8,
+      "location": "Berlin"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000010",
+    "rank": 10,
+    "final_score": 0.474616862731455,
+    "reasoning": "Data Engineer at Ola (4.6 yrs). 3/21 must-have skills matched (GANs, Object Detection, BM25, Prompt Engineering).",
+    "score_breakdown": {
+      "final_score": 0.4746,
+      "semantic_score": 0.4744,
+      "attribute_score": 0.366,
+      "behavioral_score": 0.6704,
+      "attribute_breakdown": {
+        "skills": 0.068,
+        "experience": 0.74,
+        "title": 0.15,
+        "domain": 0.35,
+        "career_trajectory": 0.75,
+        "location": 0.2,
+        "education": 0.67
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6964,
+        "responsiveness": 0.6,
+        "engagement": 0.9356,
+        "availability": 0.44,
+        "assessment": 0.8448,
+        "social_proof": 0.5219,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Data Engineer",
+      "company": "Ola",
+      "experience": 4.6,
+      "location": "London"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000044",
+    "rank": 11,
+    "final_score": 0.4692186330614932,
+    "reasoning": "Frontend Engineer at Tech Mahindra (5.7 yrs). 1/21 must-have skills matched (dbt, Python, Databricks, CI/CD). 66% response rate. Concerns: inactive for 186 days.",
+    "score_breakdown": {
+      "final_score": 0.4692,
+      "semantic_score": 0.6092,
+      "attribute_score": 0.396,
+      "behavioral_score": 0.433,
+      "attribute_breakdown": {
+        "skills": 0.01,
+        "experience": 0.8,
+        "title": 0.15,
+        "domain": 0.6,
+        "career_trajectory": 0.5,
+        "location": 0.5,
+        "education": 0.77
+      },
+      "behavioral_breakdown": {
+        "recency": 0.2388,
+        "responsiveness": 0.436,
+        "engagement": 0.7571,
+        "availability": 0.435,
+        "assessment": 0.3,
+        "social_proof": 0.6063,
+        "verification": 0.3333
+      }
+    },
+    "profile_summary": {
+      "title": "Frontend Engineer",
+      "company": "Tech Mahindra",
+      "experience": 5.7,
+      "location": "Indore, Madhya Pradesh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000007",
+    "rank": 12,
+    "final_score": 0.4664402804472384,
+    "reasoning": "Civil Engineer at Wipro (5.5 yrs). skills include MongoDB, Sales, Spark, Illustrator. 62% response rate; recently active; 30-day notice period. Concerns: non-technical title (Civil Engineer).",
+    "score_breakdown": {
+      "final_score": 0.4664,
+      "semantic_score": 0.4026,
+      "attribute_score": 0.415,
+      "behavioral_score": 0.6356,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.8,
+        "title": 0.05,
+        "domain": 0.6,
+        "career_trajectory": 0.75,
+        "location": 0.7,
+        "education": 0.9
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8507,
+        "responsiveness": 0.572,
+        "engagement": 0.5311,
+        "availability": 0.595,
+        "assessment": 0.3,
+        "social_proof": 0.5962,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Civil Engineer",
+      "company": "Wipro",
+      "experience": 5.5,
+      "location": "Gurgaon, Haryana"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000006",
+    "rank": 13,
+    "final_score": 0.4569187070549235,
+    "reasoning": "Business Analyst at Wayne Enterprises (6.0 yrs). skills include SEO, Sales, Django, Content Writing. Concerns: non-technical title (Business Analyst); low recruiter response rate (12%).",
+    "score_breakdown": {
+      "final_score": 0.4569,
+      "semantic_score": 0.4886,
+      "attribute_score": 0.4495,
+      "behavioral_score": 0.4323,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 1.0,
+        "title": 0.05,
+        "domain": 0.9,
+        "career_trajectory": 0.5,
+        "location": 0.4,
+        "education": 0.69
+      },
+      "behavioral_breakdown": {
+        "recency": 0.4387,
+        "responsiveness": 0.112,
+        "engagement": 0.7539,
+        "availability": 0.365,
+        "assessment": 0.3,
+        "social_proof": 0.6905,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Business Analyst",
+      "company": "Wayne Enterprises",
+      "experience": 6.0,
+      "location": "Austin"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000046",
+    "rank": 14,
+    "final_score": 0.4424669248793573,
+    "reasoning": "Mechanical Engineer at Hooli (7.8 yrs). skills include Scrum, SAP, Azure, React. 30-day notice period. Concerns: non-technical title (Mechanical Engineer).",
+    "score_breakdown": {
+      "final_score": 0.4425,
+      "semantic_score": 0.349,
+      "attribute_score": 0.4555,
+      "behavioral_score": 0.5311,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 1.0,
+        "title": 0.05,
+        "domain": 0.9,
+        "career_trajectory": 0.5,
+        "location": 0.4,
+        "education": 0.81
+      },
+      "behavioral_breakdown": {
+        "recency": 0.4125,
+        "responsiveness": 0.286,
+        "engagement": 0.9118,
+        "availability": 0.645,
+        "assessment": 0.3,
+        "social_proof": 0.5728,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Mechanical Engineer",
+      "company": "Hooli",
+      "experience": 7.8,
+      "location": "London"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000022",
+    "rank": 15,
+    "final_score": 0.4299669248667498,
+    "reasoning": "Currently Mechanical Engineer at Hooli (1.1 yrs), has relevant technical background. skills include Terraform, Scrum, AWS, SQL. open to work. Concerns: below target experience range (1.1 vs 5-9 yrs).",
+    "score_breakdown": {
+      "final_score": 0.43,
+      "semantic_score": 0.3815,
+      "attribute_score": 0.383,
+      "behavioral_score": 0.5727,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.215,
+        "title": 0.5,
+        "domain": 0.9,
+        "career_trajectory": 0.5,
+        "location": 0.2,
+        "education": 0.9
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7181,
+        "responsiveness": 0.442,
+        "engagement": 0.7208,
+        "availability": 0.645,
+        "assessment": 0.3,
+        "social_proof": 0.5325,
+        "verification": 0.3333
+      }
+    },
+    "profile_summary": {
+      "title": "Mechanical Engineer",
+      "company": "Hooli",
+      "experience": 1.1,
+      "location": "Sydney"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000027",
+    "rank": 16,
+    "final_score": 0.4285505271049399,
+    "reasoning": "DevOps Engineer at Infosys (3.9 yrs). 2/21 must-have skills matched (PEFT, YOLO, Weights & Biases, Data Science). open to work; 58% response rate. Concerns: primarily consulting background.",
+    "score_breakdown": {
+      "final_score": 0.4286,
+      "semantic_score": 0.4318,
+      "attribute_score": 0.2934,
+      "behavioral_score": 0.668,
+      "attribute_breakdown": {
+        "skills": 0.0455,
+        "experience": 0.635,
+        "title": 0.15,
+        "domain": 0.1,
+        "career_trajectory": 0.35,
+        "location": 0.5,
+        "education": 1.0
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7406,
+        "responsiveness": 0.468,
+        "engagement": 0.7585,
+        "availability": 0.79,
+        "assessment": 0.606,
+        "social_proof": 0.6302,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "DevOps Engineer",
+      "company": "Infosys",
+      "experience": 3.9,
+      "location": "Kolkata, West Bengal"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000025",
+    "rank": 17,
+    "final_score": 0.4283311940103418,
+    "reasoning": "Frontend Engineer at Tech Mahindra (7.3 yrs). skills include LangChain, JavaScript, Data Pipelines, Apache Flink. open to work; 74% response rate. Concerns: primarily consulting background.",
+    "score_breakdown": {
+      "final_score": 0.4283,
+      "semantic_score": 0.2849,
+      "attribute_score": 0.4005,
+      "behavioral_score": 0.6505,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 1.0,
+        "title": 0.15,
+        "domain": 0.1,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 0.61
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5527,
+        "responsiveness": 0.564,
+        "engagement": 0.8455,
+        "availability": 0.72,
+        "assessment": 0.44,
+        "social_proof": 0.707,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Frontend Engineer",
+      "company": "Tech Mahindra",
+      "experience": 7.3,
+      "location": "Vizag, Andhra Pradesh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000030",
+    "rank": 18,
+    "final_score": 0.428193012865529,
+    "reasoning": "Currently Marketing Manager at Dunder Mifflin (10.0 yrs), has relevant technical background. skills include Java, HTML, gRPC, Accounting. 66% response rate. Concerns: inactive for 231 days.",
+    "score_breakdown": {
+      "final_score": 0.4282,
+      "semantic_score": 0.3176,
+      "attribute_score": 0.5045,
+      "behavioral_score": 0.4236,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.65,
+        "title": 0.5,
+        "domain": 0.9,
+        "career_trajectory": 0.75,
+        "location": 0.5,
+        "education": 0.79
+      },
+      "behavioral_breakdown": {
+        "recency": 0.1689,
+        "responsiveness": 0.516,
+        "engagement": 0.517,
+        "availability": 0.58,
+        "assessment": 0.3,
+        "social_proof": 0.5029,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Marketing Manager",
+      "company": "Dunder Mifflin",
+      "experience": 10.0,
+      "location": "Kochi, Kerala"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000024",
+    "rank": 19,
+    "final_score": 0.4278132920309349,
+    "reasoning": "Currently HR Manager at TCS (7.5 yrs), has relevant technical background. skills include Forecasting, ETL, Node.js, Figma. 78% response rate. Concerns: primarily consulting background.",
+    "score_breakdown": {
+      "final_score": 0.4278,
+      "semantic_score": 0.2688,
+      "attribute_score": 0.4691,
+      "behavioral_score": 0.5443,
+      "attribute_breakdown": {
+        "skills": 0.0063,
+        "experience": 1.0,
+        "title": 0.5,
+        "domain": 0.1,
+        "career_trajectory": 0.75,
+        "location": 0.7,
+        "education": 0.85
+      },
+      "behavioral_breakdown": {
+        "recency": 0.3249,
+        "responsiveness": 0.508,
+        "engagement": 0.791,
+        "availability": 0.58,
+        "assessment": 0.691,
+        "social_proof": 0.7006,
+        "verification": 0.3333
+      }
+    },
+    "profile_summary": {
+      "title": "HR Manager",
+      "company": "TCS",
+      "experience": 7.5,
+      "location": "Trivandrum, Kerala"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000042",
+    "rank": 20,
+    "final_score": 0.4184620795259041,
+    "reasoning": "Currently HR Manager at Wayne Enterprises (5.0 yrs), has relevant technical background. skills include Marketing, YOLO, Project Management, Node.js. 58% response rate; 30-day notice period. Concerns: inactive for 235 days.",
+    "score_breakdown": {
+      "final_score": 0.4185,
+      "semantic_score": 0.3246,
+      "attribute_score": 0.429,
+      "behavioral_score": 0.5121,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.8,
+        "title": 0.5,
+        "domain": 0.35,
+        "career_trajectory": 0.6,
+        "location": 0.4,
+        "education": 0.73
+      },
+      "behavioral_breakdown": {
+        "recency": 0.1637,
+        "responsiveness": 0.628,
+        "engagement": 0.7231,
+        "availability": 0.72,
+        "assessment": 0.3,
+        "social_proof": 0.6575,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "HR Manager",
+      "company": "Wayne Enterprises",
+      "experience": 5.0,
+      "location": "Berlin"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000020",
+    "rank": 21,
+    "final_score": 0.4180526486029382,
+    "reasoning": "Currently Mechanical Engineer at Wipro (6.3 yrs), has relevant technical background. skills include Weights & Biases, GCP, HTML, GraphQL. 55% response rate; 30-day notice period. Concerns: inactive for 253 days.",
+    "score_breakdown": {
+      "final_score": 0.4181,
+      "semantic_score": 0.2432,
+      "attribute_score": 0.4965,
+      "behavioral_score": 0.4867,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 1.0,
+        "title": 0.5,
+        "domain": 0.35,
+        "career_trajectory": 0.75,
+        "location": 0.5,
+        "education": 0.88
+      },
+      "behavioral_breakdown": {
+        "recency": 0.1425,
+        "responsiveness": 0.37,
+        "engagement": 0.7675,
+        "availability": 0.645,
+        "assessment": 0.577,
+        "social_proof": 0.7415,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Mechanical Engineer",
+      "company": "Wipro",
+      "experience": 6.3,
+      "location": "Ahmedabad, Gujarat"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000005",
+    "rank": 22,
+    "final_score": 0.41368732337688174,
+    "reasoning": "Accountant at Stark Industries (11.0 yrs). skills include Image Classification, Tailwind, Apache Flink, SQL. open to work; 30-day notice period. Concerns: non-technical title (Accountant); inactive for 257 days.",
+    "score_breakdown": {
+      "final_score": 0.4137,
+      "semantic_score": 0.5384,
+      "attribute_score": 0.306,
+      "behavioral_score": 0.4579,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.6,
+        "title": 0.05,
+        "domain": 0.35,
+        "career_trajectory": 0.5,
+        "location": 0.7,
+        "education": 0.77
+      },
+      "behavioral_breakdown": {
+        "recency": 0.1382,
+        "responsiveness": 0.342,
+        "engagement": 0.6501,
+        "availability": 1.0,
+        "assessment": 0.3,
+        "social_proof": 0.441,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Accountant",
+      "company": "Stark Industries",
+      "experience": 11.0,
+      "location": "Gurgaon, Haryana"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000018",
+    "rank": 23,
+    "final_score": 0.4072418818464572,
+    "reasoning": "Frontend Engineer at Acme Corp (6.6 yrs). skills include CNN, Java, Accounting, Node.js. Concerns: low recruiter response rate (16%).",
+    "score_breakdown": {
+      "final_score": 0.4072,
+      "semantic_score": 0.2823,
+      "attribute_score": 0.4985,
+      "behavioral_score": 0.3929,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 1.0,
+        "title": 0.15,
+        "domain": 0.9,
+        "career_trajectory": 0.75,
+        "location": 0.5,
+        "education": 0.67
+      },
+      "behavioral_breakdown": {
+        "recency": 0.4062,
+        "responsiveness": 0.216,
+        "engagement": 0.6538,
+        "availability": 0.315,
+        "assessment": 0.3,
+        "social_proof": 0.7287,
+        "verification": 0.0
+      }
+    },
+    "profile_summary": {
+      "title": "Frontend Engineer",
+      "company": "Acme Corp",
+      "experience": 6.6,
+      "location": "Bhubaneswar, Odisha"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000045",
+    "rank": 24,
+    "final_score": 0.40529335331262384,
+    "reasoning": "Project Manager at Initech (12.2 yrs). skills include Redux, SAP, Airflow, Sales. open to work; 62% response rate. Concerns: non-technical title (Project Manager).",
+    "score_breakdown": {
+      "final_score": 0.4053,
+      "semantic_score": 0.3818,
+      "attribute_score": 0.303,
+      "behavioral_score": 0.6176,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.54,
+        "title": 0.05,
+        "domain": 0.35,
+        "career_trajectory": 0.6,
+        "location": 0.7,
+        "education": 0.75
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6701,
+        "responsiveness": 0.732,
+        "engagement": 0.3349,
+        "availability": 0.86,
+        "assessment": 0.3,
+        "social_proof": 0.4445,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Project Manager",
+      "company": "Initech",
+      "experience": 12.2,
+      "location": "Indore, Madhya Pradesh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000034",
+    "rank": 25,
+    "final_score": 0.40121824460514177,
+    "reasoning": "Currently Business Analyst at Wipro (14.5 yrs), has relevant technical background. skills include Excel, Flask, Next.js, Terraform. Concerns: above target experience range (14.5 vs 5-9 yrs); low recruiter response rate (15%).",
+    "score_breakdown": {
+      "final_score": 0.4012,
+      "semantic_score": 0.3657,
+      "attribute_score": 0.4245,
+      "behavioral_score": 0.4019,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.425,
+        "title": 0.5,
+        "domain": 0.6,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 0.49
+      },
+      "behavioral_breakdown": {
+        "recency": 0.285,
+        "responsiveness": 0.13,
+        "engagement": 0.7942,
+        "availability": 0.51,
+        "assessment": 0.3,
+        "social_proof": 0.4568,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Business Analyst",
+      "company": "Wipro",
+      "experience": 14.5,
+      "location": "Ahmedabad, Gujarat"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000002",
+    "rank": 26,
+    "final_score": 0.4002267221315504,
+    "reasoning": "Currently Operations Manager at Wipro (12.5 yrs), has relevant technical background. skills include Project Management, Feature Engineering, Photoshop, GCP. open to work. Concerns: inactive for 215 days.",
+    "score_breakdown": {
+      "final_score": 0.4002,
+      "semantic_score": 0.3846,
+      "attribute_score": 0.414,
+      "behavioral_score": 0.3941,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.525,
+        "title": 0.5,
+        "domain": 0.35,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 0.63
+      },
+      "behavioral_breakdown": {
+        "recency": 0.191,
+        "responsiveness": 0.214,
+        "engagement": 0.5955,
+        "availability": 0.86,
+        "assessment": 0.3,
+        "social_proof": 0.5527,
+        "verification": 0.0
+      }
+    },
+    "profile_summary": {
+      "title": "Operations Manager",
+      "company": "Wipro",
+      "experience": 12.5,
+      "location": "Chennai, Tamil Nadu"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000048",
+    "rank": 27,
+    "final_score": 0.3995471415956292,
+    "reasoning": "Mobile Developer at CRED (9.7 yrs). skills include Terraform, Content Writing, Vue.js, AWS. open to work; 65% response rate.",
+    "score_breakdown": {
+      "final_score": 0.3995,
+      "semantic_score": 0.19,
+      "attribute_score": 0.444,
+      "behavioral_score": 0.571,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.665,
+        "title": 0.15,
+        "domain": 0.6,
+        "career_trajectory": 1.0,
+        "location": 1.0,
+        "education": 0.82
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5833,
+        "responsiveness": 0.51,
+        "engagement": 0.7677,
+        "availability": 0.72,
+        "assessment": 0.3,
+        "social_proof": 0.533,
+        "verification": 0.3333
+      }
+    },
+    "profile_summary": {
+      "title": "Mobile Developer",
+      "company": "CRED",
+      "experience": 9.7,
+      "location": "Hyderabad, Telangana"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000029",
+    "rank": 28,
+    "final_score": 0.39761614374937176,
+    "reasoning": "Business Analyst at Wipro (7.2 yrs). skills include Tailwind, Spring Boot, gRPC, Hadoop. Concerns: non-technical title (Business Analyst); primarily consulting background.",
+    "score_breakdown": {
+      "final_score": 0.3976,
+      "semantic_score": 0.3588,
+      "attribute_score": 0.424,
+      "behavioral_score": 0.3967,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 1.0,
+        "title": 0.05,
+        "domain": 0.35,
+        "career_trajectory": 0.75,
+        "location": 1.0,
+        "education": 0.73
+      },
+      "behavioral_breakdown": {
+        "recency": 0.1361,
+        "responsiveness": 0.272,
+        "engagement": 0.7917,
+        "availability": 0.455,
+        "assessment": 0.3,
+        "social_proof": 0.5795,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Business Analyst",
+      "company": "Wipro",
+      "experience": 7.2,
+      "location": "Noida, Uttar Pradesh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000038",
+    "rank": 29,
+    "final_score": 0.3913214901737309,
+    "reasoning": "Java Developer at Swiggy (6.7 yrs). 1/21 must-have skills matched (Weaviate, Agile, Azure, GraphQL). open to work.",
+    "score_breakdown": {
+      "final_score": 0.3913,
+      "semantic_score": 0.1631,
+      "attribute_score": 0.4399,
+      "behavioral_score": 0.5777,
+      "attribute_breakdown": {
+        "skills": 0.0377,
+        "experience": 1.0,
+        "title": 0.15,
+        "domain": 0.6,
+        "career_trajectory": 0.5,
+        "location": 0.7,
+        "education": 0.51
+      },
+      "behavioral_breakdown": {
+        "recency": 0.557,
+        "responsiveness": 0.32,
+        "engagement": 0.7753,
+        "availability": 0.79,
+        "assessment": 0.3,
+        "social_proof": 0.7631,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Java Developer",
+      "company": "Swiggy",
+      "experience": 6.7,
+      "location": "Coimbatore, Tamil Nadu"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000016",
+    "rank": 30,
+    "final_score": 0.3899303814945063,
+    "reasoning": "Accountant at Infosys (5.3 yrs). skills include Kubeflow, SQL, Photoshop, Accounting. open to work; 64% response rate. Concerns: non-technical title (Accountant); primarily consulting background.",
+    "score_breakdown": {
+      "final_score": 0.3899,
+      "semantic_score": 0.4206,
+      "attribute_score": 0.3065,
+      "behavioral_score": 0.5033,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.8,
+        "title": 0.05,
+        "domain": 0.1,
+        "career_trajectory": 0.6,
+        "location": 0.5,
+        "education": 0.73
+      },
+      "behavioral_breakdown": {
+        "recency": 0.2579,
+        "responsiveness": 0.424,
+        "engagement": 0.8929,
+        "availability": 0.86,
+        "assessment": 0.3,
+        "social_proof": 0.4441,
+        "verification": 0.3333
+      }
+    },
+    "profile_summary": {
+      "title": "Accountant",
+      "company": "Infosys",
+      "experience": 5.3,
+      "location": "Gurgaon, Haryana"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000037",
+    "rank": 31,
+    "final_score": 0.38969473718247255,
+    "reasoning": "Business Analyst at Stark Industries (14.3 yrs). skills include Apache Beam, Tally, Databricks, Docker. 78% response rate; 30-day notice period. Concerns: above target experience range (14.3 vs 5-9 yrs); non-technical title (Business Analyst).",
+    "score_breakdown": {
+      "final_score": 0.3897,
+      "semantic_score": 0.4126,
+      "attribute_score": 0.3145,
+      "behavioral_score": 0.4976,
+      "attribute_breakdown": {
+        "skills": 0.0079,
+        "experience": 0.435,
+        "title": 0.05,
+        "domain": 0.6,
+        "career_trajectory": 0.75,
+        "location": 0.2,
+        "education": 0.81
+      },
+      "behavioral_breakdown": {
+        "recency": 0.2388,
+        "responsiveness": 0.588,
+        "engagement": 0.7396,
+        "availability": 0.595,
+        "assessment": 0.3,
+        "social_proof": 0.4015,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Business Analyst",
+      "company": "Stark Industries",
+      "experience": 14.3,
+      "location": "Dubai"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000050",
+    "rank": 32,
+    "final_score": 0.38423722321985176,
+    "reasoning": "Business Analyst at Infosys (13.5 yrs). skills include Feature Engineering, Excel, gRPC, SEO. Concerns: above target experience range (13.5 vs 5-9 yrs); non-technical title (Business Analyst).",
+    "score_breakdown": {
+      "final_score": 0.3842,
+      "semantic_score": 0.4861,
+      "attribute_score": 0.3,
+      "behavioral_score": 0.4136,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.475,
+        "title": 0.05,
+        "domain": 0.35,
+        "career_trajectory": 0.75,
+        "location": 0.5,
+        "education": 0.85
+      },
+      "behavioral_breakdown": {
+        "recency": 0.1625,
+        "responsiveness": 0.372,
+        "engagement": 0.6228,
+        "availability": 0.385,
+        "assessment": 0.648,
+        "social_proof": 0.4931,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Business Analyst",
+      "company": "Infosys",
+      "experience": 13.5,
+      "location": "Gurgaon, Haryana"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000035",
+    "rank": 33,
+    "final_score": 0.3769833887598455,
+    "reasoning": "Currently Full Stack Developer at Globex Inc (4.3 yrs), has relevant technical background. 1/21 must-have skills matched (BentoML, Next.js, PostgreSQL, Kafka).",
+    "score_breakdown": {
+      "final_score": 0.377,
+      "semantic_score": 0.2131,
+      "attribute_score": 0.4615,
+      "behavioral_score": 0.4215,
+      "attribute_breakdown": {
+        "skills": 0.0132,
+        "experience": 0.695,
+        "title": 0.6412,
+        "domain": 0.35,
+        "career_trajectory": 0.5,
+        "location": 1.0,
+        "education": 0.77
+      },
+      "behavioral_breakdown": {
+        "recency": 0.3704,
+        "responsiveness": 0.244,
+        "engagement": 0.6667,
+        "availability": 0.455,
+        "assessment": 0.3,
+        "social_proof": 0.485,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Full Stack Developer",
+      "company": "Globex Inc",
+      "experience": 4.3,
+      "location": "Hyderabad, Telangana"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000021",
+    "rank": 34,
+    "final_score": 0.3730208469103761,
+    "reasoning": "Project Manager at Wipro (14.5 yrs). 5/21 must-have skills matched (Fine-tuning LLMs, Prompt Engineering, Embeddings, Recommendation Systems). Concerns: above target experience range (14.5 vs 5-9 yrs); non-technical title (Project Manager).",
+    "score_breakdown": {
+      "final_score": 0.373,
+      "semantic_score": 0.4062,
+      "attribute_score": 0.3356,
+      "behavioral_score": 0.4006,
+      "attribute_breakdown": {
+        "skills": 0.0784,
+        "experience": 0.425,
+        "title": 0.05,
+        "domain": 0.35,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.67
+      },
+      "behavioral_breakdown": {
+        "recency": 0.2047,
+        "responsiveness": 0.414,
+        "engagement": 0.4808,
+        "availability": 0.58,
+        "assessment": 0.3,
+        "social_proof": 0.2746,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Project Manager",
+      "company": "Wipro",
+      "experience": 14.5,
+      "location": "Bhubaneswar, Odisha"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000039",
+    "rank": 35,
+    "final_score": 0.3719402251754441,
+    "reasoning": "Marketing Manager at Acme Corp (3.9 yrs). skills include Hadoop, Microservices, CI/CD, Spark. 52% response rate; 30-day notice period. Concerns: non-technical title (Marketing Manager).",
+    "score_breakdown": {
+      "final_score": 0.3719,
+      "semantic_score": 0.2381,
+      "attribute_score": 0.35,
+      "behavioral_score": 0.572,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.635,
+        "title": 0.05,
+        "domain": 0.35,
+        "career_trajectory": 0.85,
+        "location": 0.7,
+        "education": 0.81
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6398,
+        "responsiveness": 0.592,
+        "engagement": 0.4991,
+        "availability": 0.72,
+        "assessment": 0.3,
+        "social_proof": 0.475,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Marketing Manager",
+      "company": "Acme Corp",
+      "experience": 3.9,
+      "location": "Bhubaneswar, Odisha"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000032",
+    "rank": 36,
+    "final_score": 0.36860138938667925,
+    "reasoning": ".NET Developer at Cognizant (8.1 yrs). 2/21 must-have skills matched (OpenCV, Speech Recognition, Embeddings, CSS). 69% response rate.",
+    "score_breakdown": {
+      "final_score": 0.3686,
+      "semantic_score": 0.2896,
+      "attribute_score": 0.3792,
+      "behavioral_score": 0.4444,
+      "attribute_breakdown": {
+        "skills": 0.0367,
+        "experience": 0.8,
+        "title": 0.15,
+        "domain": 0.35,
+        "career_trajectory": 0.5,
+        "location": 0.7,
+        "education": 0.85
+      },
+      "behavioral_breakdown": {
+        "recency": 0.2743,
+        "responsiveness": 0.614,
+        "engagement": 0.5859,
+        "availability": 0.44,
+        "assessment": 0.3,
+        "social_proof": 0.5245,
+        "verification": 0.3333
+      }
+    },
+    "profile_summary": {
+      "title": ".NET Developer",
+      "company": "Cognizant",
+      "experience": 8.1,
+      "location": "Gurgaon, Haryana"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000011",
+    "rank": 37,
+    "final_score": 0.36757780529501405,
+    "reasoning": "QA Engineer at Pied Piper (2.0 yrs). 1/21 must-have skills matched (Kubeflow, Recommendation Systems, Spring Boot, PostgreSQL). 56% response rate. Concerns: below target experience range (2.0 vs 5-9 yrs).",
+    "score_breakdown": {
+      "final_score": 0.3676,
+      "semantic_score": 0.2868,
+      "attribute_score": 0.366,
+      "behavioral_score": 0.4674,
+      "attribute_breakdown": {
+        "skills": 0.0279,
+        "experience": 0.35,
+        "title": 0.15,
+        "domain": 0.9,
+        "career_trajectory": 0.35,
+        "location": 1.0,
+        "education": 0.78
+      },
+      "behavioral_breakdown": {
+        "recency": 0.3224,
+        "responsiveness": 0.376,
+        "engagement": 0.6072,
+        "availability": 0.51,
+        "assessment": 0.338,
+        "social_proof": 0.6021,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "QA Engineer",
+      "company": "Pied Piper",
+      "experience": 2.0,
+      "location": "Hyderabad, Telangana"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000043",
+    "rank": 38,
+    "final_score": 0.3660693498856105,
+    "reasoning": "Cloud Engineer at Swiggy (8.3 yrs). 3/21 must-have skills matched (Elasticsearch, OpenCV, Image Classification, Kubeflow). Concerns: low recruiter response rate (4%).",
+    "score_breakdown": {
+      "final_score": 0.3661,
+      "semantic_score": 0.1929,
+      "attribute_score": 0.4759,
+      "behavioral_score": 0.3762,
+      "attribute_breakdown": {
+        "skills": 0.0937,
+        "experience": 0.8,
+        "title": 0.15,
+        "domain": 0.6,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.75
+      },
+      "behavioral_breakdown": {
+        "recency": 0.2807,
+        "responsiveness": 0.064,
+        "engagement": 0.8495,
+        "availability": 0.365,
+        "assessment": 0.3,
+        "social_proof": 0.477,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Cloud Engineer",
+      "company": "Swiggy",
+      "experience": 8.3,
+      "location": "Chandigarh, Chandigarh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000041",
+    "rank": 39,
+    "final_score": 0.3604644308836243,
+    "reasoning": "Operations Manager at Hooli (13.7 yrs). skills include React, Airflow, SQL, Angular. open to work. Concerns: above target experience range (13.7 vs 5-9 yrs); non-technical title (Operations Manager).",
+    "score_breakdown": {
+      "final_score": 0.3605,
+      "semantic_score": 0.271,
+      "attribute_score": 0.3393,
+      "behavioral_score": 0.506,
+      "attribute_breakdown": {
+        "skills": 0.0032,
+        "experience": 0.465,
+        "title": 0.05,
+        "domain": 0.6,
+        "career_trajectory": 0.75,
+        "location": 0.7,
+        "education": 0.71
+      },
+      "behavioral_breakdown": {
+        "recency": 0.4962,
+        "responsiveness": 0.162,
+        "engagement": 0.7456,
+        "availability": 0.715,
+        "assessment": 0.3,
+        "social_proof": 0.5042,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Operations Manager",
+      "company": "Hooli",
+      "experience": 13.7,
+      "location": "Delhi, Delhi"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000004",
+    "rank": 40,
+    "final_score": 0.3533962767727631,
+    "reasoning": "Currently Marketing Manager at Dunder Mifflin (3.8 yrs), has relevant technical background. skills include JavaScript, Airflow, SAP, Object Detection.",
+    "score_breakdown": {
+      "final_score": 0.3534,
+      "semantic_score": 0.1956,
+      "attribute_score": 0.414,
+      "behavioral_score": 0.4336,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.62,
+        "title": 0.5,
+        "domain": 0.35,
+        "career_trajectory": 0.75,
+        "location": 0.4,
+        "education": 0.85
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5318,
+        "responsiveness": 0.276,
+        "engagement": 0.3898,
+        "availability": 0.315,
+        "assessment": 0.3,
+        "social_proof": 0.5975,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Marketing Manager",
+      "company": "Dunder Mifflin",
+      "experience": 3.8,
+      "location": "Sydney"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000017",
+    "rank": 41,
+    "final_score": 0.33701415611449476,
+    "reasoning": "Accountant at Wipro (12.3 yrs). skills include Tally, Java, PostgreSQL, Apache Flink. Concerns: non-technical title (Accountant); inactive for 223 days.",
+    "score_breakdown": {
+      "final_score": 0.337,
+      "semantic_score": 0.3364,
+      "attribute_score": 0.3445,
+      "behavioral_score": 0.3243,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.535,
+        "title": 0.05,
+        "domain": 0.6,
+        "career_trajectory": 0.75,
+        "location": 0.5,
+        "education": 0.75
+      },
+      "behavioral_breakdown": {
+        "recency": 0.1796,
+        "responsiveness": 0.202,
+        "engagement": 0.5655,
+        "availability": 0.51,
+        "assessment": 0.3,
+        "social_proof": 0.3102,
+        "verification": 0.3333
+      }
+    },
+    "profile_summary": {
+      "title": "Accountant",
+      "company": "Wipro",
+      "experience": 12.3,
+      "location": "Bangalore, Karnataka"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000009",
+    "rank": 42,
+    "final_score": 0.32750949163662907,
+    "reasoning": "Mechanical Engineer at Dunder Mifflin (11.0 yrs). skills include OpenCV, Go, Snowflake, PowerPoint. 53% response rate. Concerns: non-technical title (Mechanical Engineer).",
+    "score_breakdown": {
+      "final_score": 0.3275,
+      "semantic_score": 0.2734,
+      "attribute_score": 0.304,
+      "behavioral_score": 0.4347,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.6,
+        "title": 0.05,
+        "domain": 0.35,
+        "career_trajectory": 0.75,
+        "location": 0.2,
+        "education": 0.73
+      },
+      "behavioral_breakdown": {
+        "recency": 0.3429,
+        "responsiveness": 0.358,
+        "engagement": 0.7366,
+        "availability": 0.365,
+        "assessment": 0.3,
+        "social_proof": 0.488,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Mechanical Engineer",
+      "company": "Dunder Mifflin",
+      "experience": 11.0,
+      "location": "New York"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000047",
+    "rank": 43,
+    "final_score": 0.31722461247935796,
+    "reasoning": "Project Manager at TCS (2.4 yrs). skills include SQL, Excel, Tally, Java. Concerns: below target experience range (2.4 vs 5-9 yrs); non-technical title (Project Manager).",
+    "score_breakdown": {
+      "final_score": 0.3172,
+      "semantic_score": 0.3336,
+      "attribute_score": 0.2075,
+      "behavioral_score": 0.4951,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.41,
+        "title": 0.05,
+        "domain": 0.1,
+        "career_trajectory": 0.5,
+        "location": 0.5,
+        "education": 0.51
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5197,
+        "responsiveness": 0.354,
+        "engagement": 0.757,
+        "availability": 0.435,
+        "assessment": 0.3,
+        "social_proof": 0.5225,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Project Manager",
+      "company": "TCS",
+      "experience": 2.4,
+      "location": "Kochi, Kerala"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000012",
+    "rank": 44,
+    "final_score": 0.3130630302398344,
+    "reasoning": "Operations Manager at Stark Industries (1.1 yrs). skills include AWS, dbt, Agile, Content Writing. Concerns: below target experience range (1.1 vs 5-9 yrs); non-technical title (Operations Manager).",
+    "score_breakdown": {
+      "final_score": 0.3131,
+      "semantic_score": 0.4393,
+      "attribute_score": 0.19,
+      "behavioral_score": 0.383,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.215,
+        "title": 0.05,
+        "domain": 0.35,
+        "career_trajectory": 0.25,
+        "location": 0.5,
+        "education": 0.69
+      },
+      "behavioral_breakdown": {
+        "recency": 0.1702,
+        "responsiveness": 0.376,
+        "engagement": 0.5589,
+        "availability": 0.58,
+        "assessment": 0.3,
+        "social_proof": 0.478,
+        "verification": 0.3333
+      }
+    },
+    "profile_summary": {
+      "title": "Operations Manager",
+      "company": "Stark Industries",
+      "experience": 1.1,
+      "location": "Chandigarh, Chandigarh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000008",
+    "rank": 45,
+    "final_score": 0.31082883751928364,
+    "reasoning": "Operations Manager at Wipro (3.6 yrs). skills include TypeScript, Rust, Java, Kubernetes. Concerns: non-technical title (Operations Manager); primarily consulting background.",
+    "score_breakdown": {
+      "final_score": 0.3108,
+      "semantic_score": 0.2697,
+      "attribute_score": 0.286,
+      "behavioral_score": 0.4049,
+      "attribute_breakdown": {
+        "skills": 0.0079,
+        "experience": 0.59,
+        "title": 0.05,
+        "domain": 0.1,
+        "career_trajectory": 0.5,
+        "location": 1.0,
+        "education": 0.82
+      },
+      "behavioral_breakdown": {
+        "recency": 0.2425,
+        "responsiveness": 0.372,
+        "engagement": 0.8525,
+        "availability": 0.385,
+        "assessment": 0.3,
+        "social_proof": 0.376,
+        "verification": 0.3333
+      }
+    },
+    "profile_summary": {
+      "title": "Operations Manager",
+      "company": "Wipro",
+      "experience": 3.6,
+      "location": "Noida, Uttar Pradesh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000036",
+    "rank": 46,
+    "final_score": 0.30780023964402425,
+    "reasoning": "Project Manager at Initech (11.3 yrs). skills include Object Detection, Excel, Vue.js, Figma. open to work. Concerns: non-technical title (Project Manager); inactive for 185 days.",
+    "score_breakdown": {
+      "final_score": 0.3078,
+      "semantic_score": 0.0941,
+      "attribute_score": 0.3715,
+      "behavioral_score": 0.4496,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.585,
+        "title": 0.05,
+        "domain": 0.6,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 0.59
+      },
+      "behavioral_breakdown": {
+        "recency": 0.2406,
+        "responsiveness": 0.28,
+        "engagement": 0.8863,
+        "availability": 0.785,
+        "assessment": 0.3,
+        "social_proof": 0.361,
+        "verification": 0.3333
+      }
+    },
+    "profile_summary": {
+      "title": "Project Manager",
+      "company": "Initech",
+      "experience": 11.3,
+      "location": "Trivandrum, Kerala"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000013",
+    "rank": 47,
+    "final_score": 0.29697281913260787,
+    "reasoning": "Civil Engineer at Globex Inc (1.1 yrs). skills include Flask, Redux, Spark, Data Pipelines. open to work; 30-day notice period. Concerns: below target experience range (1.1 vs 5-9 yrs); non-technical title (Civil Engineer).",
+    "score_breakdown": {
+      "final_score": 0.297,
+      "semantic_score": 0.2875,
+      "attribute_score": 0.183,
+      "behavioral_score": 0.5135,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.215,
+        "title": 0.05,
+        "domain": 0.35,
+        "career_trajectory": 0.25,
+        "location": 0.2,
+        "education": 0.85
+      },
+      "behavioral_breakdown": {
+        "recency": 0.536,
+        "responsiveness": 0.288,
+        "engagement": 0.5447,
+        "availability": 0.925,
+        "assessment": 0.3,
+        "social_proof": 0.5484,
+        "verification": 0.3333
+      }
+    },
+    "profile_summary": {
+      "title": "Civil Engineer",
+      "company": "Globex Inc",
+      "experience": 1.1,
+      "location": "Dubai"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000003",
+    "rank": 48,
+    "final_score": 0.2864639273140646,
+    "reasoning": "Customer Support at TCS (1.1 yrs). skills include Angular, Excel, Kubernetes, Databricks. Concerns: below target experience range (1.1 vs 5-9 yrs); non-technical title (Customer Support).",
+    "score_breakdown": {
+      "final_score": 0.2865,
+      "semantic_score": 0.3755,
+      "attribute_score": 0.1435,
+      "behavioral_score": 0.437,
+      "attribute_breakdown": {
+        "skills": 0.0079,
+        "experience": 0.215,
+        "title": 0.05,
+        "domain": 0.1,
+        "career_trajectory": 0.25,
+        "location": 0.2,
+        "education": 0.77
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5157,
+        "responsiveness": 0.396,
+        "engagement": 0.4277,
+        "availability": 0.44,
+        "assessment": 0.3,
+        "social_proof": 0.5203,
+        "verification": 0.3333
+      }
+    },
+    "profile_summary": {
+      "title": "Customer Support",
+      "company": "TCS",
+      "experience": 1.1,
+      "location": "Austin"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000040",
+    "rank": 49,
+    "final_score": 0.2653837689457861,
+    "reasoning": "Customer Support at Globex Inc (1.6 yrs). skills include Spring Boot, Accounting, SAP, Weights & Biases. Concerns: below target experience range (1.6 vs 5-9 yrs); non-technical title (Customer Support).",
+    "score_breakdown": {
+      "final_score": 0.2654,
+      "semantic_score": 0.2203,
+      "attribute_score": 0.205,
+      "behavioral_score": 0.4282,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.29,
+        "title": 0.05,
+        "domain": 0.35,
+        "career_trajectory": 0.35,
+        "location": 0.5,
+        "education": 0.49
+      },
+      "behavioral_breakdown": {
+        "recency": 0.3536,
+        "responsiveness": 0.316,
+        "engagement": 0.7782,
+        "availability": 0.435,
+        "assessment": 0.3,
+        "social_proof": 0.4797,
+        "verification": 0.3333
+      }
+    },
+    "profile_summary": {
+      "title": "Customer Support",
+      "company": "Globex Inc",
+      "experience": 1.6,
+      "location": "Kochi, Kerala"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000028",
+    "rank": 50,
+    "final_score": 0.2072404865696575,
+    "reasoning": "Operations Manager at Wipro (1.1 yrs). skills include Photoshop, Terraform, CNN, REST APIs. Concerns: below target experience range (1.1 vs 5-9 yrs); non-technical title (Operations Manager).",
+    "score_breakdown": {
+      "final_score": 0.2072,
+      "semantic_score": 0.0,
+      "attribute_score": 0.1785,
+      "behavioral_score": 0.5077,
+      "attribute_breakdown": {
+        "skills": 0.0,
+        "experience": 0.215,
+        "title": 0.05,
+        "domain": 0.1,
+        "career_trajectory": 0.5,
+        "location": 0.4,
+        "education": 0.81
+      },
+      "behavioral_breakdown": {
+        "recency": 0.557,
+        "responsiveness": 0.444,
+        "engagement": 0.6252,
+        "availability": 0.505,
+        "assessment": 0.3,
+        "social_proof": 0.4675,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Operations Manager",
+      "company": "Wipro",
+      "experience": 1.1,
+      "location": "Dubai"
+    }
+  }
+]
