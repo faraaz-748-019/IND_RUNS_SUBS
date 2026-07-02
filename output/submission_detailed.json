@@ -1,1802 +1,3602 @@
 [
   {
-    "candidate_id": "CAND_0000031",
+    "candidate_id": "CAND_0018499",
     "rank": 1,
-    "final_score": 0.7880305883119013,
-    "reasoning": "Currently Recommendation Systems Engineer at Swiggy (6.0 yrs), has relevant technical background. 6/21 must-have skills matched (Embeddings, Pinecone, Hugging Face Transformers, Sentence Transformers). open to work; 91% response rate; recently active.",
+    "final_score": 0.8418985399368846,
+    "reasoning": "Senior Machine Learning Engineer at Zomato with 7.2 yrs experience. 7/21 must-have skills matched (scikit-learn, Recommendation Systems, Learning to Rank, Embeddings). open to work; 61% response rate; 15-day notice period.",
     "score_breakdown": {
-      "final_score": 0.788,
-      "semantic_score": 1.0,
-      "attribute_score": 0.6626,
-      "behavioral_score": 0.7595,
+      "final_score": 0.8419,
+      "semantic_score": 0.9137,
+      "attribute_score": 0.8016,
+      "behavioral_score": 0.8282,
       "attribute_breakdown": {
-        "skills": 0.1904,
-        "experience": 1.0,
-        "title": 0.82,
-        "domain": 0.6,
-        "career_trajectory": 0.75,
-        "location": 1.0,
-        "education": 0.72
-      },
-      "behavioral_breakdown": {
-        "recency": 0.8442,
-        "responsiveness": 0.666,
-        "engagement": 0.7919,
-        "availability": 0.86,
-        "assessment": 0.7955,
-        "social_proof": 0.7122,
-        "verification": 0.3333
-      }
-    },
-    "profile_summary": {
-      "title": "Recommendation Systems Engineer",
-      "company": "Swiggy",
-      "experience": 6.0,
-      "location": "Hyderabad, Telangana"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000001",
-    "rank": 2,
-    "final_score": 0.5580640357895915,
-    "reasoning": "Backend Engineer at Mindtree with 6.9 yrs experience. 2/21 must-have skills matched (TTS, Speech Recognition, Milvus, NLP). open to work; recently active.",
-    "score_breakdown": {
-      "final_score": 0.5581,
-      "semantic_score": 0.3981,
-      "attribute_score": 0.6194,
-      "behavioral_score": 0.6396,
-      "attribute_breakdown": {
-        "skills": 0.0818,
+        "skills": 0.2825,
         "experience": 1.0,
         "title": 1.0,
-        "domain": 0.35,
+        "domain": 0.9,
         "career_trajectory": 1.0,
-        "location": 0.2,
-        "education": 0.73
-      },
-      "behavioral_breakdown": {
-        "recency": 0.8186,
-        "responsiveness": 0.244,
-        "engagement": 0.8041,
-        "availability": 0.735,
-        "assessment": 0.6573,
-        "social_proof": 0.5619,
-        "verification": 0.6667
-      }
-    },
-    "profile_summary": {
-      "title": "Backend Engineer",
-      "company": "Mindtree",
-      "experience": 6.9,
-      "location": "Toronto"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000023",
-    "rank": 3,
-    "final_score": 0.5191401253594907,
-    "reasoning": "Software Engineer at Acme Corp with 3.7 yrs experience. skills include Node.js, Rust, Marketing, Django. 57% response rate; 30-day notice period.",
-    "score_breakdown": {
-      "final_score": 0.5191,
-      "semantic_score": 0.3859,
-      "attribute_score": 0.567,
-      "behavioral_score": 0.5929,
-      "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.605,
-        "title": 1.0,
-        "domain": 0.9,
-        "career_trajectory": 0.6,
-        "location": 0.2,
-        "education": 0.82
-      },
-      "behavioral_breakdown": {
-        "recency": 0.5833,
-        "responsiveness": 0.542,
-        "engagement": 0.5775,
-        "availability": 0.72,
-        "assessment": 0.3,
-        "social_proof": 0.807,
-        "verification": 0.6667
-      }
-    },
-    "profile_summary": {
-      "title": "Software Engineer",
-      "company": "Acme Corp",
-      "experience": 3.7,
-      "location": "New York"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000015",
-    "rank": 4,
-    "final_score": 0.5062399006097236,
-    "reasoning": "Software Engineer at Razorpay with 5.4 yrs experience. 1/21 must-have skills matched (Qdrant, Sales, Next.js, PyTorch). open to work.",
-    "score_breakdown": {
-      "final_score": 0.5062,
-      "semantic_score": 0.2761,
-      "attribute_score": 0.6501,
-      "behavioral_score": 0.5234,
-      "attribute_breakdown": {
-        "skills": 0.0225,
-        "experience": 0.8,
-        "title": 1.0,
-        "domain": 0.9,
-        "career_trajectory": 0.85,
-        "location": 0.5,
-        "education": 0.79
-      },
-      "behavioral_breakdown": {
-        "recency": 0.3879,
-        "responsiveness": 0.312,
-        "engagement": 0.8279,
-        "availability": 0.715,
-        "assessment": 0.3,
-        "social_proof": 0.693,
-        "verification": 0.6667
-      }
-    },
-    "profile_summary": {
-      "title": "Software Engineer",
-      "company": "Razorpay",
-      "experience": 5.4,
-      "location": "Trivandrum, Kerala"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000014",
-    "rank": 5,
-    "final_score": 0.49621178892593804,
-    "reasoning": "Currently Frontend Engineer at Zomato (8.4 yrs), has relevant technical background. 3/21 must-have skills matched (OpenSearch, FAISS, OpenCV, GANs). 80% response rate.",
-    "score_breakdown": {
-      "final_score": 0.4962,
-      "semantic_score": 0.3311,
-      "attribute_score": 0.5324,
-      "behavioral_score": 0.6293,
-      "attribute_breakdown": {
-        "skills": 0.08,
-        "experience": 0.8,
-        "title": 0.692,
-        "domain": 0.35,
-        "career_trajectory": 0.75,
         "location": 1.0,
-        "education": 0.73
-      },
-      "behavioral_breakdown": {
-        "recency": 0.6109,
-        "responsiveness": 0.88,
-        "engagement": 0.4907,
-        "availability": 0.435,
-        "assessment": 0.816,
-        "social_proof": 0.4675,
-        "verification": 0.6667
-      }
-    },
-    "profile_summary": {
-      "title": "Frontend Engineer",
-      "company": "Zomato",
-      "experience": 8.4,
-      "location": "Hyderabad, Telangana"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000033",
-    "rank": 6,
-    "final_score": 0.4861340635030229,
-    "reasoning": "Graphic Designer at Wipro (8.6 yrs). skills include TypeScript, Content Writing, Snowflake, CI/CD. open to work; 30-day notice period. Concerns: non-technical title (Graphic Designer); low recruiter response rate (8%).",
-    "score_breakdown": {
-      "final_score": 0.4861,
-      "semantic_score": 0.6456,
-      "attribute_score": 0.3588,
-      "behavioral_score": 0.524,
-      "attribute_breakdown": {
-        "skills": 0.0032,
-        "experience": 0.8,
-        "title": 0.05,
-        "domain": 0.35,
-        "career_trajectory": 0.5,
-        "location": 1.0,
-        "education": 0.71
-      },
-      "behavioral_breakdown": {
-        "recency": 0.5401,
-        "responsiveness": 0.088,
-        "engagement": 0.905,
-        "availability": 0.925,
-        "assessment": 0.3,
-        "social_proof": 0.5021,
-        "verification": 0.3333
-      }
-    },
-    "profile_summary": {
-      "title": "Graphic Designer",
-      "company": "Wipro",
-      "experience": 8.6,
-      "location": "Pune, Maharashtra"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000026",
-    "rank": 7,
-    "final_score": 0.4788086340886605,
-    "reasoning": "Currently Graphic Designer at Initech (6.8 yrs), has relevant technical background. skills include Kubeflow, Kubernetes, Airflow, Apache Beam. 59% response rate; 30-day notice period. Concerns: inactive for 255 days.",
-    "score_breakdown": {
-      "final_score": 0.4788,
-      "semantic_score": 0.2907,
-      "attribute_score": 0.5743,
-      "behavioral_score": 0.5327,
-      "attribute_breakdown": {
-        "skills": 0.0111,
-        "experience": 1.0,
-        "title": 0.5,
-        "domain": 0.9,
-        "career_trajectory": 0.75,
-        "location": 0.5,
-        "education": 0.73
-      },
-      "behavioral_breakdown": {
-        "recency": 0.1404,
-        "responsiveness": 0.634,
-        "engagement": 0.931,
-        "availability": 0.72,
-        "assessment": 0.3,
-        "social_proof": 0.5985,
-        "verification": 0.6667
-      }
-    },
-    "profile_summary": {
-      "title": "Graphic Designer",
-      "company": "Initech",
-      "experience": 6.8,
-      "location": "Kochi, Kerala"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000019",
-    "rank": 8,
-    "final_score": 0.47770555174864104,
-    "reasoning": "Project Manager at Wayne Enterprises (6.5 yrs). skills include Figma, AWS, YOLO, Azure. recently active. Concerns: non-technical title (Project Manager).",
-    "score_breakdown": {
-      "final_score": 0.4777,
-      "semantic_score": 0.4698,
-      "attribute_score": 0.4355,
-      "behavioral_score": 0.5631,
-      "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 1.0,
-        "title": 0.05,
-        "domain": 0.35,
-        "career_trajectory": 1.0,
-        "location": 0.5,
-        "education": 0.96
-      },
-      "behavioral_breakdown": {
-        "recency": 0.8249,
-        "responsiveness": 0.324,
-        "engagement": 0.7851,
-        "availability": 0.58,
-        "assessment": 0.3,
-        "social_proof": 0.4065,
-        "verification": 0.3333
-      }
-    },
-    "profile_summary": {
-      "title": "Project Manager",
-      "company": "Wayne Enterprises",
-      "experience": 6.5,
-      "location": "Trivandrum, Kerala"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000049",
-    "rank": 9,
-    "final_score": 0.47713426990603647,
-    "reasoning": "Mechanical Engineer at Wayne Enterprises (11.8 yrs). skills include GraphQL, Kubernetes, Rust, Apache Beam. 59% response rate. Concerns: non-technical title (Mechanical Engineer).",
-    "score_breakdown": {
-      "final_score": 0.4771,
-      "semantic_score": 0.6689,
-      "attribute_score": 0.3145,
-      "behavioral_score": 0.5398,
-      "attribute_breakdown": {
-        "skills": 0.0079,
-        "experience": 0.56,
-        "title": 0.05,
-        "domain": 0.6,
-        "career_trajectory": 0.5,
-        "location": 0.2,
-        "education": 0.81
+        "education": 0.92
       },
       "behavioral_breakdown": {
         "recency": 0.7756,
-        "responsiveness": 0.474,
-        "engagement": 0.584,
-        "availability": 0.315,
-        "assessment": 0.3,
-        "social_proof": 0.529,
-        "verification": 0.6667
-      }
-    },
-    "profile_summary": {
-      "title": "Mechanical Engineer",
-      "company": "Wayne Enterprises",
-      "experience": 11.8,
-      "location": "Berlin"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000010",
-    "rank": 10,
-    "final_score": 0.474616862731455,
-    "reasoning": "Data Engineer at Ola (4.6 yrs). 3/21 must-have skills matched (GANs, Object Detection, BM25, Prompt Engineering).",
-    "score_breakdown": {
-      "final_score": 0.4746,
-      "semantic_score": 0.4744,
-      "attribute_score": 0.366,
-      "behavioral_score": 0.6704,
-      "attribute_breakdown": {
-        "skills": 0.068,
-        "experience": 0.74,
-        "title": 0.15,
-        "domain": 0.35,
-        "career_trajectory": 0.75,
-        "location": 0.2,
-        "education": 0.67
-      },
-      "behavioral_breakdown": {
-        "recency": 0.6964,
-        "responsiveness": 0.6,
-        "engagement": 0.9356,
-        "availability": 0.44,
-        "assessment": 0.8448,
-        "social_proof": 0.5219,
-        "verification": 0.6667
-      }
-    },
-    "profile_summary": {
-      "title": "Data Engineer",
-      "company": "Ola",
-      "experience": 4.6,
-      "location": "London"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000044",
-    "rank": 11,
-    "final_score": 0.4692186330614932,
-    "reasoning": "Frontend Engineer at Tech Mahindra (5.7 yrs). 1/21 must-have skills matched (dbt, Python, Databricks, CI/CD). 66% response rate. Concerns: inactive for 186 days.",
-    "score_breakdown": {
-      "final_score": 0.4692,
-      "semantic_score": 0.6092,
-      "attribute_score": 0.396,
-      "behavioral_score": 0.433,
-      "attribute_breakdown": {
-        "skills": 0.01,
-        "experience": 0.8,
-        "title": 0.15,
-        "domain": 0.6,
-        "career_trajectory": 0.5,
-        "location": 0.5,
-        "education": 0.77
-      },
-      "behavioral_breakdown": {
-        "recency": 0.2388,
-        "responsiveness": 0.436,
-        "engagement": 0.7571,
-        "availability": 0.435,
-        "assessment": 0.3,
-        "social_proof": 0.6063,
-        "verification": 0.3333
-      }
-    },
-    "profile_summary": {
-      "title": "Frontend Engineer",
-      "company": "Tech Mahindra",
-      "experience": 5.7,
-      "location": "Indore, Madhya Pradesh"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000007",
-    "rank": 12,
-    "final_score": 0.4664402804472384,
-    "reasoning": "Civil Engineer at Wipro (5.5 yrs). skills include MongoDB, Sales, Spark, Illustrator. 62% response rate; recently active; 30-day notice period. Concerns: non-technical title (Civil Engineer).",
-    "score_breakdown": {
-      "final_score": 0.4664,
-      "semantic_score": 0.4026,
-      "attribute_score": 0.415,
-      "behavioral_score": 0.6356,
-      "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.8,
-        "title": 0.05,
-        "domain": 0.6,
-        "career_trajectory": 0.75,
-        "location": 0.7,
-        "education": 0.9
-      },
-      "behavioral_breakdown": {
-        "recency": 0.8507,
-        "responsiveness": 0.572,
-        "engagement": 0.5311,
-        "availability": 0.595,
-        "assessment": 0.3,
-        "social_proof": 0.5962,
+        "responsiveness": 0.566,
+        "engagement": 0.993,
+        "availability": 0.925,
+        "assessment": 0.912,
+        "social_proof": 0.9221,
         "verification": 1.0
       }
     },
     "profile_summary": {
-      "title": "Civil Engineer",
-      "company": "Wipro",
-      "experience": 5.5,
-      "location": "Gurgaon, Haryana"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000006",
-    "rank": 13,
-    "final_score": 0.4569187070549235,
-    "reasoning": "Business Analyst at Wayne Enterprises (6.0 yrs). skills include SEO, Sales, Django, Content Writing. Concerns: non-technical title (Business Analyst); low recruiter response rate (12%).",
-    "score_breakdown": {
-      "final_score": 0.4569,
-      "semantic_score": 0.4886,
-      "attribute_score": 0.4495,
-      "behavioral_score": 0.4323,
-      "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 1.0,
-        "title": 0.05,
-        "domain": 0.9,
-        "career_trajectory": 0.5,
-        "location": 0.4,
-        "education": 0.69
-      },
-      "behavioral_breakdown": {
-        "recency": 0.4387,
-        "responsiveness": 0.112,
-        "engagement": 0.7539,
-        "availability": 0.365,
-        "assessment": 0.3,
-        "social_proof": 0.6905,
-        "verification": 0.6667
-      }
-    },
-    "profile_summary": {
-      "title": "Business Analyst",
-      "company": "Wayne Enterprises",
-      "experience": 6.0,
-      "location": "Austin"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000046",
-    "rank": 14,
-    "final_score": 0.4424669248793573,
-    "reasoning": "Mechanical Engineer at Hooli (7.8 yrs). skills include Scrum, SAP, Azure, React. 30-day notice period. Concerns: non-technical title (Mechanical Engineer).",
-    "score_breakdown": {
-      "final_score": 0.4425,
-      "semantic_score": 0.349,
-      "attribute_score": 0.4555,
-      "behavioral_score": 0.5311,
-      "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 1.0,
-        "title": 0.05,
-        "domain": 0.9,
-        "career_trajectory": 0.5,
-        "location": 0.4,
-        "education": 0.81
-      },
-      "behavioral_breakdown": {
-        "recency": 0.4125,
-        "responsiveness": 0.286,
-        "engagement": 0.9118,
-        "availability": 0.645,
-        "assessment": 0.3,
-        "social_proof": 0.5728,
-        "verification": 1.0
-      }
-    },
-    "profile_summary": {
-      "title": "Mechanical Engineer",
-      "company": "Hooli",
-      "experience": 7.8,
-      "location": "London"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000022",
-    "rank": 15,
-    "final_score": 0.4299669248667498,
-    "reasoning": "Currently Mechanical Engineer at Hooli (1.1 yrs), has relevant technical background. skills include Terraform, Scrum, AWS, SQL. open to work. Concerns: below target experience range (1.1 vs 5-9 yrs).",
-    "score_breakdown": {
-      "final_score": 0.43,
-      "semantic_score": 0.3815,
-      "attribute_score": 0.383,
-      "behavioral_score": 0.5727,
-      "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.215,
-        "title": 0.5,
-        "domain": 0.9,
-        "career_trajectory": 0.5,
-        "location": 0.2,
-        "education": 0.9
-      },
-      "behavioral_breakdown": {
-        "recency": 0.7181,
-        "responsiveness": 0.442,
-        "engagement": 0.7208,
-        "availability": 0.645,
-        "assessment": 0.3,
-        "social_proof": 0.5325,
-        "verification": 0.3333
-      }
-    },
-    "profile_summary": {
-      "title": "Mechanical Engineer",
-      "company": "Hooli",
-      "experience": 1.1,
-      "location": "Sydney"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000027",
-    "rank": 16,
-    "final_score": 0.4285505271049399,
-    "reasoning": "DevOps Engineer at Infosys (3.9 yrs). 2/21 must-have skills matched (PEFT, YOLO, Weights & Biases, Data Science). open to work; 58% response rate. Concerns: primarily consulting background.",
-    "score_breakdown": {
-      "final_score": 0.4286,
-      "semantic_score": 0.4318,
-      "attribute_score": 0.2934,
-      "behavioral_score": 0.668,
-      "attribute_breakdown": {
-        "skills": 0.0455,
-        "experience": 0.635,
-        "title": 0.15,
-        "domain": 0.1,
-        "career_trajectory": 0.35,
-        "location": 0.5,
-        "education": 1.0
-      },
-      "behavioral_breakdown": {
-        "recency": 0.7406,
-        "responsiveness": 0.468,
-        "engagement": 0.7585,
-        "availability": 0.79,
-        "assessment": 0.606,
-        "social_proof": 0.6302,
-        "verification": 0.6667
-      }
-    },
-    "profile_summary": {
-      "title": "DevOps Engineer",
-      "company": "Infosys",
-      "experience": 3.9,
-      "location": "Kolkata, West Bengal"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000025",
-    "rank": 17,
-    "final_score": 0.4283311940103418,
-    "reasoning": "Frontend Engineer at Tech Mahindra (7.3 yrs). skills include LangChain, JavaScript, Data Pipelines, Apache Flink. open to work; 74% response rate. Concerns: primarily consulting background.",
-    "score_breakdown": {
-      "final_score": 0.4283,
-      "semantic_score": 0.2849,
-      "attribute_score": 0.4005,
-      "behavioral_score": 0.6505,
-      "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 1.0,
-        "title": 0.15,
-        "domain": 0.1,
-        "career_trajectory": 1.0,
-        "location": 0.5,
-        "education": 0.61
-      },
-      "behavioral_breakdown": {
-        "recency": 0.5527,
-        "responsiveness": 0.564,
-        "engagement": 0.8455,
-        "availability": 0.72,
-        "assessment": 0.44,
-        "social_proof": 0.707,
-        "verification": 1.0
-      }
-    },
-    "profile_summary": {
-      "title": "Frontend Engineer",
-      "company": "Tech Mahindra",
-      "experience": 7.3,
-      "location": "Vizag, Andhra Pradesh"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000030",
-    "rank": 18,
-    "final_score": 0.428193012865529,
-    "reasoning": "Currently Marketing Manager at Dunder Mifflin (10.0 yrs), has relevant technical background. skills include Java, HTML, gRPC, Accounting. 66% response rate. Concerns: inactive for 231 days.",
-    "score_breakdown": {
-      "final_score": 0.4282,
-      "semantic_score": 0.3176,
-      "attribute_score": 0.5045,
-      "behavioral_score": 0.4236,
-      "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.65,
-        "title": 0.5,
-        "domain": 0.9,
-        "career_trajectory": 0.75,
-        "location": 0.5,
-        "education": 0.79
-      },
-      "behavioral_breakdown": {
-        "recency": 0.1689,
-        "responsiveness": 0.516,
-        "engagement": 0.517,
-        "availability": 0.58,
-        "assessment": 0.3,
-        "social_proof": 0.5029,
-        "verification": 0.6667
-      }
-    },
-    "profile_summary": {
-      "title": "Marketing Manager",
-      "company": "Dunder Mifflin",
-      "experience": 10.0,
-      "location": "Kochi, Kerala"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000024",
-    "rank": 19,
-    "final_score": 0.4278132920309349,
-    "reasoning": "Currently HR Manager at TCS (7.5 yrs), has relevant technical background. skills include Forecasting, ETL, Node.js, Figma. 78% response rate. Concerns: primarily consulting background.",
-    "score_breakdown": {
-      "final_score": 0.4278,
-      "semantic_score": 0.2688,
-      "attribute_score": 0.4691,
-      "behavioral_score": 0.5443,
-      "attribute_breakdown": {
-        "skills": 0.0063,
-        "experience": 1.0,
-        "title": 0.5,
-        "domain": 0.1,
-        "career_trajectory": 0.75,
-        "location": 0.7,
-        "education": 0.85
-      },
-      "behavioral_breakdown": {
-        "recency": 0.3249,
-        "responsiveness": 0.508,
-        "engagement": 0.791,
-        "availability": 0.58,
-        "assessment": 0.691,
-        "social_proof": 0.7006,
-        "verification": 0.3333
-      }
-    },
-    "profile_summary": {
-      "title": "HR Manager",
-      "company": "TCS",
-      "experience": 7.5,
-      "location": "Trivandrum, Kerala"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000042",
-    "rank": 20,
-    "final_score": 0.4184620795259041,
-    "reasoning": "Currently HR Manager at Wayne Enterprises (5.0 yrs), has relevant technical background. skills include Marketing, YOLO, Project Management, Node.js. 58% response rate; 30-day notice period. Concerns: inactive for 235 days.",
-    "score_breakdown": {
-      "final_score": 0.4185,
-      "semantic_score": 0.3246,
-      "attribute_score": 0.429,
-      "behavioral_score": 0.5121,
-      "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.8,
-        "title": 0.5,
-        "domain": 0.35,
-        "career_trajectory": 0.6,
-        "location": 0.4,
-        "education": 0.73
-      },
-      "behavioral_breakdown": {
-        "recency": 0.1637,
-        "responsiveness": 0.628,
-        "engagement": 0.7231,
-        "availability": 0.72,
-        "assessment": 0.3,
-        "social_proof": 0.6575,
-        "verification": 0.6667
-      }
-    },
-    "profile_summary": {
-      "title": "HR Manager",
-      "company": "Wayne Enterprises",
-      "experience": 5.0,
-      "location": "Berlin"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000020",
-    "rank": 21,
-    "final_score": 0.4180526486029382,
-    "reasoning": "Currently Mechanical Engineer at Wipro (6.3 yrs), has relevant technical background. skills include Weights & Biases, GCP, HTML, GraphQL. 55% response rate; 30-day notice period. Concerns: inactive for 253 days.",
-    "score_breakdown": {
-      "final_score": 0.4181,
-      "semantic_score": 0.2432,
-      "attribute_score": 0.4965,
-      "behavioral_score": 0.4867,
-      "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 1.0,
-        "title": 0.5,
-        "domain": 0.35,
-        "career_trajectory": 0.75,
-        "location": 0.5,
-        "education": 0.88
-      },
-      "behavioral_breakdown": {
-        "recency": 0.1425,
-        "responsiveness": 0.37,
-        "engagement": 0.7675,
-        "availability": 0.645,
-        "assessment": 0.577,
-        "social_proof": 0.7415,
-        "verification": 0.6667
-      }
-    },
-    "profile_summary": {
-      "title": "Mechanical Engineer",
-      "company": "Wipro",
-      "experience": 6.3,
-      "location": "Ahmedabad, Gujarat"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000005",
-    "rank": 22,
-    "final_score": 0.41368732337688174,
-    "reasoning": "Accountant at Stark Industries (11.0 yrs). skills include Image Classification, Tailwind, Apache Flink, SQL. open to work; 30-day notice period. Concerns: non-technical title (Accountant); inactive for 257 days.",
-    "score_breakdown": {
-      "final_score": 0.4137,
-      "semantic_score": 0.5384,
-      "attribute_score": 0.306,
-      "behavioral_score": 0.4579,
-      "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.6,
-        "title": 0.05,
-        "domain": 0.35,
-        "career_trajectory": 0.5,
-        "location": 0.7,
-        "education": 0.77
-      },
-      "behavioral_breakdown": {
-        "recency": 0.1382,
-        "responsiveness": 0.342,
-        "engagement": 0.6501,
-        "availability": 1.0,
-        "assessment": 0.3,
-        "social_proof": 0.441,
-        "verification": 0.6667
-      }
-    },
-    "profile_summary": {
-      "title": "Accountant",
-      "company": "Stark Industries",
-      "experience": 11.0,
-      "location": "Gurgaon, Haryana"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000018",
-    "rank": 23,
-    "final_score": 0.4072418818464572,
-    "reasoning": "Frontend Engineer at Acme Corp (6.6 yrs). skills include CNN, Java, Accounting, Node.js. Concerns: low recruiter response rate (16%).",
-    "score_breakdown": {
-      "final_score": 0.4072,
-      "semantic_score": 0.2823,
-      "attribute_score": 0.4985,
-      "behavioral_score": 0.3929,
-      "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 1.0,
-        "title": 0.15,
-        "domain": 0.9,
-        "career_trajectory": 0.75,
-        "location": 0.5,
-        "education": 0.67
-      },
-      "behavioral_breakdown": {
-        "recency": 0.4062,
-        "responsiveness": 0.216,
-        "engagement": 0.6538,
-        "availability": 0.315,
-        "assessment": 0.3,
-        "social_proof": 0.7287,
-        "verification": 0.0
-      }
-    },
-    "profile_summary": {
-      "title": "Frontend Engineer",
-      "company": "Acme Corp",
-      "experience": 6.6,
-      "location": "Bhubaneswar, Odisha"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000045",
-    "rank": 24,
-    "final_score": 0.40529335331262384,
-    "reasoning": "Project Manager at Initech (12.2 yrs). skills include Redux, SAP, Airflow, Sales. open to work; 62% response rate. Concerns: non-technical title (Project Manager).",
-    "score_breakdown": {
-      "final_score": 0.4053,
-      "semantic_score": 0.3818,
-      "attribute_score": 0.303,
-      "behavioral_score": 0.6176,
-      "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.54,
-        "title": 0.05,
-        "domain": 0.35,
-        "career_trajectory": 0.6,
-        "location": 0.7,
-        "education": 0.75
-      },
-      "behavioral_breakdown": {
-        "recency": 0.6701,
-        "responsiveness": 0.732,
-        "engagement": 0.3349,
-        "availability": 0.86,
-        "assessment": 0.3,
-        "social_proof": 0.4445,
-        "verification": 1.0
-      }
-    },
-    "profile_summary": {
-      "title": "Project Manager",
-      "company": "Initech",
-      "experience": 12.2,
-      "location": "Indore, Madhya Pradesh"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000034",
-    "rank": 25,
-    "final_score": 0.40121824460514177,
-    "reasoning": "Currently Business Analyst at Wipro (14.5 yrs), has relevant technical background. skills include Excel, Flask, Next.js, Terraform. Concerns: above target experience range (14.5 vs 5-9 yrs); low recruiter response rate (15%).",
-    "score_breakdown": {
-      "final_score": 0.4012,
-      "semantic_score": 0.3657,
-      "attribute_score": 0.4245,
-      "behavioral_score": 0.4019,
-      "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.425,
-        "title": 0.5,
-        "domain": 0.6,
-        "career_trajectory": 1.0,
-        "location": 0.5,
-        "education": 0.49
-      },
-      "behavioral_breakdown": {
-        "recency": 0.285,
-        "responsiveness": 0.13,
-        "engagement": 0.7942,
-        "availability": 0.51,
-        "assessment": 0.3,
-        "social_proof": 0.4568,
-        "verification": 0.6667
-      }
-    },
-    "profile_summary": {
-      "title": "Business Analyst",
-      "company": "Wipro",
-      "experience": 14.5,
-      "location": "Ahmedabad, Gujarat"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000002",
-    "rank": 26,
-    "final_score": 0.4002267221315504,
-    "reasoning": "Currently Operations Manager at Wipro (12.5 yrs), has relevant technical background. skills include Project Management, Feature Engineering, Photoshop, GCP. open to work. Concerns: inactive for 215 days.",
-    "score_breakdown": {
-      "final_score": 0.4002,
-      "semantic_score": 0.3846,
-      "attribute_score": 0.414,
-      "behavioral_score": 0.3941,
-      "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.525,
-        "title": 0.5,
-        "domain": 0.35,
-        "career_trajectory": 1.0,
-        "location": 0.5,
-        "education": 0.63
-      },
-      "behavioral_breakdown": {
-        "recency": 0.191,
-        "responsiveness": 0.214,
-        "engagement": 0.5955,
-        "availability": 0.86,
-        "assessment": 0.3,
-        "social_proof": 0.5527,
-        "verification": 0.0
-      }
-    },
-    "profile_summary": {
-      "title": "Operations Manager",
-      "company": "Wipro",
-      "experience": 12.5,
-      "location": "Chennai, Tamil Nadu"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000048",
-    "rank": 27,
-    "final_score": 0.3995471415956292,
-    "reasoning": "Mobile Developer at CRED (9.7 yrs). skills include Terraform, Content Writing, Vue.js, AWS. open to work; 65% response rate.",
-    "score_breakdown": {
-      "final_score": 0.3995,
-      "semantic_score": 0.19,
-      "attribute_score": 0.444,
-      "behavioral_score": 0.571,
-      "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.665,
-        "title": 0.15,
-        "domain": 0.6,
-        "career_trajectory": 1.0,
-        "location": 1.0,
-        "education": 0.82
-      },
-      "behavioral_breakdown": {
-        "recency": 0.5833,
-        "responsiveness": 0.51,
-        "engagement": 0.7677,
-        "availability": 0.72,
-        "assessment": 0.3,
-        "social_proof": 0.533,
-        "verification": 0.3333
-      }
-    },
-    "profile_summary": {
-      "title": "Mobile Developer",
-      "company": "CRED",
-      "experience": 9.7,
-      "location": "Hyderabad, Telangana"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000029",
-    "rank": 28,
-    "final_score": 0.39761614374937176,
-    "reasoning": "Business Analyst at Wipro (7.2 yrs). skills include Tailwind, Spring Boot, gRPC, Hadoop. Concerns: non-technical title (Business Analyst); primarily consulting background.",
-    "score_breakdown": {
-      "final_score": 0.3976,
-      "semantic_score": 0.3588,
-      "attribute_score": 0.424,
-      "behavioral_score": 0.3967,
-      "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 1.0,
-        "title": 0.05,
-        "domain": 0.35,
-        "career_trajectory": 0.75,
-        "location": 1.0,
-        "education": 0.73
-      },
-      "behavioral_breakdown": {
-        "recency": 0.1361,
-        "responsiveness": 0.272,
-        "engagement": 0.7917,
-        "availability": 0.455,
-        "assessment": 0.3,
-        "social_proof": 0.5795,
-        "verification": 0.6667
-      }
-    },
-    "profile_summary": {
-      "title": "Business Analyst",
-      "company": "Wipro",
+      "title": "Senior Machine Learning Engineer",
+      "company": "Zomato",
       "experience": 7.2,
       "location": "Noida, Uttar Pradesh"
     }
   },
   {
-    "candidate_id": "CAND_0000038",
-    "rank": 29,
-    "final_score": 0.3913214901737309,
-    "reasoning": "Java Developer at Swiggy (6.7 yrs). 1/21 must-have skills matched (Weaviate, Agile, Azure, GraphQL). open to work.",
+    "candidate_id": "CAND_0002025",
+    "rank": 2,
+    "final_score": 0.8268120671026898,
+    "reasoning": "Senior AI Engineer at Apple with 5.9 yrs experience. 9/21 must-have skills matched (Deep Learning, NLP, FAISS, Recommendation Systems). open to work; 80% response rate; recently active; 30-day notice period.",
     "score_breakdown": {
-      "final_score": 0.3913,
-      "semantic_score": 0.1631,
-      "attribute_score": 0.4399,
-      "behavioral_score": 0.5777,
+      "final_score": 0.8268,
+      "semantic_score": 1.0,
+      "attribute_score": 0.7034,
+      "behavioral_score": 0.8412,
       "attribute_breakdown": {
-        "skills": 0.0377,
-        "experience": 1.0,
-        "title": 0.15,
+        "skills": 0.3295,
+        "experience": 0.8,
+        "title": 1.0,
         "domain": 0.6,
-        "career_trajectory": 0.5,
-        "location": 0.7,
-        "education": 0.51
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 0.92
       },
       "behavioral_breakdown": {
-        "recency": 0.557,
-        "responsiveness": 0.32,
-        "engagement": 0.7753,
-        "availability": 0.79,
+        "recency": 0.8573,
+        "responsiveness": 0.84,
+        "engagement": 0.9363,
+        "availability": 1.0,
         "assessment": 0.3,
-        "social_proof": 0.7631,
+        "social_proof": 0.8843,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior AI Engineer",
+      "company": "Apple",
+      "experience": 5.9,
+      "location": "Trivandrum, Kerala"
+    }
+  },
+  {
+    "candidate_id": "CAND_0081846",
+    "rank": 3,
+    "final_score": 0.8263159317537958,
+    "reasoning": "Lead AI Engineer at Razorpay with 6.7 yrs experience. 8/21 must-have skills matched (Information Retrieval, Learning to Rank, Vector Search, Machine Learning). open to work; 73% response rate; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.8263,
+      "semantic_score": 0.8913,
+      "attribute_score": 0.7892,
+      "behavioral_score": 0.8151,
+      "attribute_breakdown": {
+        "skills": 0.3009,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.88
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7181,
+        "responsiveness": 0.718,
+        "engagement": 0.9849,
+        "availability": 0.925,
+        "assessment": 0.7713,
+        "social_proof": 0.7834,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Lead AI Engineer",
+      "company": "Razorpay",
+      "experience": 6.7,
+      "location": "Jaipur, Rajasthan"
+    }
+  },
+  {
+    "candidate_id": "CAND_0055905",
+    "rank": 4,
+    "final_score": 0.8180051793303869,
+    "reasoning": "Senior Machine Learning Engineer at Flipkart with 8.1 yrs experience. 7/21 must-have skills matched (OpenSearch, Python, LangChain, Elasticsearch). open to work; 87% response rate; recently active; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.818,
+      "semantic_score": 0.9337,
+      "attribute_score": 0.7141,
+      "behavioral_score": 0.8662,
+      "attribute_breakdown": {
+        "skills": 0.2526,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.2,
+        "education": 0.92
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7999,
+        "responsiveness": 0.922,
+        "engagement": 0.8484,
+        "availability": 0.925,
+        "assessment": 0.8578,
+        "social_proof": 0.8,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior Machine Learning Engineer",
+      "company": "Flipkart",
+      "experience": 8.1,
+      "location": "London"
+    }
+  },
+  {
+    "candidate_id": "CAND_0046525",
+    "rank": 5,
+    "final_score": 0.8109050813785141,
+    "reasoning": "Senior Machine Learning Engineer at Genpact AI with 6.1 yrs experience. 7/21 must-have skills matched (Sentence Transformers, Machine Learning, LlamaIndex, Qdrant). open to work; 88% response rate; recently active.",
+    "score_breakdown": {
+      "final_score": 0.8109,
+      "semantic_score": 0.8479,
+      "attribute_score": 0.7576,
+      "behavioral_score": 0.8624,
+      "attribute_breakdown": {
+        "skills": 0.2264,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.7,
+        "career_trajectory": 1.0,
+        "location": 1.0,
+        "education": 0.92
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8377,
+        "responsiveness": 0.928,
+        "engagement": 0.8698,
+        "availability": 0.735,
+        "assessment": 1.0,
+        "social_proof": 0.7669,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior Machine Learning Engineer",
+      "company": "Genpact AI",
+      "experience": 6.1,
+      "location": "Pune, Maharashtra"
+    }
+  },
+  {
+    "candidate_id": "CAND_0077337",
+    "rank": 6,
+    "final_score": 0.8024584712549523,
+    "reasoning": "Staff Machine Learning Engineer at Paytm with 7.0 yrs experience. 9/21 must-have skills matched (LlamaIndex, LLMs, Information Retrieval, RAG). open to work; 95% response rate; recently active.",
+    "score_breakdown": {
+      "final_score": 0.8025,
+      "semantic_score": 0.8068,
+      "attribute_score": 0.7814,
+      "behavioral_score": 0.8353,
+      "attribute_breakdown": {
+        "skills": 0.3654,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 0.85,
+        "location": 0.7,
+        "education": 0.7
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8573,
+        "responsiveness": 0.85,
+        "engagement": 0.8761,
+        "availability": 0.785,
+        "assessment": 0.672,
+        "social_proof": 0.846,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Staff Machine Learning Engineer",
+      "company": "Paytm",
+      "experience": 7.0,
+      "location": "Kochi, Kerala"
+    }
+  },
+  {
+    "candidate_id": "CAND_0029367",
+    "rank": 7,
+    "final_score": 0.798287439212485,
+    "reasoning": "Senior Data Scientist at Rephrase.ai with 5.7 yrs experience. 6/21 must-have skills matched (Recommendation Systems, LangChain, Sentence Transformers, Pinecone). open to work; 77% response rate; recently active.",
+    "score_breakdown": {
+      "final_score": 0.7983,
+      "semantic_score": 0.9431,
+      "attribute_score": 0.6896,
+      "behavioral_score": 0.8201,
+      "attribute_breakdown": {
+        "skills": 0.2584,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 0.6,
+        "location": 0.5,
+        "education": 0.6
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8186,
+        "responsiveness": 0.862,
+        "engagement": 0.8415,
+        "availability": 0.79,
+        "assessment": 1.0,
+        "social_proof": 0.6501,
         "verification": 0.6667
       }
     },
     "profile_summary": {
-      "title": "Java Developer",
-      "company": "Swiggy",
-      "experience": 6.7,
-      "location": "Coimbatore, Tamil Nadu"
+      "title": "Senior Data Scientist",
+      "company": "Rephrase.ai",
+      "experience": 5.7,
+      "location": "Bangalore, Karnataka"
     }
   },
   {
-    "candidate_id": "CAND_0000016",
-    "rank": 30,
-    "final_score": 0.3899303814945063,
-    "reasoning": "Accountant at Infosys (5.3 yrs). skills include Kubeflow, SQL, Photoshop, Accounting. open to work; 64% response rate. Concerns: non-technical title (Accountant); primarily consulting background.",
+    "candidate_id": "CAND_0088025",
+    "rank": 8,
+    "final_score": 0.7978598642150373,
+    "reasoning": "Staff Machine Learning Engineer at Yellow.ai with 8.6 yrs experience. 5/21 must-have skills matched (Elasticsearch, Learning to Rank, RAG, BM25). open to work; 83% response rate.",
     "score_breakdown": {
-      "final_score": 0.3899,
-      "semantic_score": 0.4206,
-      "attribute_score": 0.3065,
-      "behavioral_score": 0.5033,
+      "final_score": 0.7979,
+      "semantic_score": 0.8337,
+      "attribute_score": 0.7548,
+      "behavioral_score": 0.8325,
       "attribute_breakdown": {
-        "skills": 0.0,
+        "skills": 0.2911,
         "experience": 0.8,
-        "title": 0.05,
-        "domain": 0.1,
-        "career_trajectory": 0.6,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 1.0,
         "location": 0.5,
+        "education": 0.94
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7816,
+        "responsiveness": 0.778,
+        "engagement": 0.861,
+        "availability": 0.79,
+        "assessment": 0.9835,
+        "social_proof": 0.8547,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Staff Machine Learning Engineer",
+      "company": "Yellow.ai",
+      "experience": 8.6,
+      "location": "Jaipur, Rajasthan"
+    }
+  },
+  {
+    "candidate_id": "CAND_0011687",
+    "rank": 9,
+    "final_score": 0.7971541371721029,
+    "reasoning": "Senior NLP Engineer at Niramai with 7.8 yrs experience. 5/21 must-have skills matched (LangChain, Embeddings, LlamaIndex, OpenSearch). open to work; 89% response rate; 15-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7972,
+      "semantic_score": 0.7586,
+      "attribute_score": 0.7792,
+      "behavioral_score": 0.8758,
+      "attribute_breakdown": {
+        "skills": 0.2168,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 1.0
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7579,
+        "responsiveness": 0.934,
+        "engagement": 0.8771,
+        "availability": 1.0,
+        "assessment": 0.821,
+        "social_proof": 0.8581,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior NLP Engineer",
+      "company": "Niramai",
+      "experience": 7.8,
+      "location": "Indore, Madhya Pradesh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0005649",
+    "rank": 10,
+    "final_score": 0.7783350986220023,
+    "reasoning": "Senior Data Scientist at Sarvam AI with 7.4 yrs experience. 5/21 must-have skills matched (Information Retrieval, Haystack, Deep Learning, Fine-tuning LLMs). open to work; 57% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7783,
+      "semantic_score": 0.8932,
+      "attribute_score": 0.7752,
+      "behavioral_score": 0.6461,
+      "attribute_breakdown": {
+        "skills": 0.233,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 0.85,
+        "location": 0.7,
+        "education": 0.94
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6204,
+        "responsiveness": 0.542,
+        "engagement": 0.8023,
+        "availability": 0.715,
+        "assessment": 0.3,
+        "social_proof": 0.9164,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Senior Data Scientist",
+      "company": "Sarvam AI",
+      "experience": 7.4,
+      "location": "Delhi, Delhi"
+    }
+  },
+  {
+    "candidate_id": "CAND_0079064",
+    "rank": 11,
+    "final_score": 0.7772114999122105,
+    "reasoning": "Senior Data Scientist at Niramai with 5.2 yrs experience. 5/21 must-have skills matched (OpenSearch, LlamaIndex, Semantic Search, Fine-tuning LLMs). open to work; 91% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7772,
+      "semantic_score": 0.8576,
+      "attribute_score": 0.7213,
+      "behavioral_score": 0.7813,
+      "attribute_breakdown": {
+        "skills": 0.1994,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 0.75,
+        "location": 1.0,
         "education": 0.73
       },
       "behavioral_breakdown": {
-        "recency": 0.2579,
-        "responsiveness": 0.424,
-        "engagement": 0.8929,
-        "availability": 0.86,
-        "assessment": 0.3,
-        "social_proof": 0.4441,
+        "recency": 0.6156,
+        "responsiveness": 0.946,
+        "engagement": 0.9209,
+        "availability": 0.72,
+        "assessment": 0.6525,
+        "social_proof": 0.7681,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior Data Scientist",
+      "company": "Niramai",
+      "experience": 5.2,
+      "location": "Noida, Uttar Pradesh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0071974",
+    "rank": 12,
+    "final_score": 0.7752984241333856,
+    "reasoning": "Senior AI Engineer at Netflix with 7.8 yrs experience. 9/21 must-have skills matched (Qdrant, Embeddings, Elasticsearch, BM25). open to work; 76% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7753,
+      "semantic_score": 0.7924,
+      "attribute_score": 0.7553,
+      "behavioral_score": 0.7907,
+      "attribute_breakdown": {
+        "skills": 0.3774,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.6,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 0.92
+      },
+      "behavioral_breakdown": {
+        "recency": 0.63,
+        "responsiveness": 0.736,
+        "engagement": 0.9548,
+        "availability": 0.735,
+        "assessment": 0.9567,
+        "social_proof": 0.8681,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior AI Engineer",
+      "company": "Netflix",
+      "experience": 7.8,
+      "location": "Vizag, Andhra Pradesh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0028793",
+    "rank": 13,
+    "final_score": 0.7742191417471191,
+    "reasoning": "Search Engineer at Google with 7.2 yrs experience. 4/21 must-have skills matched (LoRA, QLoRA, Embeddings, Haystack). open to work; 57% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7742,
+      "semantic_score": 0.7969,
+      "attribute_score": 0.7555,
+      "behavioral_score": 0.7806,
+      "attribute_breakdown": {
+        "skills": 0.1661,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.88
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6156,
+        "responsiveness": 0.702,
+        "engagement": 0.9856,
+        "availability": 0.72,
+        "assessment": 0.922,
+        "social_proof": 0.8822,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Search Engineer",
+      "company": "Google",
+      "experience": 7.2,
+      "location": "Trivandrum, Kerala"
+    }
+  },
+  {
+    "candidate_id": "CAND_0076251",
+    "rank": 14,
+    "final_score": 0.7710075971714483,
+    "reasoning": "Search Engineer at Haptik with 7.6 yrs experience. 3/21 must-have skills matched (Hugging Face Transformers, Learning to Rank, PEFT, Image Classification). open to work; 51% response rate.",
+    "score_breakdown": {
+      "final_score": 0.771,
+      "semantic_score": 0.8438,
+      "attribute_score": 0.7642,
+      "behavioral_score": 0.696,
+      "attribute_breakdown": {
+        "skills": 0.1526,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.82
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6252,
+        "responsiveness": 0.586,
+        "engagement": 0.9293,
+        "availability": 0.735,
+        "assessment": 0.8764,
+        "social_proof": 0.6852,
         "verification": 0.3333
       }
     },
     "profile_summary": {
-      "title": "Accountant",
-      "company": "Infosys",
-      "experience": 5.3,
-      "location": "Gurgaon, Haryana"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000037",
-    "rank": 31,
-    "final_score": 0.38969473718247255,
-    "reasoning": "Business Analyst at Stark Industries (14.3 yrs). skills include Apache Beam, Tally, Databricks, Docker. 78% response rate; 30-day notice period. Concerns: above target experience range (14.3 vs 5-9 yrs); non-technical title (Business Analyst).",
-    "score_breakdown": {
-      "final_score": 0.3897,
-      "semantic_score": 0.4126,
-      "attribute_score": 0.3145,
-      "behavioral_score": 0.4976,
-      "attribute_breakdown": {
-        "skills": 0.0079,
-        "experience": 0.435,
-        "title": 0.05,
-        "domain": 0.6,
-        "career_trajectory": 0.75,
-        "location": 0.2,
-        "education": 0.81
-      },
-      "behavioral_breakdown": {
-        "recency": 0.2388,
-        "responsiveness": 0.588,
-        "engagement": 0.7396,
-        "availability": 0.595,
-        "assessment": 0.3,
-        "social_proof": 0.4015,
-        "verification": 1.0
-      }
-    },
-    "profile_summary": {
-      "title": "Business Analyst",
-      "company": "Stark Industries",
-      "experience": 14.3,
-      "location": "Dubai"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000050",
-    "rank": 32,
-    "final_score": 0.38423722321985176,
-    "reasoning": "Business Analyst at Infosys (13.5 yrs). skills include Feature Engineering, Excel, gRPC, SEO. Concerns: above target experience range (13.5 vs 5-9 yrs); non-technical title (Business Analyst).",
-    "score_breakdown": {
-      "final_score": 0.3842,
-      "semantic_score": 0.4861,
-      "attribute_score": 0.3,
-      "behavioral_score": 0.4136,
-      "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.475,
-        "title": 0.05,
-        "domain": 0.35,
-        "career_trajectory": 0.75,
-        "location": 0.5,
-        "education": 0.85
-      },
-      "behavioral_breakdown": {
-        "recency": 0.1625,
-        "responsiveness": 0.372,
-        "engagement": 0.6228,
-        "availability": 0.385,
-        "assessment": 0.648,
-        "social_proof": 0.4931,
-        "verification": 0.6667
-      }
-    },
-    "profile_summary": {
-      "title": "Business Analyst",
-      "company": "Infosys",
-      "experience": 13.5,
-      "location": "Gurgaon, Haryana"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000035",
-    "rank": 33,
-    "final_score": 0.3769833887598455,
-    "reasoning": "Currently Full Stack Developer at Globex Inc (4.3 yrs), has relevant technical background. 1/21 must-have skills matched (BentoML, Next.js, PostgreSQL, Kafka).",
-    "score_breakdown": {
-      "final_score": 0.377,
-      "semantic_score": 0.2131,
-      "attribute_score": 0.4615,
-      "behavioral_score": 0.4215,
-      "attribute_breakdown": {
-        "skills": 0.0132,
-        "experience": 0.695,
-        "title": 0.6412,
-        "domain": 0.35,
-        "career_trajectory": 0.5,
-        "location": 1.0,
-        "education": 0.77
-      },
-      "behavioral_breakdown": {
-        "recency": 0.3704,
-        "responsiveness": 0.244,
-        "engagement": 0.6667,
-        "availability": 0.455,
-        "assessment": 0.3,
-        "social_proof": 0.485,
-        "verification": 0.6667
-      }
-    },
-    "profile_summary": {
-      "title": "Full Stack Developer",
-      "company": "Globex Inc",
-      "experience": 4.3,
-      "location": "Hyderabad, Telangana"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000021",
-    "rank": 34,
-    "final_score": 0.3730208469103761,
-    "reasoning": "Project Manager at Wipro (14.5 yrs). 5/21 must-have skills matched (Fine-tuning LLMs, Prompt Engineering, Embeddings, Recommendation Systems). Concerns: above target experience range (14.5 vs 5-9 yrs); non-technical title (Project Manager).",
-    "score_breakdown": {
-      "final_score": 0.373,
-      "semantic_score": 0.4062,
-      "attribute_score": 0.3356,
-      "behavioral_score": 0.4006,
-      "attribute_breakdown": {
-        "skills": 0.0784,
-        "experience": 0.425,
-        "title": 0.05,
-        "domain": 0.35,
-        "career_trajectory": 1.0,
-        "location": 0.7,
-        "education": 0.67
-      },
-      "behavioral_breakdown": {
-        "recency": 0.2047,
-        "responsiveness": 0.414,
-        "engagement": 0.4808,
-        "availability": 0.58,
-        "assessment": 0.3,
-        "social_proof": 0.2746,
-        "verification": 1.0
-      }
-    },
-    "profile_summary": {
-      "title": "Project Manager",
-      "company": "Wipro",
-      "experience": 14.5,
+      "title": "Search Engineer",
+      "company": "Haptik",
+      "experience": 7.6,
       "location": "Bhubaneswar, Odisha"
     }
   },
   {
-    "candidate_id": "CAND_0000039",
-    "rank": 35,
-    "final_score": 0.3719402251754441,
-    "reasoning": "Marketing Manager at Acme Corp (3.9 yrs). skills include Hadoop, Microservices, CI/CD, Spark. 52% response rate; 30-day notice period. Concerns: non-technical title (Marketing Manager).",
+    "candidate_id": "CAND_0008425",
+    "rank": 15,
+    "final_score": 0.7697895381355189,
+    "reasoning": "Senior NLP Engineer at Ola with 7.8 yrs experience. 8/21 must-have skills matched (Information Retrieval, Sentence Transformers, Recommendation Systems, LoRA). open to work; 66% response rate.",
     "score_breakdown": {
-      "final_score": 0.3719,
-      "semantic_score": 0.2381,
-      "attribute_score": 0.35,
-      "behavioral_score": 0.572,
+      "final_score": 0.7698,
+      "semantic_score": 0.8273,
+      "attribute_score": 0.7297,
+      "behavioral_score": 0.7729,
       "attribute_breakdown": {
-        "skills": 0.0,
+        "skills": 0.3108,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.6,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 0.74
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6752,
+        "responsiveness": 0.796,
+        "engagement": 0.8502,
+        "availability": 0.715,
+        "assessment": 0.818,
+        "social_proof": 0.7836,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior NLP Engineer",
+      "company": "Ola",
+      "experience": 7.8,
+      "location": "Kolkata, West Bengal"
+    }
+  },
+  {
+    "candidate_id": "CAND_0006567",
+    "rank": 16,
+    "final_score": 0.769700180840323,
+    "reasoning": "Senior AI Engineer at Meta with 7.9 yrs experience. 5/21 must-have skills matched (Content Matching, scikit-learn, Model Adaptation, Workflow Orchestration). open to work; 79% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7697,
+      "semantic_score": 0.786,
+      "attribute_score": 0.7667,
+      "behavioral_score": 0.7554,
+      "attribute_breakdown": {
+        "skills": 0.1589,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 1.0,
+        "education": 0.84
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7181,
+        "responsiveness": 0.754,
+        "engagement": 0.6051,
+        "availability": 0.735,
+        "assessment": 0.925,
+        "social_proof": 0.8157,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior AI Engineer",
+      "company": "Meta",
+      "experience": 7.9,
+      "location": "Noida, Uttar Pradesh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0046064",
+    "rank": 17,
+    "final_score": 0.7695505521310404,
+    "reasoning": "Senior NLP Engineer at Salesforce with 8.9 yrs experience. 5/21 must-have skills matched (Pinecone, BM25, PEFT, Elasticsearch). open to work; 78% response rate; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7696,
+      "semantic_score": 0.8237,
+      "attribute_score": 0.7205,
+      "behavioral_score": 0.7928,
+      "attribute_breakdown": {
+        "skills": 0.2102,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 0.96
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6805,
+        "responsiveness": 0.748,
+        "engagement": 0.8135,
+        "availability": 1.0,
+        "assessment": 0.681,
+        "social_proof": 0.8296,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior NLP Engineer",
+      "company": "Salesforce",
+      "experience": 8.9,
+      "location": "Coimbatore, Tamil Nadu"
+    }
+  },
+  {
+    "candidate_id": "CAND_0093912",
+    "rank": 18,
+    "final_score": 0.7631348484999616,
+    "reasoning": "Senior Data Scientist at Razorpay with 5.3 yrs experience. 5/21 must-have skills matched (Milvus, Elasticsearch, Vector Search, Haystack). open to work; 66% response rate; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7631,
+      "semantic_score": 0.8496,
+      "attribute_score": 0.6851,
+      "behavioral_score": 0.7998,
+      "attribute_breakdown": {
+        "skills": 0.1643,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 0.85,
+        "location": 0.5,
+        "education": 0.78
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7638,
+        "responsiveness": 0.676,
+        "engagement": 0.7073,
+        "availability": 1.0,
+        "assessment": 0.794,
+        "social_proof": 0.882,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior Data Scientist",
+      "company": "Razorpay",
+      "experience": 5.3,
+      "location": "Chandigarh, Chandigarh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0033179",
+    "rank": 19,
+    "final_score": 0.7600808821624538,
+    "reasoning": "AI Research Engineer at Wipro with 6.9 yrs experience. 4/21 must-have skills matched (OpenSearch, Fine-tuning LLMs, Information Retrieval, Speech Recognition). open to work; 84% response rate; recently active; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7601,
+      "semantic_score": 0.7082,
+      "attribute_score": 0.745,
+      "behavioral_score": 0.8495,
+      "attribute_breakdown": {
+        "skills": 0.1461,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.77
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8313,
+        "responsiveness": 0.904,
+        "engagement": 0.8227,
+        "availability": 1.0,
+        "assessment": 0.842,
+        "social_proof": 0.699,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "AI Research Engineer",
+      "company": "Wipro",
+      "experience": 6.9,
+      "location": "Ahmedabad, Gujarat"
+    }
+  },
+  {
+    "candidate_id": "CAND_0081852",
+    "rank": 20,
+    "final_score": 0.7596638121488093,
+    "reasoning": "Senior Data Scientist at Mad Street Den with 5.9 yrs experience. 3/21 must-have skills matched (LoRA, Haystack, pgvector, Vector Search). open to work; recently active.",
+    "score_breakdown": {
+      "final_score": 0.7597,
+      "semantic_score": 0.8433,
+      "attribute_score": 0.7216,
+      "behavioral_score": 0.7278,
+      "attribute_breakdown": {
+        "skills": 0.1342,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.86
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8377,
+        "responsiveness": 0.464,
+        "engagement": 0.9867,
+        "availability": 0.86,
+        "assessment": 0.3,
+        "social_proof": 0.8528,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Senior Data Scientist",
+      "company": "Mad Street Den",
+      "experience": 5.9,
+      "location": "Delhi, Delhi"
+    }
+  },
+  {
+    "candidate_id": "CAND_0005260",
+    "rank": 21,
+    "final_score": 0.7592636535208461,
+    "reasoning": "Senior NLP Engineer at Netflix with 5.2 yrs experience. 6/21 must-have skills matched (NLP, Semantic Search, Python, LoRA). 86% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7593,
+      "semantic_score": 0.8431,
+      "attribute_score": 0.6919,
+      "behavioral_score": 0.78,
+      "attribute_breakdown": {
+        "skills": 0.2514,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.6,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.88
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7579,
+        "responsiveness": 0.796,
+        "engagement": 0.9818,
+        "availability": 0.455,
+        "assessment": 0.849,
+        "social_proof": 0.809,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior NLP Engineer",
+      "company": "Netflix",
+      "experience": 5.2,
+      "location": "Chennai, Tamil Nadu"
+    }
+  },
+  {
+    "candidate_id": "CAND_0008295",
+    "rank": 22,
+    "final_score": 0.7575287914105309,
+    "reasoning": "AI Research Engineer at Razorpay with 6.5 yrs experience. 2/21 must-have skills matched (QLoRA, Python, BentoML, TTS). open to work; 89% response rate; recently active.",
+    "score_breakdown": {
+      "final_score": 0.7575,
+      "semantic_score": 0.7103,
+      "attribute_score": 0.7469,
+      "behavioral_score": 0.8334,
+      "attribute_breakdown": {
+        "skills": 0.0856,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 1.0,
+        "education": 0.81
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8573,
+        "responsiveness": 0.934,
+        "engagement": 0.9545,
+        "availability": 0.785,
+        "assessment": 0.631,
+        "social_proof": 0.7489,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "AI Research Engineer",
+      "company": "Razorpay",
+      "experience": 6.5,
+      "location": "Pune, Maharashtra"
+    }
+  },
+  {
+    "candidate_id": "CAND_0065195",
+    "rank": 23,
+    "final_score": 0.7573327351380066,
+    "reasoning": "Search Engineer at CRED with 5.1 yrs experience. 3/21 must-have skills matched (LlamaIndex, LLMs, Elasticsearch, QLoRA). open to work; 80% response rate; recently active.",
+    "score_breakdown": {
+      "final_score": 0.7573,
+      "semantic_score": 0.781,
+      "attribute_score": 0.7123,
+      "behavioral_score": 0.81,
+      "attribute_breakdown": {
+        "skills": 0.1853,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 0.92
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8442,
+        "responsiveness": 0.84,
+        "engagement": 0.6974,
+        "availability": 0.86,
+        "assessment": 0.646,
+        "social_proof": 0.8276,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Search Engineer",
+      "company": "CRED",
+      "experience": 5.1,
+      "location": "Kolkata, West Bengal"
+    }
+  },
+  {
+    "candidate_id": "CAND_0020877",
+    "rank": 24,
+    "final_score": 0.7491652711496657,
+    "reasoning": "Applied ML Engineer at CRED with 5.1 yrs experience. 8/21 must-have skills matched (Information Retrieval, QLoRA, LlamaIndex, Elasticsearch). 66% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7492,
+      "semantic_score": 0.8202,
+      "attribute_score": 0.7244,
+      "behavioral_score": 0.7085,
+      "attribute_breakdown": {
+        "skills": 0.3017,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 0.75,
+        "location": 0.7,
+        "education": 0.88
+      },
+      "behavioral_breakdown": {
+        "recency": 0.57,
+        "responsiveness": 0.596,
+        "engagement": 0.8782,
+        "availability": 0.58,
+        "assessment": 0.914,
+        "social_proof": 0.8663,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Applied ML Engineer",
+      "company": "CRED",
+      "experience": 5.1,
+      "location": "Gurgaon, Haryana"
+    }
+  },
+  {
+    "candidate_id": "CAND_0044855",
+    "rank": 25,
+    "final_score": 0.7459754347038827,
+    "reasoning": "Senior Data Scientist at Flipkart with 6.6 yrs experience. 8/21 must-have skills matched (Embeddings, Qdrant, Pinecone, NLP). 57% response rate.",
+    "score_breakdown": {
+      "final_score": 0.746,
+      "semantic_score": 0.694,
+      "attribute_score": 0.7868,
+      "behavioral_score": 0.7348,
+      "attribute_breakdown": {
+        "skills": 0.3033,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.82
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6701,
+        "responsiveness": 0.742,
+        "engagement": 0.8772,
+        "availability": 0.58,
+        "assessment": 0.8892,
+        "social_proof": 0.7801,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Senior Data Scientist",
+      "company": "Flipkart",
+      "experience": 6.6,
+      "location": "Coimbatore, Tamil Nadu"
+    }
+  },
+  {
+    "candidate_id": "CAND_0064326",
+    "rank": 26,
+    "final_score": 0.7458898131846601,
+    "reasoning": "Search Engineer at Sarvam AI with 7.6 yrs experience. 4/21 must-have skills matched (Deep Learning, RAG, Weaviate, Python). open to work; 94% response rate; recently active.",
+    "score_breakdown": {
+      "final_score": 0.7459,
+      "semantic_score": 0.6821,
+      "attribute_score": 0.7469,
+      "behavioral_score": 0.8206,
+      "attribute_breakdown": {
+        "skills": 0.1838,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 0.85,
+        "location": 0.5,
+        "education": 0.82
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8249,
+        "responsiveness": 0.924,
+        "engagement": 0.8394,
+        "availability": 0.735,
+        "assessment": 0.813,
+        "social_proof": 0.7878,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Search Engineer",
+      "company": "Sarvam AI",
+      "experience": 7.6,
+      "location": "Gurgaon, Haryana"
+    }
+  },
+  {
+    "candidate_id": "CAND_0060054",
+    "rank": 27,
+    "final_score": 0.7452535620009636,
+    "reasoning": "AI Engineer at Mad Street Den with 6.4 yrs experience. 5/21 must-have skills matched (TensorFlow, Recommendation Systems, Prompt Engineering, Semantic Search). 86% response rate; 15-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7453,
+      "semantic_score": 0.7997,
+      "attribute_score": 0.7293,
+      "behavioral_score": 0.7087,
+      "attribute_breakdown": {
+        "skills": 0.1691,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.7,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.94
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5001,
+        "responsiveness": 0.716,
+        "engagement": 0.7555,
+        "availability": 0.72,
+        "assessment": 0.939,
+        "social_proof": 0.752,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "AI Engineer",
+      "company": "Mad Street Den",
+      "experience": 6.4,
+      "location": "Jaipur, Rajasthan"
+    }
+  },
+  {
+    "candidate_id": "CAND_0042029",
+    "rank": 28,
+    "final_score": 0.743963896777959,
+    "reasoning": "Senior Data Scientist at Flipkart with 6.5 yrs experience. 6/21 must-have skills matched (Deep Learning, NLP, PyTorch, Haystack). 67% response rate.",
+    "score_breakdown": {
+      "final_score": 0.744,
+      "semantic_score": 0.7156,
+      "attribute_score": 0.7687,
+      "behavioral_score": 0.7335,
+      "attribute_breakdown": {
+        "skills": 0.2308,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.82
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6156,
+        "responsiveness": 0.762,
+        "engagement": 0.8355,
+        "availability": 0.455,
+        "assessment": 0.9432,
+        "social_proof": 0.8929,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior Data Scientist",
+      "company": "Flipkart",
+      "experience": 6.5,
+      "location": "Delhi, Delhi"
+    }
+  },
+  {
+    "candidate_id": "CAND_0069905",
+    "rank": 29,
+    "final_score": 0.7436000814845036,
+    "reasoning": "Applied ML Engineer at Sarvam AI with 6.6 yrs experience. 4/21 must-have skills matched (Python, Sentence Transformers, LoRA, LangChain). open to work; 78% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7436,
+      "semantic_score": 0.7398,
+      "attribute_score": 0.7514,
+      "behavioral_score": 0.7341,
+      "attribute_breakdown": {
+        "skills": 0.2218,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 0.75,
+        "location": 0.7,
+        "education": 0.72
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6548,
+        "responsiveness": 0.668,
+        "engagement": 0.8726,
+        "availability": 0.665,
+        "assessment": 0.753,
+        "social_proof": 0.8086,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Applied ML Engineer",
+      "company": "Sarvam AI",
+      "experience": 6.6,
+      "location": "Bhubaneswar, Odisha"
+    }
+  },
+  {
+    "candidate_id": "CAND_0062247",
+    "rank": 30,
+    "final_score": 0.741221368609757,
+    "reasoning": "AI Engineer at Google with 7.3 yrs experience. 5/21 must-have skills matched (Hugging Face Transformers, Deep Learning, Vector Search, BM25). open to work; 78% response rate; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7412,
+      "semantic_score": 0.8144,
+      "attribute_score": 0.697,
+      "behavioral_score": 0.7331,
+      "attribute_breakdown": {
+        "skills": 0.1958,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.6,
+        "career_trajectory": 0.75,
+        "location": 0.7,
+        "education": 0.96
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6649,
+        "responsiveness": 0.828,
+        "engagement": 0.8502,
+        "availability": 0.875,
+        "assessment": 0.3,
+        "social_proof": 0.7919,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "AI Engineer",
+      "company": "Google",
+      "experience": 7.3,
+      "location": "Kochi, Kerala"
+    }
+  },
+  {
+    "candidate_id": "CAND_0098846",
+    "rank": 31,
+    "final_score": 0.7412110697901282,
+    "reasoning": "AI Engineer at upGrad with 7.6 yrs experience. 2/21 must-have skills matched (Recommendation Systems, Qdrant, PEFT, LlamaIndex). open to work; 62% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7412,
+      "semantic_score": 0.7226,
+      "attribute_score": 0.7426,
+      "behavioral_score": 0.7611,
+      "attribute_breakdown": {
+        "skills": 0.1504,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 0.85,
+        "location": 0.7,
+        "education": 1.0
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6649,
+        "responsiveness": 0.772,
+        "engagement": 0.965,
+        "availability": 0.86,
+        "assessment": 0.3,
+        "social_proof": 0.8674,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "AI Engineer",
+      "company": "upGrad",
+      "experience": 7.6,
+      "location": "Indore, Madhya Pradesh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0030031",
+    "rank": 32,
+    "final_score": 0.7405496374244656,
+    "reasoning": "AI Engineer at Microsoft with 5.7 yrs experience. 7/21 must-have skills matched (scikit-learn, NLP, Vector Search, QLoRA). 94% response rate; recently active; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7405,
+      "semantic_score": 0.7185,
+      "attribute_score": 0.7176,
+      "behavioral_score": 0.8082,
+      "attribute_breakdown": {
+        "skills": 0.2826,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 0.85,
+        "location": 0.5,
+        "education": 0.84
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8313,
+        "responsiveness": 0.764,
+        "engagement": 0.9342,
+        "availability": 0.645,
+        "assessment": 0.8788,
+        "social_proof": 0.7286,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "AI Engineer",
+      "company": "Microsoft",
+      "experience": 5.7,
+      "location": "Trivandrum, Kerala"
+    }
+  },
+  {
+    "candidate_id": "CAND_0043860",
+    "rank": 33,
+    "final_score": 0.7401814900640649,
+    "reasoning": "Junior ML Engineer at Aganitha with 6.1 yrs experience. 4/21 must-have skills matched (Semantic Search, GANs, Information Retrieval, Diffusion Models). open to work; 81% response rate; recently active; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7402,
+      "semantic_score": 0.6065,
+      "attribute_score": 0.7561,
+      "behavioral_score": 0.8719,
+      "attribute_breakdown": {
+        "skills": 0.1046,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.9
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8573,
+        "responsiveness": 0.886,
+        "engagement": 0.8811,
+        "availability": 1.0,
+        "assessment": 0.8277,
+        "social_proof": 0.821,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Junior ML Engineer",
+      "company": "Aganitha",
+      "experience": 6.1,
+      "location": "Bhubaneswar, Odisha"
+    }
+  },
+  {
+    "candidate_id": "CAND_0061265",
+    "rank": 34,
+    "final_score": 0.739336235495858,
+    "reasoning": "Currently Recommendation Systems Engineer at Zoho (6.6 yrs), has relevant technical background. 4/21 must-have skills matched (Hugging Face Transformers, Milvus, QLoRA, LangChain). open to work; 94% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7393,
+      "semantic_score": 0.8005,
+      "attribute_score": 0.7101,
+      "behavioral_score": 0.7185,
+      "attribute_breakdown": {
+        "skills": 0.1865,
+        "experience": 1.0,
+        "title": 0.7974,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 0.88
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5318,
+        "responsiveness": 0.964,
+        "engagement": 0.7027,
+        "availability": 0.72,
+        "assessment": 0.8515,
+        "social_proof": 0.7751,
+        "verification": 0.3333
+      }
+    },
+    "profile_summary": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Zoho",
+      "experience": 6.6,
+      "location": "Delhi, Delhi"
+    }
+  },
+  {
+    "candidate_id": "CAND_0027691",
+    "rank": 35,
+    "final_score": 0.7379631641583293,
+    "reasoning": "NLP Engineer at Haptik with 6.5 yrs experience. 5/21 must-have skills matched (Recommendation Systems, QLoRA, Weaviate, LoRA). open to work; 68% response rate; 15-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.738,
+      "semantic_score": 0.6174,
+      "attribute_score": 0.7995,
+      "behavioral_score": 0.7719,
+      "attribute_breakdown": {
+        "skills": 0.226,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 1.0,
+        "location": 1.0,
+        "education": 0.86
+      },
+      "behavioral_breakdown": {
+        "recency": 0.557,
+        "responsiveness": 0.768,
+        "engagement": 0.727,
+        "availability": 1.0,
+        "assessment": 0.8958,
+        "social_proof": 0.8045,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "NLP Engineer",
+      "company": "Haptik",
+      "experience": 6.5,
+      "location": "Pune, Maharashtra"
+    }
+  },
+  {
+    "candidate_id": "CAND_0030348",
+    "rank": 36,
+    "final_score": 0.7373478258958662,
+    "reasoning": "Machine Learning Engineer at BYJU'S with 4.5 yrs experience. 4/21 must-have skills matched (pgvector, Python, Haystack, PyTorch). open to work; 54% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7373,
+      "semantic_score": 0.8235,
+      "attribute_score": 0.6834,
+      "behavioral_score": 0.731,
+      "attribute_breakdown": {
+        "skills": 0.1418,
+        "experience": 0.725,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 0.75,
+        "location": 1.0,
+        "education": 0.86
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5527,
+        "responsiveness": 0.604,
+        "engagement": 0.9555,
+        "availability": 0.735,
+        "assessment": 0.91,
+        "social_proof": 0.7745,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Machine Learning Engineer",
+      "company": "BYJU'S",
+      "experience": 4.5,
+      "location": "Noida, Uttar Pradesh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0066999",
+    "rank": 37,
+    "final_score": 0.7357631622024833,
+    "reasoning": "Currently Recommendation Systems Engineer at Microsoft (5.9 yrs), has relevant technical background. 7/21 must-have skills matched (FAISS, BM25, Information Retrieval, OpenSearch). open to work; 63% response rate; 15-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7358,
+      "semantic_score": 0.796,
+      "attribute_score": 0.6599,
+      "behavioral_score": 0.8001,
+      "attribute_breakdown": {
+        "skills": 0.2396,
+        "experience": 0.8,
+        "title": 0.62,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.92
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5789,
+        "responsiveness": 0.778,
+        "engagement": 0.9062,
+        "availability": 0.925,
+        "assessment": 0.8954,
+        "social_proof": 0.8553,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Microsoft",
+      "experience": 5.9,
+      "location": "Delhi, Delhi"
+    }
+  },
+  {
+    "candidate_id": "CAND_0036437",
+    "rank": 38,
+    "final_score": 0.7340820574167212,
+    "reasoning": "Search Engineer at Rephrase.ai with 4.8 yrs experience. 7/21 must-have skills matched (OpenSearch, Vector Search, Elasticsearch, Weaviate). 87% response rate; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7341,
+      "semantic_score": 0.6927,
+      "attribute_score": 0.7214,
+      "behavioral_score": 0.8064,
+      "attribute_breakdown": {
+        "skills": 0.2258,
+        "experience": 0.77,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 0.85,
+        "location": 0.7,
+        "education": 0.82
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7816,
+        "responsiveness": 0.802,
+        "engagement": 0.9787,
+        "availability": 0.645,
+        "assessment": 0.789,
+        "social_proof": 0.7819,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Search Engineer",
+      "company": "Rephrase.ai",
+      "experience": 4.8,
+      "location": "Kolkata, West Bengal"
+    }
+  },
+  {
+    "candidate_id": "CAND_0092278",
+    "rank": 39,
+    "final_score": 0.7332644817377867,
+    "reasoning": "Senior NLP Engineer at Microsoft with 6.8 yrs experience. 4/21 must-have skills matched (QLoRA, NLP, Milvus, Elasticsearch). Note: low recruiter response rate (7%).",
+    "score_breakdown": {
+      "final_score": 0.7333,
+      "semantic_score": 0.8812,
+      "attribute_score": 0.7852,
+      "behavioral_score": 0.4622,
+      "attribute_breakdown": {
+        "skills": 0.2249,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 1.0,
+        "education": 0.88
+      },
+      "behavioral_breakdown": {
+        "recency": 0.1838,
+        "responsiveness": 0.162,
+        "engagement": 0.8789,
+        "availability": 0.51,
+        "assessment": 0.706,
+        "social_proof": 0.5495,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior NLP Engineer",
+      "company": "Microsoft",
+      "experience": 6.8,
+      "location": "Pune, Maharashtra"
+    }
+  },
+  {
+    "candidate_id": "CAND_0037944",
+    "rank": 40,
+    "final_score": 0.7330022690190408,
+    "reasoning": "Senior Data Scientist at Vedantu with 4.9 yrs experience. 6/21 must-have skills matched (LlamaIndex, Machine Learning, Embeddings, Python). open to work; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.733,
+      "semantic_score": 0.7216,
+      "attribute_score": 0.728,
+      "behavioral_score": 0.7557,
+      "attribute_breakdown": {
+        "skills": 0.2519,
+        "experience": 0.785,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 0.96
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5197,
+        "responsiveness": 0.532,
+        "engagement": 0.9065,
+        "availability": 1.0,
+        "assessment": 1.0,
+        "social_proof": 0.834,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior Data Scientist",
+      "company": "Vedantu",
+      "experience": 4.9,
+      "location": "Jaipur, Rajasthan"
+    }
+  },
+  {
+    "candidate_id": "CAND_0084819",
+    "rank": 41,
+    "final_score": 0.7329309161108504,
+    "reasoning": "Search Engineer at Dream11 with 4.5 yrs experience. 7/21 must-have skills matched (LoRA, BM25, OpenSearch, Weaviate). open to work; 74% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7329,
+      "semantic_score": 0.763,
+      "attribute_score": 0.6765,
+      "behavioral_score": 0.7985,
+      "attribute_breakdown": {
+        "skills": 0.3118,
+        "experience": 0.725,
+        "title": 1.0,
+        "domain": 0.6,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 0.77
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7521,
+        "responsiveness": 0.644,
+        "engagement": 0.9832,
+        "availability": 0.72,
+        "assessment": 0.9335,
+        "social_proof": 0.8287,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Search Engineer",
+      "company": "Dream11",
+      "experience": 4.5,
+      "location": "Indore, Madhya Pradesh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0074735",
+    "rank": 42,
+    "final_score": 0.732783962495824,
+    "reasoning": "Applied ML Engineer at Rephrase.ai with 5.5 yrs experience. 5/21 must-have skills matched (Prompt Engineering, RAG, LlamaIndex, Information Retrieval). open to work; 77% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7328,
+      "semantic_score": 0.73,
+      "attribute_score": 0.7165,
+      "behavioral_score": 0.7654,
+      "attribute_breakdown": {
+        "skills": 0.194,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 0.85,
+        "location": 0.5,
+        "education": 0.96
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5443,
+        "responsiveness": 0.862,
+        "engagement": 0.9751,
+        "availability": 0.665,
+        "assessment": 0.718,
+        "social_proof": 0.8907,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Applied ML Engineer",
+      "company": "Rephrase.ai",
+      "experience": 5.5,
+      "location": "Chandigarh, Chandigarh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0087744",
+    "rank": 43,
+    "final_score": 0.732788440752867,
+    "reasoning": "Senior Software Engineer (ML) at Niramai with 3.9 yrs experience. 2/21 must-have skills matched (Speech Recognition, BentoML, TensorFlow, Pinecone). open to work; 88% response rate; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7328,
+      "semantic_score": 0.8338,
+      "attribute_score": 0.6575,
+      "behavioral_score": 0.7472,
+      "attribute_breakdown": {
+        "skills": 0.078,
         "experience": 0.635,
-        "title": 0.05,
-        "domain": 0.35,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 0.85,
+        "location": 0.7,
+        "education": 0.82
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6016,
+        "responsiveness": 0.648,
+        "engagement": 0.8723,
+        "availability": 0.875,
+        "assessment": 0.768,
+        "social_proof": 0.7826,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior Software Engineer (ML)",
+      "company": "Niramai",
+      "experience": 3.9,
+      "location": "Indore, Madhya Pradesh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0015967",
+    "rank": 44,
+    "final_score": 0.7325597288559543,
+    "reasoning": "Senior Software Engineer (ML) at Razorpay with 5.4 yrs experience. 3/21 must-have skills matched (ASR, Object Detection, Deep Learning, LLMs). open to work; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7326,
+      "semantic_score": 0.7938,
+      "attribute_score": 0.6816,
+      "behavioral_score": 0.7509,
+      "attribute_breakdown": {
+        "skills": 0.0702,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 0.85,
+        "location": 1.0,
+        "education": 0.68
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7756,
+        "responsiveness": 0.55,
+        "engagement": 0.8296,
+        "availability": 0.875,
+        "assessment": 0.8708,
+        "social_proof": 0.5422,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior Software Engineer (ML)",
+      "company": "Razorpay",
+      "experience": 5.4,
+      "location": "Hyderabad, Telangana"
+    }
+  },
+  {
+    "candidate_id": "CAND_0058575",
+    "rank": 45,
+    "final_score": 0.7321264015040341,
+    "reasoning": "AI Engineer at Krutrim with 5.8 yrs experience. 3/21 must-have skills matched (Hugging Face Transformers, Sentence Transformers, Recommendation Systems, PyTorch). open to work; 69% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7321,
+      "semantic_score": 0.8121,
+      "attribute_score": 0.7066,
+      "behavioral_score": 0.6822,
+      "attribute_breakdown": {
+        "skills": 0.1442,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 1.0,
         "career_trajectory": 0.85,
         "location": 0.7,
         "education": 0.81
       },
       "behavioral_breakdown": {
-        "recency": 0.6398,
-        "responsiveness": 0.592,
-        "engagement": 0.4991,
-        "availability": 0.72,
+        "recency": 0.5789,
+        "responsiveness": 0.774,
+        "engagement": 0.8663,
+        "availability": 0.79,
         "assessment": 0.3,
-        "social_proof": 0.475,
+        "social_proof": 0.7095,
         "verification": 0.6667
       }
     },
     "profile_summary": {
-      "title": "Marketing Manager",
-      "company": "Acme Corp",
-      "experience": 3.9,
-      "location": "Bhubaneswar, Odisha"
+      "title": "AI Engineer",
+      "company": "Krutrim",
+      "experience": 5.8,
+      "location": "Chennai, Tamil Nadu"
     }
   },
   {
-    "candidate_id": "CAND_0000032",
-    "rank": 36,
-    "final_score": 0.36860138938667925,
-    "reasoning": ".NET Developer at Cognizant (8.1 yrs). 2/21 must-have skills matched (OpenCV, Speech Recognition, Embeddings, CSS). 69% response rate.",
+    "candidate_id": "CAND_0050454",
+    "rank": 46,
+    "final_score": 0.7316674900534132,
+    "reasoning": "AI Engineer at Rephrase.ai with 6.8 yrs experience. 3/21 must-have skills matched (BM25, PyTorch, Fine-tuning LLMs, LLMs). open to work; 77% response rate; 30-day notice period.",
     "score_breakdown": {
-      "final_score": 0.3686,
-      "semantic_score": 0.2896,
-      "attribute_score": 0.3792,
-      "behavioral_score": 0.4444,
+      "final_score": 0.7317,
+      "semantic_score": 0.6759,
+      "attribute_score": 0.757,
+      "behavioral_score": 0.753,
       "attribute_breakdown": {
-        "skills": 0.0367,
-        "experience": 0.8,
-        "title": 0.15,
-        "domain": 0.35,
-        "career_trajectory": 0.5,
-        "location": 0.7,
-        "education": 0.85
-      },
-      "behavioral_breakdown": {
-        "recency": 0.2743,
-        "responsiveness": 0.614,
-        "engagement": 0.5859,
-        "availability": 0.44,
-        "assessment": 0.3,
-        "social_proof": 0.5245,
-        "verification": 0.3333
-      }
-    },
-    "profile_summary": {
-      "title": ".NET Developer",
-      "company": "Cognizant",
-      "experience": 8.1,
-      "location": "Gurgaon, Haryana"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000011",
-    "rank": 37,
-    "final_score": 0.36757780529501405,
-    "reasoning": "QA Engineer at Pied Piper (2.0 yrs). 1/21 must-have skills matched (Kubeflow, Recommendation Systems, Spring Boot, PostgreSQL). 56% response rate. Concerns: below target experience range (2.0 vs 5-9 yrs).",
-    "score_breakdown": {
-      "final_score": 0.3676,
-      "semantic_score": 0.2868,
-      "attribute_score": 0.366,
-      "behavioral_score": 0.4674,
-      "attribute_breakdown": {
-        "skills": 0.0279,
-        "experience": 0.35,
-        "title": 0.15,
-        "domain": 0.9,
-        "career_trajectory": 0.35,
-        "location": 1.0,
-        "education": 0.78
-      },
-      "behavioral_breakdown": {
-        "recency": 0.3224,
-        "responsiveness": 0.376,
-        "engagement": 0.6072,
-        "availability": 0.51,
-        "assessment": 0.338,
-        "social_proof": 0.6021,
-        "verification": 1.0
-      }
-    },
-    "profile_summary": {
-      "title": "QA Engineer",
-      "company": "Pied Piper",
-      "experience": 2.0,
-      "location": "Hyderabad, Telangana"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000043",
-    "rank": 38,
-    "final_score": 0.3660693498856105,
-    "reasoning": "Cloud Engineer at Swiggy (8.3 yrs). 3/21 must-have skills matched (Elasticsearch, OpenCV, Image Classification, Kubeflow). Concerns: low recruiter response rate (4%).",
-    "score_breakdown": {
-      "final_score": 0.3661,
-      "semantic_score": 0.1929,
-      "attribute_score": 0.4759,
-      "behavioral_score": 0.3762,
-      "attribute_breakdown": {
-        "skills": 0.0937,
-        "experience": 0.8,
-        "title": 0.15,
-        "domain": 0.6,
-        "career_trajectory": 1.0,
-        "location": 0.7,
-        "education": 0.75
-      },
-      "behavioral_breakdown": {
-        "recency": 0.2807,
-        "responsiveness": 0.064,
-        "engagement": 0.8495,
-        "availability": 0.365,
-        "assessment": 0.3,
-        "social_proof": 0.477,
-        "verification": 0.6667
-      }
-    },
-    "profile_summary": {
-      "title": "Cloud Engineer",
-      "company": "Swiggy",
-      "experience": 8.3,
-      "location": "Chandigarh, Chandigarh"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000041",
-    "rank": 39,
-    "final_score": 0.3604644308836243,
-    "reasoning": "Operations Manager at Hooli (13.7 yrs). skills include React, Airflow, SQL, Angular. open to work. Concerns: above target experience range (13.7 vs 5-9 yrs); non-technical title (Operations Manager).",
-    "score_breakdown": {
-      "final_score": 0.3605,
-      "semantic_score": 0.271,
-      "attribute_score": 0.3393,
-      "behavioral_score": 0.506,
-      "attribute_breakdown": {
-        "skills": 0.0032,
-        "experience": 0.465,
-        "title": 0.05,
-        "domain": 0.6,
+        "skills": 0.1881,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 1.0,
         "career_trajectory": 0.75,
         "location": 0.7,
-        "education": 0.71
+        "education": 1.0
       },
       "behavioral_breakdown": {
-        "recency": 0.4962,
-        "responsiveness": 0.162,
-        "engagement": 0.7456,
-        "availability": 0.715,
-        "assessment": 0.3,
-        "social_proof": 0.5042,
-        "verification": 1.0
+        "recency": 0.6857,
+        "responsiveness": 0.742,
+        "engagement": 0.9219,
+        "availability": 0.875,
+        "assessment": 0.63,
+        "social_proof": 0.673,
+        "verification": 0.6667
       }
     },
     "profile_summary": {
-      "title": "Operations Manager",
-      "company": "Hooli",
-      "experience": 13.7,
+      "title": "AI Engineer",
+      "company": "Rephrase.ai",
+      "experience": 6.8,
       "location": "Delhi, Delhi"
     }
   },
   {
-    "candidate_id": "CAND_0000004",
-    "rank": 40,
-    "final_score": 0.3533962767727631,
-    "reasoning": "Currently Marketing Manager at Dunder Mifflin (3.8 yrs), has relevant technical background. skills include JavaScript, Airflow, SAP, Object Detection.",
+    "candidate_id": "CAND_0015578",
+    "rank": 47,
+    "final_score": 0.7315560889793092,
+    "reasoning": "AI Engineer at Zoho with 5.4 yrs experience. 5/21 must-have skills matched (Machine Learning, FAISS, Pinecone, Embeddings). open to work; 65% response rate.",
     "score_breakdown": {
-      "final_score": 0.3534,
-      "semantic_score": 0.1956,
-      "attribute_score": 0.414,
-      "behavioral_score": 0.4336,
+      "final_score": 0.7316,
+      "semantic_score": 0.753,
+      "attribute_score": 0.7357,
+      "behavioral_score": 0.6983,
       "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.62,
-        "title": 0.5,
-        "domain": 0.35,
-        "career_trajectory": 0.75,
-        "location": 0.4,
-        "education": 0.85
+        "skills": 0.2228,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 1.0
       },
       "behavioral_breakdown": {
-        "recency": 0.5318,
-        "responsiveness": 0.276,
-        "engagement": 0.3898,
-        "availability": 0.315,
-        "assessment": 0.3,
-        "social_proof": 0.5975,
+        "recency": 0.5613,
+        "responsiveness": 0.51,
+        "engagement": 0.958,
+        "availability": 0.715,
+        "assessment": 0.839,
+        "social_proof": 0.7114,
         "verification": 1.0
       }
     },
     "profile_summary": {
-      "title": "Marketing Manager",
-      "company": "Dunder Mifflin",
-      "experience": 3.8,
-      "location": "Sydney"
+      "title": "AI Engineer",
+      "company": "Zoho",
+      "experience": 5.4,
+      "location": "Delhi, Delhi"
     }
   },
   {
-    "candidate_id": "CAND_0000017",
-    "rank": 41,
-    "final_score": 0.33701415611449476,
-    "reasoning": "Accountant at Wipro (12.3 yrs). skills include Tally, Java, PostgreSQL, Apache Flink. Concerns: non-technical title (Accountant); inactive for 223 days.",
+    "candidate_id": "CAND_0033861",
+    "rank": 48,
+    "final_score": 0.731643139236893,
+    "reasoning": "Senior NLP Engineer at Mad Street Den with 8.0 yrs experience. 7/21 must-have skills matched (Milvus, LlamaIndex, LLMs, scikit-learn). 30-day notice period. Note: low recruiter response rate (16%).",
     "score_breakdown": {
-      "final_score": 0.337,
-      "semantic_score": 0.3364,
-      "attribute_score": 0.3445,
-      "behavioral_score": 0.3243,
+      "final_score": 0.7316,
+      "semantic_score": 0.7819,
+      "attribute_score": 0.7926,
+      "behavioral_score": 0.5616,
       "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.535,
-        "title": 0.05,
-        "domain": 0.6,
-        "career_trajectory": 0.75,
+        "skills": 0.3064,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 1.0,
         "location": 0.5,
-        "education": 0.75
+        "education": 0.82
       },
       "behavioral_breakdown": {
-        "recency": 0.1796,
-        "responsiveness": 0.202,
-        "engagement": 0.5655,
-        "availability": 0.51,
-        "assessment": 0.3,
-        "social_proof": 0.3102,
-        "verification": 0.3333
+        "recency": 0.4,
+        "responsiveness": 0.136,
+        "engagement": 0.8936,
+        "availability": 0.645,
+        "assessment": 0.9107,
+        "social_proof": 0.6254,
+        "verification": 1.0
       }
     },
     "profile_summary": {
-      "title": "Accountant",
-      "company": "Wipro",
-      "experience": 12.3,
-      "location": "Bangalore, Karnataka"
+      "title": "Senior NLP Engineer",
+      "company": "Mad Street Den",
+      "experience": 8.0,
+      "location": "Vizag, Andhra Pradesh"
     }
   },
   {
-    "candidate_id": "CAND_0000009",
-    "rank": 42,
-    "final_score": 0.32750949163662907,
-    "reasoning": "Mechanical Engineer at Dunder Mifflin (11.0 yrs). skills include OpenCV, Go, Snowflake, PowerPoint. 53% response rate. Concerns: non-technical title (Mechanical Engineer).",
+    "candidate_id": "CAND_0081321",
+    "rank": 49,
+    "final_score": 0.7297263225871338,
+    "reasoning": "Senior Software Engineer (ML) at Freshworks with 5.3 yrs experience. 3/21 must-have skills matched (MLflow, Object Detection, Weaviate, Time Series). open to work.",
     "score_breakdown": {
-      "final_score": 0.3275,
-      "semantic_score": 0.2734,
-      "attribute_score": 0.304,
-      "behavioral_score": 0.4347,
+      "final_score": 0.7297,
+      "semantic_score": 0.8393,
+      "attribute_score": 0.6869,
+      "behavioral_score": 0.6753,
       "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.6,
-        "title": 0.05,
-        "domain": 0.35,
-        "career_trajectory": 0.75,
-        "location": 0.2,
-        "education": 0.73
+        "skills": 0.0956,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 0.85,
+        "location": 0.7,
+        "education": 0.96
       },
       "behavioral_breakdown": {
-        "recency": 0.3429,
-        "responsiveness": 0.358,
-        "engagement": 0.7366,
-        "availability": 0.365,
-        "assessment": 0.3,
-        "social_proof": 0.488,
+        "recency": 0.6752,
+        "responsiveness": 0.482,
+        "engagement": 0.9716,
+        "availability": 0.645,
+        "assessment": 0.577,
+        "social_proof": 0.7652,
         "verification": 0.6667
       }
     },
     "profile_summary": {
-      "title": "Mechanical Engineer",
-      "company": "Dunder Mifflin",
-      "experience": 11.0,
-      "location": "New York"
+      "title": "Senior Software Engineer (ML)",
+      "company": "Freshworks",
+      "experience": 5.3,
+      "location": "Coimbatore, Tamil Nadu"
     }
   },
   {
-    "candidate_id": "CAND_0000047",
-    "rank": 43,
-    "final_score": 0.31722461247935796,
-    "reasoning": "Project Manager at TCS (2.4 yrs). skills include SQL, Excel, Tally, Java. Concerns: below target experience range (2.4 vs 5-9 yrs); non-technical title (Project Manager).",
+    "candidate_id": "CAND_0092706",
+    "rank": 50,
+    "final_score": 0.7287148121104577,
+    "reasoning": "AI Research Engineer at Unacademy with 5.8 yrs experience. 1/21 must-have skills matched (MLOps, Hugging Face Transformers, Forecasting, Weights & Biases). open to work; 78% response rate; recently active.",
     "score_breakdown": {
-      "final_score": 0.3172,
-      "semantic_score": 0.3336,
-      "attribute_score": 0.2075,
-      "behavioral_score": 0.4951,
+      "final_score": 0.7287,
+      "semantic_score": 0.7189,
+      "attribute_score": 0.687,
+      "behavioral_score": 0.8156,
       "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.41,
-        "title": 0.05,
-        "domain": 0.1,
-        "career_trajectory": 0.5,
-        "location": 0.5,
-        "education": 0.51
+        "skills": 0.0598,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.84
       },
       "behavioral_breakdown": {
-        "recency": 0.5197,
-        "responsiveness": 0.354,
-        "engagement": 0.757,
-        "availability": 0.435,
-        "assessment": 0.3,
-        "social_proof": 0.5225,
+        "recency": 0.8639,
+        "responsiveness": 0.868,
+        "engagement": 0.9969,
+        "availability": 0.595,
+        "assessment": 0.78,
+        "social_proof": 0.7592,
         "verification": 0.6667
       }
     },
     "profile_summary": {
-      "title": "Project Manager",
-      "company": "TCS",
-      "experience": 2.4,
+      "title": "AI Research Engineer",
+      "company": "Unacademy",
+      "experience": 5.8,
+      "location": "Delhi, Delhi"
+    }
+  },
+  {
+    "candidate_id": "CAND_0070398",
+    "rank": 51,
+    "final_score": 0.7282192578285918,
+    "reasoning": "Machine Learning Engineer at Genpact AI with 7.2 yrs experience. 6/21 must-have skills matched (BM25, FAISS, RAG, Information Retrieval). open to work; 60% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7282,
+      "semantic_score": 0.7484,
+      "attribute_score": 0.7315,
+      "behavioral_score": 0.6981,
+      "attribute_breakdown": {
+        "skills": 0.2861,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.7,
+        "career_trajectory": 0.75,
+        "location": 0.7,
+        "education": 0.9
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6204,
+        "responsiveness": 0.56,
+        "engagement": 0.7641,
+        "availability": 0.72,
+        "assessment": 0.8222,
+        "social_proof": 0.7617,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Machine Learning Engineer",
+      "company": "Genpact AI",
+      "experience": 7.2,
       "location": "Kochi, Kerala"
     }
   },
   {
-    "candidate_id": "CAND_0000012",
-    "rank": 44,
-    "final_score": 0.3130630302398344,
-    "reasoning": "Operations Manager at Stark Industries (1.1 yrs). skills include AWS, dbt, Agile, Content Writing. Concerns: below target experience range (1.1 vs 5-9 yrs); non-technical title (Operations Manager).",
+    "candidate_id": "CAND_0093547",
+    "rank": 52,
+    "final_score": 0.7282139899290345,
+    "reasoning": "Senior Machine Learning Engineer at PhonePe with 2.9 yrs experience. 6/21 must-have skills matched (PEFT, RAG, Information Retrieval, Weaviate). 75% response rate. Note: below target experience range (2.9 vs 5-9 yrs).",
     "score_breakdown": {
-      "final_score": 0.3131,
-      "semantic_score": 0.4393,
-      "attribute_score": 0.19,
-      "behavioral_score": 0.383,
+      "final_score": 0.7282,
+      "semantic_score": 0.8085,
+      "attribute_score": 0.677,
+      "behavioral_score": 0.7241,
       "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.215,
-        "title": 0.05,
-        "domain": 0.35,
-        "career_trajectory": 0.25,
+        "skills": 0.2959,
+        "experience": 0.485,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
         "location": 0.5,
-        "education": 0.69
+        "education": 0.92
       },
       "behavioral_breakdown": {
-        "recency": 0.1702,
-        "responsiveness": 0.376,
-        "engagement": 0.5589,
+        "recency": 0.6016,
+        "responsiveness": 0.81,
+        "engagement": 0.6691,
         "availability": 0.58,
-        "assessment": 0.3,
-        "social_proof": 0.478,
-        "verification": 0.3333
+        "assessment": 0.904,
+        "social_proof": 0.8395,
+        "verification": 1.0
       }
     },
     "profile_summary": {
-      "title": "Operations Manager",
-      "company": "Stark Industries",
-      "experience": 1.1,
-      "location": "Chandigarh, Chandigarh"
+      "title": "Senior Machine Learning Engineer",
+      "company": "PhonePe",
+      "experience": 2.9,
+      "location": "Coimbatore, Tamil Nadu"
     }
   },
   {
-    "candidate_id": "CAND_0000008",
-    "rank": 45,
-    "final_score": 0.31082883751928364,
-    "reasoning": "Operations Manager at Wipro (3.6 yrs). skills include TypeScript, Rust, Java, Kubernetes. Concerns: non-technical title (Operations Manager); primarily consulting background.",
+    "candidate_id": "CAND_0094056",
+    "rank": 53,
+    "final_score": 0.7273393364634677,
+    "reasoning": "NLP Engineer at Rephrase.ai with 5.9 yrs experience. 4/21 must-have skills matched (Embeddings, LlamaIndex, Pinecone, PEFT). 82% response rate.",
     "score_breakdown": {
-      "final_score": 0.3108,
-      "semantic_score": 0.2697,
-      "attribute_score": 0.286,
-      "behavioral_score": 0.4049,
+      "final_score": 0.7273,
+      "semantic_score": 0.8669,
+      "attribute_score": 0.7156,
+      "behavioral_score": 0.5809,
       "attribute_breakdown": {
-        "skills": 0.0079,
-        "experience": 0.59,
-        "title": 0.05,
-        "domain": 0.1,
-        "career_trajectory": 0.5,
-        "location": 1.0,
-        "education": 0.82
+        "skills": 0.2025,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 0.75,
+        "location": 0.7,
+        "education": 0.9
       },
       "behavioral_breakdown": {
-        "recency": 0.2425,
-        "responsiveness": 0.372,
-        "engagement": 0.8525,
-        "availability": 0.385,
+        "recency": 0.63,
+        "responsiveness": 0.692,
+        "engagement": 0.6093,
+        "availability": 0.44,
         "assessment": 0.3,
-        "social_proof": 0.376,
-        "verification": 0.3333
+        "social_proof": 0.6431,
+        "verification": 0.6667
       }
     },
     "profile_summary": {
-      "title": "Operations Manager",
-      "company": "Wipro",
-      "experience": 3.6,
-      "location": "Noida, Uttar Pradesh"
+      "title": "NLP Engineer",
+      "company": "Rephrase.ai",
+      "experience": 5.9,
+      "location": "Chennai, Tamil Nadu"
     }
   },
   {
-    "candidate_id": "CAND_0000036",
-    "rank": 46,
-    "final_score": 0.30780023964402425,
-    "reasoning": "Project Manager at Initech (11.3 yrs). skills include Object Detection, Excel, Vue.js, Figma. open to work. Concerns: non-technical title (Project Manager); inactive for 185 days.",
+    "candidate_id": "CAND_0095528",
+    "rank": 54,
+    "final_score": 0.7234568053453837,
+    "reasoning": "Senior Data Scientist at Netflix with 5.3 yrs experience. 5/21 must-have skills matched (pgvector, Fine-tuning LLMs, Elasticsearch, PyTorch). open to work; 55% response rate.",
     "score_breakdown": {
-      "final_score": 0.3078,
-      "semantic_score": 0.0941,
-      "attribute_score": 0.3715,
-      "behavioral_score": 0.4496,
+      "final_score": 0.7235,
+      "semantic_score": 0.8183,
+      "attribute_score": 0.6675,
+      "behavioral_score": 0.7104,
       "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.585,
-        "title": 0.05,
+        "skills": 0.2019,
+        "experience": 0.8,
+        "title": 1.0,
         "domain": 0.6,
         "career_trajectory": 1.0,
         "location": 0.5,
-        "education": 0.59
+        "education": 0.84
       },
       "behavioral_breakdown": {
-        "recency": 0.2406,
-        "responsiveness": 0.28,
-        "engagement": 0.8863,
-        "availability": 0.785,
-        "assessment": 0.3,
-        "social_proof": 0.361,
-        "verification": 0.3333
+        "recency": 0.7181,
+        "responsiveness": 0.53,
+        "engagement": 0.8146,
+        "availability": 0.735,
+        "assessment": 0.8874,
+        "social_proof": 0.703,
+        "verification": 0.6667
       }
     },
     "profile_summary": {
-      "title": "Project Manager",
-      "company": "Initech",
-      "experience": 11.3,
+      "title": "Senior Data Scientist",
+      "company": "Netflix",
+      "experience": 5.3,
+      "location": "Indore, Madhya Pradesh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0036184",
+    "rank": 55,
+    "final_score": 0.7229838096369896,
+    "reasoning": "Currently Recommendation Systems Engineer at CRED (6.0 yrs), has relevant technical background. 5/21 must-have skills matched (Semantic Search, Hugging Face Transformers, QLoRA, PyTorch). open to work; 90% response rate; recently active; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.723,
+      "semantic_score": 0.7419,
+      "attribute_score": 0.6293,
+      "behavioral_score": 0.869,
+      "attribute_breakdown": {
+        "skills": 0.2194,
+        "experience": 1.0,
+        "title": 0.607,
+        "domain": 0.9,
+        "career_trajectory": 0.5,
+        "location": 0.5,
+        "education": 0.86
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8573,
+        "responsiveness": 0.74,
+        "engagement": 0.9601,
+        "availability": 1.0,
+        "assessment": 0.872,
+        "social_proof": 0.7544,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Recommendation Systems Engineer",
+      "company": "CRED",
+      "experience": 6.0,
       "location": "Trivandrum, Kerala"
     }
   },
   {
-    "candidate_id": "CAND_0000013",
-    "rank": 47,
-    "final_score": 0.29697281913260787,
-    "reasoning": "Civil Engineer at Globex Inc (1.1 yrs). skills include Flask, Redux, Spark, Data Pipelines. open to work; 30-day notice period. Concerns: below target experience range (1.1 vs 5-9 yrs); non-technical title (Civil Engineer).",
+    "candidate_id": "CAND_0096172",
+    "rank": 56,
+    "final_score": 0.7230020158413327,
+    "reasoning": "NLP Engineer at Krutrim with 5.2 yrs experience. 6/21 must-have skills matched (RAG, Elasticsearch, OpenSearch, Qdrant).",
     "score_breakdown": {
-      "final_score": 0.297,
-      "semantic_score": 0.2875,
-      "attribute_score": 0.183,
-      "behavioral_score": 0.5135,
+      "final_score": 0.723,
+      "semantic_score": 0.7865,
+      "attribute_score": 0.7145,
+      "behavioral_score": 0.6621,
       "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.215,
-        "title": 0.05,
-        "domain": 0.35,
-        "career_trajectory": 0.25,
-        "location": 0.2,
-        "education": 0.85
-      },
-      "behavioral_breakdown": {
-        "recency": 0.536,
-        "responsiveness": 0.288,
-        "engagement": 0.5447,
-        "availability": 0.925,
-        "assessment": 0.3,
-        "social_proof": 0.5484,
-        "verification": 0.3333
-      }
-    },
-    "profile_summary": {
-      "title": "Civil Engineer",
-      "company": "Globex Inc",
-      "experience": 1.1,
-      "location": "Dubai"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000003",
-    "rank": 48,
-    "final_score": 0.2864639273140646,
-    "reasoning": "Customer Support at TCS (1.1 yrs). skills include Angular, Excel, Kubernetes, Databricks. Concerns: below target experience range (1.1 vs 5-9 yrs); non-technical title (Customer Support).",
-    "score_breakdown": {
-      "final_score": 0.2865,
-      "semantic_score": 0.3755,
-      "attribute_score": 0.1435,
-      "behavioral_score": 0.437,
-      "attribute_breakdown": {
-        "skills": 0.0079,
-        "experience": 0.215,
-        "title": 0.05,
-        "domain": 0.1,
-        "career_trajectory": 0.25,
-        "location": 0.2,
-        "education": 0.77
-      },
-      "behavioral_breakdown": {
-        "recency": 0.5157,
-        "responsiveness": 0.396,
-        "engagement": 0.4277,
-        "availability": 0.44,
-        "assessment": 0.3,
-        "social_proof": 0.5203,
-        "verification": 0.3333
-      }
-    },
-    "profile_summary": {
-      "title": "Customer Support",
-      "company": "TCS",
-      "experience": 1.1,
-      "location": "Austin"
-    }
-  },
-  {
-    "candidate_id": "CAND_0000040",
-    "rank": 49,
-    "final_score": 0.2653837689457861,
-    "reasoning": "Customer Support at Globex Inc (1.6 yrs). skills include Spring Boot, Accounting, SAP, Weights & Biases. Concerns: below target experience range (1.6 vs 5-9 yrs); non-technical title (Customer Support).",
-    "score_breakdown": {
-      "final_score": 0.2654,
-      "semantic_score": 0.2203,
-      "attribute_score": 0.205,
-      "behavioral_score": 0.4282,
-      "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.29,
-        "title": 0.05,
-        "domain": 0.35,
-        "career_trajectory": 0.35,
+        "skills": 0.234,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 0.75,
         "location": 0.5,
-        "education": 0.49
+        "education": 0.92
       },
       "behavioral_breakdown": {
-        "recency": 0.3536,
-        "responsiveness": 0.316,
-        "engagement": 0.7782,
-        "availability": 0.435,
+        "recency": 0.7181,
+        "responsiveness": 0.562,
+        "engagement": 0.9331,
+        "availability": 0.455,
         "assessment": 0.3,
-        "social_proof": 0.4797,
-        "verification": 0.3333
+        "social_proof": 0.819,
+        "verification": 1.0
       }
     },
     "profile_summary": {
-      "title": "Customer Support",
-      "company": "Globex Inc",
-      "experience": 1.6,
-      "location": "Kochi, Kerala"
+      "title": "NLP Engineer",
+      "company": "Krutrim",
+      "experience": 5.2,
+      "location": "Chennai, Tamil Nadu"
     }
   },
   {
-    "candidate_id": "CAND_0000028",
-    "rank": 50,
-    "final_score": 0.2072404865696575,
-    "reasoning": "Operations Manager at Wipro (1.1 yrs). skills include Photoshop, Terraform, CNN, REST APIs. Concerns: below target experience range (1.1 vs 5-9 yrs); non-technical title (Operations Manager).",
+    "candidate_id": "CAND_0007460",
+    "rank": 57,
+    "final_score": 0.7227102055808192,
+    "reasoning": "AI Engineer at Salesforce with 4.7 yrs experience. 7/21 must-have skills matched (LangChain, Semantic Search, NLP, Weaviate). open to work; recently active.",
     "score_breakdown": {
-      "final_score": 0.2072,
-      "semantic_score": 0.0,
-      "attribute_score": 0.1785,
-      "behavioral_score": 0.5077,
+      "final_score": 0.7227,
+      "semantic_score": 0.7065,
+      "attribute_score": 0.719,
+      "behavioral_score": 0.7489,
       "attribute_breakdown": {
-        "skills": 0.0,
-        "experience": 0.215,
-        "title": 0.05,
-        "domain": 0.1,
-        "career_trajectory": 0.5,
-        "location": 0.4,
+        "skills": 0.2698,
+        "experience": 0.755,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 0.75,
+        "location": 1.0,
         "education": 0.81
       },
       "behavioral_breakdown": {
-        "recency": 0.557,
-        "responsiveness": 0.444,
-        "engagement": 0.6252,
-        "availability": 0.505,
-        "assessment": 0.3,
-        "social_proof": 0.4675,
+        "recency": 0.8249,
+        "responsiveness": 0.568,
+        "engagement": 0.9919,
+        "availability": 0.595,
+        "assessment": 0.744,
+        "social_proof": 0.8329,
         "verification": 0.6667
       }
     },
     "profile_summary": {
-      "title": "Operations Manager",
-      "company": "Wipro",
-      "experience": 1.1,
-      "location": "Dubai"
+      "title": "AI Engineer",
+      "company": "Salesforce",
+      "experience": 4.7,
+      "location": "Pune, Maharashtra"
+    }
+  },
+  {
+    "candidate_id": "CAND_0075574",
+    "rank": 58,
+    "final_score": 0.7207679133950803,
+    "reasoning": "Machine Learning Engineer at Haptik with 5.7 yrs experience. 6/21 must-have skills matched (PyTorch, Weaviate, pgvector, scikit-learn). open to work; 58% response rate; recently active.",
+    "score_breakdown": {
+      "final_score": 0.7208,
+      "semantic_score": 0.6686,
+      "attribute_score": 0.7325,
+      "behavioral_score": 0.7623,
+      "attribute_breakdown": {
+        "skills": 0.2259,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 0.85,
+        "location": 0.7,
+        "education": 0.92
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7999,
+        "responsiveness": 0.628,
+        "engagement": 0.8278,
+        "availability": 0.785,
+        "assessment": 0.8505,
+        "social_proof": 0.7644,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Machine Learning Engineer",
+      "company": "Haptik",
+      "experience": 5.7,
+      "location": "Bangalore, Karnataka"
+    }
+  },
+  {
+    "candidate_id": "CAND_0042506",
+    "rank": 59,
+    "final_score": 0.7201145656269553,
+    "reasoning": "Search Engineer at Verloop.io with 4.2 yrs experience. 7/21 must-have skills matched (NLP, FAISS, PEFT, Milvus). open to work; recently active; 15-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7201,
+      "semantic_score": 0.6382,
+      "attribute_score": 0.7495,
+      "behavioral_score": 0.7654,
+      "attribute_breakdown": {
+        "skills": 0.274,
+        "experience": 0.68,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 1.0,
+        "location": 1.0,
+        "education": 0.9
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8313,
+        "responsiveness": 0.408,
+        "engagement": 0.8235,
+        "availability": 0.925,
+        "assessment": 0.9376,
+        "social_proof": 0.8665,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Search Engineer",
+      "company": "Verloop.io",
+      "experience": 4.2,
+      "location": "Mumbai, Maharashtra"
+    }
+  },
+  {
+    "candidate_id": "CAND_0073007",
+    "rank": 60,
+    "final_score": 0.7199547060822616,
+    "reasoning": "Currently AI Specialist at Aganitha (5.8 yrs), has relevant technical background. 3/21 must-have skills matched (MLflow, Speech Recognition, Embeddings, Statistical Modeling). open to work; 83% response rate.",
+    "score_breakdown": {
+      "final_score": 0.72,
+      "semantic_score": 0.8015,
+      "attribute_score": 0.6222,
+      "behavioral_score": 0.7982,
+      "attribute_breakdown": {
+        "skills": 0.0766,
+        "experience": 0.8,
+        "title": 0.6101,
+        "domain": 1.0,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 0.92
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7406,
+        "responsiveness": 0.858,
+        "engagement": 0.9317,
+        "availability": 0.86,
+        "assessment": 0.5627,
+        "social_proof": 0.8305,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "AI Specialist",
+      "company": "Aganitha",
+      "experience": 5.8,
+      "location": "Bangalore, Karnataka"
+    }
+  },
+  {
+    "candidate_id": "CAND_0098454",
+    "rank": 61,
+    "final_score": 0.7195038531379182,
+    "reasoning": "Currently AI Specialist at Meesho (6.6 yrs), has relevant technical background. 6/21 must-have skills matched (GANs, Feature Engineering, CNN, OpenSearch). open to work; 87% response rate; recently active.",
+    "score_breakdown": {
+      "final_score": 0.7195,
+      "semantic_score": 0.6674,
+      "attribute_score": 0.6629,
+      "behavioral_score": 0.8838,
+      "attribute_breakdown": {
+        "skills": 0.1111,
+        "experience": 1.0,
+        "title": 0.6333,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.77
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8639,
+        "responsiveness": 0.922,
+        "engagement": 0.9587,
+        "availability": 0.86,
+        "assessment": 0.8287,
+        "social_proof": 0.7779,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "AI Specialist",
+      "company": "Meesho",
+      "experience": 6.6,
+      "location": "Indore, Madhya Pradesh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0049978",
+    "rank": 62,
+    "final_score": 0.7193411675396227,
+    "reasoning": "Senior Software Engineer (ML) at Sarvam AI with 6.6 yrs experience. 3/21 must-have skills matched (PyTorch, Embeddings, Deep Learning, GANs). open to work; 71% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7193,
+      "semantic_score": 0.7409,
+      "attribute_score": 0.7316,
+      "behavioral_score": 0.6713,
+      "attribute_breakdown": {
+        "skills": 0.0925,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 0.67
+      },
+      "behavioral_breakdown": {
+        "recency": 0.4093,
+        "responsiveness": 0.546,
+        "engagement": 0.9758,
+        "availability": 0.86,
+        "assessment": 0.731,
+        "social_proof": 0.7798,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Senior Software Engineer (ML)",
+      "company": "Sarvam AI",
+      "experience": 6.6,
+      "location": "Trivandrum, Kerala"
+    }
+  },
+  {
+    "candidate_id": "CAND_0042100",
+    "rank": 63,
+    "final_score": 0.719003357562664,
+    "reasoning": "Machine Learning Engineer at Freshworks with 7.3 yrs experience. 4/21 must-have skills matched (QLoRA, LLMs, Learning to Rank, Elasticsearch). open to work; 87% response rate.",
+    "score_breakdown": {
+      "final_score": 0.719,
+      "semantic_score": 0.6155,
+      "attribute_score": 0.7522,
+      "behavioral_score": 0.7834,
+      "attribute_breakdown": {
+        "skills": 0.2249,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.4,
+        "education": 0.82
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5237,
+        "responsiveness": 0.882,
+        "engagement": 0.9885,
+        "availability": 0.79,
+        "assessment": 0.831,
+        "social_proof": 0.7621,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Machine Learning Engineer",
+      "company": "Freshworks",
+      "experience": 7.3,
+      "location": "Singapore"
+    }
+  },
+  {
+    "candidate_id": "CAND_0052328",
+    "rank": 64,
+    "final_score": 0.7190422044971146,
+    "reasoning": "Currently Recommendation Systems Engineer at Amazon (6.5 yrs), has relevant technical background. 5/21 must-have skills matched (QLoRA, Learning to Rank, Vector Search, OpenSearch). open to work; 79% response rate; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.719,
+      "semantic_score": 0.6956,
+      "attribute_score": 0.7128,
+      "behavioral_score": 0.7584,
+      "attribute_breakdown": {
+        "skills": 0.2153,
+        "experience": 1.0,
+        "title": 0.6299,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 1.0,
+        "education": 0.96
+      },
+      "behavioral_breakdown": {
+        "recency": 0.557,
+        "responsiveness": 0.754,
+        "engagement": 0.8684,
+        "availability": 1.0,
+        "assessment": 0.8355,
+        "social_proof": 0.8787,
+        "verification": 0.3333
+      }
+    },
+    "profile_summary": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Amazon",
+      "experience": 6.5,
+      "location": "Pune, Maharashtra"
+    }
+  },
+  {
+    "candidate_id": "CAND_0086022",
+    "rank": 65,
+    "final_score": 0.7187115829685713,
+    "reasoning": "Currently Senior Applied Scientist at Sarvam AI (5.3 yrs), has relevant technical background. 7/21 must-have skills matched (pgvector, LangChain, PyTorch, Pinecone). open to work; 55% response rate; 0-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7187,
+      "semantic_score": 0.7511,
+      "attribute_score": 0.6617,
+      "behavioral_score": 0.7824,
+      "attribute_breakdown": {
+        "skills": 0.2779,
+        "experience": 0.8,
+        "title": 0.7413,
+        "domain": 0.7,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.88
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6252,
+        "responsiveness": 0.53,
+        "engagement": 0.9303,
+        "availability": 1.0,
+        "assessment": 1.0,
+        "social_proof": 0.8056,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior Applied Scientist",
+      "company": "Sarvam AI",
+      "experience": 5.3,
+      "location": "Kolkata, West Bengal"
+    }
+  },
+  {
+    "candidate_id": "CAND_0068351",
+    "rank": 66,
+    "final_score": 0.7179581347877728,
+    "reasoning": "Lead AI Engineer at Sarvam AI with 6.4 yrs experience. 8/21 must-have skills matched (PEFT, Deep Learning, Qdrant, Elasticsearch). 86% response rate; 0-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.718,
+      "semantic_score": 0.714,
+      "attribute_score": 0.7538,
+      "behavioral_score": 0.6582,
+      "attribute_breakdown": {
+        "skills": 0.3032,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.7,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 0.96
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6062,
+        "responsiveness": 0.796,
+        "engagement": 0.7308,
+        "availability": 0.645,
+        "assessment": 0.3,
+        "social_proof": 0.7775,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Lead AI Engineer",
+      "company": "Sarvam AI",
+      "experience": 6.4,
+      "location": "Delhi, Delhi"
+    }
+  },
+  {
+    "candidate_id": "CAND_0018722",
+    "rank": 67,
+    "final_score": 0.7172583961025764,
+    "reasoning": "Currently Recommendation Systems Engineer at Saarthi.ai (6.6 yrs), has relevant technical background. 3/21 must-have skills matched (TensorFlow, Hugging Face Transformers, PEFT, Python). open to work; 79% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7173,
+      "semantic_score": 0.7967,
+      "attribute_score": 0.6523,
+      "behavioral_score": 0.7389,
+      "attribute_breakdown": {
+        "skills": 0.14,
+        "experience": 1.0,
+        "title": 0.7564,
+        "domain": 0.7,
+        "career_trajectory": 1.0,
+        "location": 0.4,
+        "education": 0.82
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6701,
+        "responsiveness": 0.874,
+        "engagement": 0.8719,
+        "availability": 0.665,
+        "assessment": 0.3,
+        "social_proof": 0.8609,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Saarthi.ai",
+      "experience": 6.6,
+      "location": "Toronto"
+    }
+  },
+  {
+    "candidate_id": "CAND_0024620",
+    "rank": 68,
+    "final_score": 0.7160069694097733,
+    "reasoning": "AI Engineer at PharmEasy with 5.9 yrs experience. 6/21 must-have skills matched (Python, Elasticsearch, QLoRA, Information Retrieval). open to work.",
+    "score_breakdown": {
+      "final_score": 0.716,
+      "semantic_score": 0.7568,
+      "attribute_score": 0.7055,
+      "behavioral_score": 0.6861,
+      "attribute_breakdown": {
+        "skills": 0.2498,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 0.85,
+        "location": 0.4,
+        "education": 0.86
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6109,
+        "responsiveness": 0.606,
+        "engagement": 0.8737,
+        "availability": 0.785,
+        "assessment": 0.3,
+        "social_proof": 0.8336,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "AI Engineer",
+      "company": "PharmEasy",
+      "experience": 5.9,
+      "location": "New York"
+    }
+  },
+  {
+    "candidate_id": "CAND_0065878",
+    "rank": 69,
+    "final_score": 0.7160232145732631,
+    "reasoning": "Senior Data Scientist at Niramai with 7.8 yrs experience. 2/21 must-have skills matched (scikit-learn, QLoRA, Fine-tuning LLMs, TensorFlow). open to work; 15-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.716,
+      "semantic_score": 0.6716,
+      "attribute_score": 0.7333,
+      "behavioral_score": 0.7382,
+      "attribute_breakdown": {
+        "skills": 0.1291,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 0.85,
+        "location": 0.5,
+        "education": 0.82
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5237,
+        "responsiveness": 0.568,
+        "engagement": 0.9678,
+        "availability": 1.0,
+        "assessment": 0.7587,
+        "social_proof": 0.7265,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior Data Scientist",
+      "company": "Niramai",
+      "experience": 7.8,
+      "location": "Trivandrum, Kerala"
+    }
+  },
+  {
+    "candidate_id": "CAND_0044222",
+    "rank": 70,
+    "final_score": 0.7158386146798349,
+    "reasoning": "AI Engineer at PolicyBazaar with 7.7 yrs experience. 5/21 must-have skills matched (Deep Learning, OpenSearch, Hugging Face Transformers, LlamaIndex). open to work; 60% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7158,
+      "semantic_score": 0.7535,
+      "attribute_score": 0.6501,
+      "behavioral_score": 0.789,
+      "attribute_breakdown": {
+        "skills": 0.2063,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.35,
+        "career_trajectory": 0.75,
+        "location": 0.5,
+        "education": 0.92
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7877,
+        "responsiveness": 0.64,
+        "engagement": 0.8995,
+        "availability": 0.86,
+        "assessment": 0.765,
+        "social_proof": 0.7363,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "AI Engineer",
+      "company": "PolicyBazaar",
+      "experience": 7.7,
+      "location": "Vizag, Andhra Pradesh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0051004",
+    "rank": 71,
+    "final_score": 0.7138503317047646,
+    "reasoning": "Senior Data Scientist at CRED with 4.7 yrs experience. 3/21 must-have skills matched (Prompt Engineering, Haystack, Qdrant, Fine-tuning LLMs). open to work; 15-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7139,
+      "semantic_score": 0.658,
+      "attribute_score": 0.7062,
+      "behavioral_score": 0.7947,
+      "attribute_breakdown": {
+        "skills": 0.1727,
+        "experience": 0.755,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.84
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7293,
+        "responsiveness": 0.646,
+        "engagement": 0.8481,
+        "availability": 1.0,
+        "assessment": 0.9143,
+        "social_proof": 0.6456,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior Data Scientist",
+      "company": "CRED",
+      "experience": 4.7,
+      "location": "Delhi, Delhi"
+    }
+  },
+  {
+    "candidate_id": "CAND_0037566",
+    "rank": 72,
+    "final_score": 0.7122312903610616,
+    "reasoning": "Machine Learning Engineer at LinkedIn with 6.9 yrs experience. 4/21 must-have skills matched (Elasticsearch, LLMs, Pinecone, LangChain). open to work; 50% response rate; 15-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7122,
+      "semantic_score": 0.6006,
+      "attribute_score": 0.7608,
+      "behavioral_score": 0.7587,
+      "attribute_breakdown": {
+        "skills": 0.1993,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.82
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6497,
+        "responsiveness": 0.5,
+        "engagement": 0.8171,
+        "availability": 1.0,
+        "assessment": 0.864,
+        "social_proof": 0.8733,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Machine Learning Engineer",
+      "company": "LinkedIn",
+      "experience": 6.9,
+      "location": "Bangalore, Karnataka"
+    }
+  },
+  {
+    "candidate_id": "CAND_0037980",
+    "rank": 73,
+    "final_score": 0.7121419985303915,
+    "reasoning": "Currently Senior Applied Scientist at Niramai (9.0 yrs), has relevant technical background. 5/21 must-have skills matched (Text Encoders, LoRA, Document Processing, Information Retrieval Systems). open to work; 63% response rate; 0-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7121,
+      "semantic_score": 0.7071,
+      "attribute_score": 0.6956,
+      "behavioral_score": 0.7479,
+      "attribute_breakdown": {
+        "skills": 0.22,
+        "experience": 0.8,
+        "title": 0.7579,
+        "domain": 1.0,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.88
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5443,
+        "responsiveness": 0.658,
+        "engagement": 0.8925,
+        "availability": 1.0,
+        "assessment": 0.811,
+        "social_proof": 0.8196,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Senior Applied Scientist",
+      "company": "Niramai",
+      "experience": 9.0,
+      "location": "Kolkata, West Bengal"
+    }
+  },
+  {
+    "candidate_id": "CAND_0007411",
+    "rank": 74,
+    "final_score": 0.7114912681217264,
+    "reasoning": "Senior Machine Learning Engineer at Amazon with 8.0 yrs experience. 5/21 must-have skills matched (Information Retrieval, Prompt Engineering, OpenSearch, Pinecone). 15-day notice period. Note: low recruiter response rate (12%).",
+    "score_breakdown": {
+      "final_score": 0.7115,
+      "semantic_score": 0.7683,
+      "attribute_score": 0.773,
+      "behavioral_score": 0.5325,
+      "attribute_breakdown": {
+        "skills": 0.2361,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.88
+      },
+      "behavioral_breakdown": {
+        "recency": 0.2228,
+        "responsiveness": 0.112,
+        "engagement": 0.8561,
+        "availability": 0.72,
+        "assessment": 0.9582,
+        "social_proof": 0.7215,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior Machine Learning Engineer",
+      "company": "Amazon",
+      "experience": 8.0,
+      "location": "Kochi, Kerala"
+    }
+  },
+  {
+    "candidate_id": "CAND_0006557",
+    "rank": 75,
+    "final_score": 0.7109838919522108,
+    "reasoning": "NLP Engineer at Paytm with 7.9 yrs experience. 9/21 must-have skills matched (Qdrant, OpenSearch, FAISS, Vector Search). open to work; 63% response rate.",
+    "score_breakdown": {
+      "final_score": 0.711,
+      "semantic_score": 0.5815,
+      "attribute_score": 0.7873,
+      "behavioral_score": 0.7289,
+      "attribute_breakdown": {
+        "skills": 0.3074,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.81
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6016,
+        "responsiveness": 0.658,
+        "engagement": 0.8344,
+        "availability": 0.72,
+        "assessment": 0.8628,
+        "social_proof": 0.7745,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "NLP Engineer",
+      "company": "Paytm",
+      "experience": 7.9,
+      "location": "Jaipur, Rajasthan"
+    }
+  },
+  {
+    "candidate_id": "CAND_0064904",
+    "rank": 76,
+    "final_score": 0.7109023385372837,
+    "reasoning": "AI Engineer at LinkedIn with 4.9 yrs experience. 7/21 must-have skills matched (Embeddings, Python, Prompt Engineering, TensorFlow). open to work; 78% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7109,
+      "semantic_score": 0.6281,
+      "attribute_score": 0.7545,
+      "behavioral_score": 0.7317,
+      "attribute_breakdown": {
+        "skills": 0.2702,
+        "experience": 0.785,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 1.0,
+        "education": 0.9
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5001,
+        "responsiveness": 0.748,
+        "engagement": 0.8936,
+        "availability": 0.79,
+        "assessment": 0.9004,
+        "social_proof": 0.8115,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "AI Engineer",
+      "company": "LinkedIn",
+      "experience": 4.9,
+      "location": "Hyderabad, Telangana"
+    }
+  },
+  {
+    "candidate_id": "CAND_0030827",
+    "rank": 77,
+    "final_score": 0.7106207569664282,
+    "reasoning": "Senior Data Scientist at Freshworks with 5.4 yrs experience. 6/21 must-have skills matched (LangChain, Qdrant, Learning to Rank, LlamaIndex). open to work; 52% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7106,
+      "semantic_score": 0.8206,
+      "attribute_score": 0.6666,
+      "behavioral_score": 0.6578,
+      "attribute_breakdown": {
+        "skills": 0.2105,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 0.75,
+        "location": 0.2,
+        "education": 0.68
+      },
+      "behavioral_breakdown": {
+        "recency": 0.597,
+        "responsiveness": 0.592,
+        "engagement": 0.9265,
+        "availability": 0.72,
+        "assessment": 0.3,
+        "social_proof": 0.7983,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Senior Data Scientist",
+      "company": "Freshworks",
+      "experience": 5.4,
+      "location": "Singapore"
+    }
+  },
+  {
+    "candidate_id": "CAND_0078492",
+    "rank": 78,
+    "final_score": 0.7103846771877833,
+    "reasoning": "Currently Recommendation Systems Engineer at Verloop.io (5.1 yrs), has relevant technical background. 5/21 must-have skills matched (scikit-learn, PEFT, FAISS, Qdrant). open to work; 70% response rate; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7104,
+      "semantic_score": 0.7206,
+      "attribute_score": 0.6993,
+      "behavioral_score": 0.7182,
+      "attribute_breakdown": {
+        "skills": 0.22,
+        "experience": 0.8,
+        "title": 0.8213,
+        "domain": 1.0,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.7
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5613,
+        "responsiveness": 0.62,
+        "engagement": 0.8547,
+        "availability": 1.0,
+        "assessment": 0.6685,
+        "social_proof": 0.7543,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Recommendation Systems Engineer",
+      "company": "Verloop.io",
+      "experience": 5.1,
+      "location": "Kochi, Kerala"
+    }
+  },
+  {
+    "candidate_id": "CAND_0031593",
+    "rank": 79,
+    "final_score": 0.7089568696979096,
+    "reasoning": "Search Engineer at Genpact AI with 7.8 yrs experience. 4/21 must-have skills matched (Elasticsearch, BM25, Embeddings, Haystack). open to work; 58% response rate.",
+    "score_breakdown": {
+      "final_score": 0.709,
+      "semantic_score": 0.621,
+      "attribute_score": 0.7708,
+      "behavioral_score": 0.7033,
+      "attribute_breakdown": {
+        "skills": 0.1551,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.94
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5078,
+        "responsiveness": 0.748,
+        "engagement": 0.8254,
+        "availability": 0.715,
+        "assessment": 0.667,
+        "social_proof": 0.7894,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Search Engineer",
+      "company": "Genpact AI",
+      "experience": 7.8,
+      "location": "Kolkata, West Bengal"
+    }
+  },
+  {
+    "candidate_id": "CAND_0054318",
+    "rank": 80,
+    "final_score": 0.7064335152417747,
+    "reasoning": "AI Research Engineer at BYJU'S with 3.5 yrs experience. 5/21 must-have skills matched (GANs, Diffusion Models, LoRA, Information Retrieval). open to work; 87% response rate; recently active.",
+    "score_breakdown": {
+      "final_score": 0.7064,
+      "semantic_score": 0.7266,
+      "attribute_score": 0.6293,
+      "behavioral_score": 0.821,
+      "attribute_breakdown": {
+        "skills": 0.1372,
+        "experience": 0.575,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 0.75,
+        "location": 0.5,
+        "education": 0.9
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8639,
+        "responsiveness": 0.922,
+        "engagement": 0.8269,
+        "availability": 0.735,
+        "assessment": 0.8115,
+        "social_proof": 0.719,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "AI Research Engineer",
+      "company": "BYJU'S",
+      "experience": 3.5,
+      "location": "Chandigarh, Chandigarh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0041568",
+    "rank": 81,
+    "final_score": 0.7054047239349956,
+    "reasoning": "Search Engineer at Haptik with 5.2 yrs experience. 5/21 must-have skills matched (Semantic Search, Weaviate, Qdrant, Pinecone). open to work; 52% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7054,
+      "semantic_score": 0.7963,
+      "attribute_score": 0.6618,
+      "behavioral_score": 0.6749,
+      "attribute_breakdown": {
+        "skills": 0.215,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.7,
+        "career_trajectory": 0.85,
+        "location": 0.2,
+        "education": 0.96
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5833,
+        "responsiveness": 0.512,
+        "engagement": 0.7509,
+        "availability": 0.79,
+        "assessment": 0.868,
+        "social_proof": 0.7535,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Search Engineer",
+      "company": "Haptik",
+      "experience": 5.2,
+      "location": "Sydney"
+    }
+  },
+  {
+    "candidate_id": "CAND_0041611",
+    "rank": 82,
+    "final_score": 0.7053773628644584,
+    "reasoning": "Staff Machine Learning Engineer at Locobuzz with 6.4 yrs experience. 6/21 must-have skills matched (OpenSearch, LangChain, PyTorch, Qdrant). 30-day notice period. Note: low recruiter response rate (7%).",
+    "score_breakdown": {
+      "final_score": 0.7054,
+      "semantic_score": 0.8514,
+      "attribute_score": 0.7251,
+      "behavioral_score": 0.4947,
+      "attribute_breakdown": {
+        "skills": 0.2745,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 0.7,
+        "career_trajectory": 1.0,
+        "location": 0.4,
+        "education": 0.63
+      },
+      "behavioral_breakdown": {
+        "recency": 0.2245,
+        "responsiveness": 0.082,
+        "engagement": 0.8785,
+        "availability": 0.595,
+        "assessment": 0.979,
+        "social_proof": 0.532,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Staff Machine Learning Engineer",
+      "company": "Locobuzz",
+      "experience": 6.4,
+      "location": "Austin"
+    }
+  },
+  {
+    "candidate_id": "CAND_0099806",
+    "rank": 83,
+    "final_score": 0.7046017661929891,
+    "reasoning": "AI Engineer at Mad Street Den with 4.6 yrs experience. 7/21 must-have skills matched (Qdrant, Prompt Engineering, FAISS, Embeddings). open to work; 76% response rate; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7046,
+      "semantic_score": 0.5735,
+      "attribute_score": 0.74,
+      "behavioral_score": 0.7981,
+      "attribute_breakdown": {
+        "skills": 0.2721,
+        "experience": 0.74,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.78
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7293,
+        "responsiveness": 0.736,
+        "engagement": 0.7653,
+        "availability": 1.0,
+        "assessment": 0.73,
+        "social_proof": 0.8076,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "AI Engineer",
+      "company": "Mad Street Den",
+      "experience": 4.6,
+      "location": "Bhubaneswar, Odisha"
+    }
+  },
+  {
+    "candidate_id": "CAND_0041669",
+    "rank": 84,
+    "final_score": 0.7044188840512502,
+    "reasoning": "Currently Recommendation Systems Engineer at CRED (8.0 yrs), has relevant technical background. 7/21 must-have skills matched (PEFT, Milvus, Semantic Search, Weaviate). open to work; 77% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7044,
+      "semantic_score": 0.5975,
+      "attribute_score": 0.739,
+      "behavioral_score": 0.7705,
+      "attribute_breakdown": {
+        "skills": 0.2447,
+        "experience": 1.0,
+        "title": 0.7442,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 1.0,
+        "education": 0.88
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5833,
+        "responsiveness": 0.862,
+        "engagement": 0.8687,
+        "availability": 0.735,
+        "assessment": 0.879,
+        "social_proof": 0.9043,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Recommendation Systems Engineer",
+      "company": "CRED",
+      "experience": 8.0,
+      "location": "Noida, Uttar Pradesh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0049538",
+    "rank": 85,
+    "final_score": 0.7030715803309548,
+    "reasoning": "Applied ML Engineer at Saarthi.ai with 5.8 yrs experience. 6/21 must-have skills matched (Elasticsearch, Milvus, LLMs, LlamaIndex). 72% response rate; recently active; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.7031,
+      "semantic_score": 0.7504,
+      "attribute_score": 0.6466,
+      "behavioral_score": 0.748,
+      "attribute_breakdown": {
+        "skills": 0.2603,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.45,
+        "career_trajectory": 0.85,
+        "location": 0.5,
+        "education": 0.88
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8639,
+        "responsiveness": 0.712,
+        "engagement": 0.4352,
+        "availability": 0.645,
+        "assessment": 0.9056,
+        "social_proof": 0.8706,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Applied ML Engineer",
+      "company": "Saarthi.ai",
+      "experience": 5.8,
+      "location": "Jaipur, Rajasthan"
+    }
+  },
+  {
+    "candidate_id": "CAND_0096142",
+    "rank": 86,
+    "final_score": 0.7029536103055143,
+    "reasoning": "Applied ML Engineer at upGrad with 5.0 yrs experience. 4/21 must-have skills matched (NLP, Python, Hugging Face Transformers, Pinecone). open to work; 84% response rate; recently active.",
+    "score_breakdown": {
+      "final_score": 0.703,
+      "semantic_score": 0.5248,
+      "attribute_score": 0.742,
+      "behavioral_score": 0.8463,
+      "attribute_breakdown": {
+        "skills": 0.1961,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 1.0,
+        "education": 0.96
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8249,
+        "responsiveness": 0.904,
+        "engagement": 0.8855,
+        "availability": 0.72,
+        "assessment": 0.985,
+        "social_proof": 0.8665,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Applied ML Engineer",
+      "company": "upGrad",
+      "experience": 5.0,
+      "location": "Hyderabad, Telangana"
+    }
+  },
+  {
+    "candidate_id": "CAND_0060072",
+    "rank": 87,
+    "final_score": 0.7026681230379225,
+    "reasoning": "Staff Machine Learning Engineer at Amazon with 5.7 yrs experience. 6/21 must-have skills matched (Machine Learning, Embeddings, Sentence Transformers, Prompt Engineering). Note: low recruiter response rate (10%).",
+    "score_breakdown": {
+      "final_score": 0.7027,
+      "semantic_score": 0.803,
+      "attribute_score": 0.7385,
+      "behavioral_score": 0.5178,
+      "attribute_breakdown": {
+        "skills": 0.25,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.92
+      },
+      "behavioral_breakdown": {
+        "recency": 0.3351,
+        "responsiveness": 0.18,
+        "engagement": 0.8103,
+        "availability": 0.51,
+        "assessment": 0.7925,
+        "social_proof": 0.7073,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Staff Machine Learning Engineer",
+      "company": "Amazon",
+      "experience": 5.7,
+      "location": "Indore, Madhya Pradesh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0091899",
+    "rank": 88,
+    "final_score": 0.7025157693719024,
+    "reasoning": "Senior Software Engineer (ML) at PhonePe with 5.8 yrs experience. 7/21 must-have skills matched (Machine Learning, Information Retrieval, Computer Vision, Milvus). 51% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7025,
+      "semantic_score": 0.8145,
+      "attribute_score": 0.6275,
+      "behavioral_score": 0.7032,
+      "attribute_breakdown": {
+        "skills": 0.16,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.35,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 1.0
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5527,
+        "responsiveness": 0.706,
+        "engagement": 0.9373,
+        "availability": 0.455,
+        "assessment": 0.8387,
+        "social_proof": 0.8105,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Senior Software Engineer (ML)",
+      "company": "PhonePe",
+      "experience": 5.8,
+      "location": "Delhi, Delhi"
+    }
+  },
+  {
+    "candidate_id": "CAND_0006418",
+    "rank": 89,
+    "final_score": 0.700505613562468,
+    "reasoning": "Machine Learning Engineer at Verloop.io with 5.7 yrs experience. 6/21 must-have skills matched (OpenSearch, Qdrant, Embeddings, Semantic Search). open to work; 92% response rate.",
+    "score_breakdown": {
+      "final_score": 0.7005,
+      "semantic_score": 0.647,
+      "attribute_score": 0.703,
+      "behavioral_score": 0.7602,
+      "attribute_breakdown": {
+        "skills": 0.228,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.7,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.92
+      },
+      "behavioral_breakdown": {
+        "recency": 0.557,
+        "responsiveness": 0.832,
+        "engagement": 0.9072,
+        "availability": 0.785,
+        "assessment": 0.9695,
+        "social_proof": 0.7044,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Machine Learning Engineer",
+      "company": "Verloop.io",
+      "experience": 5.7,
+      "location": "Gurgaon, Haryana"
+    }
+  },
+  {
+    "candidate_id": "CAND_0000165",
+    "rank": 90,
+    "final_score": 0.7002856203281007,
+    "reasoning": "Currently AI Specialist at Mad Street Den (6.8 yrs), has relevant technical background. 5/21 must-have skills matched (ASR, Information Retrieval, Vector Search, YOLO). open to work.",
+    "score_breakdown": {
+      "final_score": 0.7003,
+      "semantic_score": 0.6775,
+      "attribute_score": 0.7033,
+      "behavioral_score": 0.7222,
+      "attribute_breakdown": {
+        "skills": 0.1092,
+        "experience": 1.0,
+        "title": 0.79,
+        "domain": 1.0,
+        "career_trajectory": 1.0,
+        "location": 0.4,
+        "education": 0.96
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7638,
+        "responsiveness": 0.3,
+        "engagement": 0.8733,
+        "availability": 0.72,
+        "assessment": 0.9388,
+        "social_proof": 0.884,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "AI Specialist",
+      "company": "Mad Street Den",
+      "experience": 6.8,
+      "location": "San Francisco"
+    }
+  },
+  {
+    "candidate_id": "CAND_0095619",
+    "rank": 91,
+    "final_score": 0.6999718842901823,
+    "reasoning": "NLP Engineer at Nykaa with 15.6 yrs experience. 8/21 must-have skills matched (scikit-learn, Pinecone, NLP, Learning to Rank). open to work; 90% response rate; 30-day notice period. Note: above target experience range (15.6 vs 5-9 yrs).",
+    "score_breakdown": {
+      "final_score": 0.7,
+      "semantic_score": 0.6447,
+      "attribute_score": 0.6492,
+      "behavioral_score": 0.8577,
+      "attribute_breakdown": {
+        "skills": 0.2768,
+        "experience": 0.37,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 0.75,
+        "location": 1.0,
+        "education": 0.92
+      },
+      "behavioral_breakdown": {
+        "recency": 0.63,
+        "responsiveness": 0.94,
+        "engagement": 0.9741,
+        "availability": 1.0,
+        "assessment": 0.8658,
+        "social_proof": 0.7949,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "NLP Engineer",
+      "company": "Nykaa",
+      "experience": 15.6,
+      "location": "Mumbai, Maharashtra"
+    }
+  },
+  {
+    "candidate_id": "CAND_0014440",
+    "rank": 92,
+    "final_score": 0.6996763669945527,
+    "reasoning": "Currently Recommendation Systems Engineer at CRED (6.4 yrs), has relevant technical background. 5/21 must-have skills matched (FAISS, Qdrant, Milvus, TensorFlow). open to work; 64% response rate.",
+    "score_breakdown": {
+      "final_score": 0.6997,
+      "semantic_score": 0.622,
+      "attribute_score": 0.6987,
+      "behavioral_score": 0.7946,
+      "attribute_breakdown": {
+        "skills": 0.1653,
+        "experience": 1.0,
+        "title": 0.7368,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 1.0
+      },
+      "behavioral_breakdown": {
+        "recency": 0.7579,
+        "responsiveness": 0.744,
+        "engagement": 0.8408,
+        "availability": 0.86,
+        "assessment": 0.6325,
+        "social_proof": 0.88,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Recommendation Systems Engineer",
+      "company": "CRED",
+      "experience": 6.4,
+      "location": "Chennai, Tamil Nadu"
+    }
+  },
+  {
+    "candidate_id": "CAND_0015528",
+    "rank": 93,
+    "final_score": 0.6987218462033137,
+    "reasoning": "Applied ML Engineer at Krutrim with 7.4 yrs experience. 6/21 must-have skills matched (Information Retrieval, LangChain, Weaviate, OpenSearch). 53% response rate; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.6987,
+      "semantic_score": 0.5706,
+      "attribute_score": 0.7853,
+      "behavioral_score": 0.6967,
+      "attribute_breakdown": {
+        "skills": 0.2411,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 1.0
+      },
+      "behavioral_breakdown": {
+        "recency": 0.63,
+        "responsiveness": 0.518,
+        "engagement": 0.9002,
+        "availability": 0.72,
+        "assessment": 0.8117,
+        "social_proof": 0.6137,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Applied ML Engineer",
+      "company": "Krutrim",
+      "experience": 7.4,
+      "location": "Coimbatore, Tamil Nadu"
+    }
+  },
+  {
+    "candidate_id": "CAND_0052682",
+    "rank": 94,
+    "final_score": 0.6982192852673512,
+    "reasoning": "NLP Engineer at Aganitha with 6.6 yrs experience. 4/21 must-have skills matched (Python, QLoRA, Embeddings, Semantic Search). open to work; 88% response rate; 30-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.6982,
+      "semantic_score": 0.5159,
+      "attribute_score": 0.7747,
+      "behavioral_score": 0.7792,
+      "attribute_breakdown": {
+        "skills": 0.1989,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 1.0
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5443,
+        "responsiveness": 0.808,
+        "engagement": 0.9489,
+        "availability": 0.875,
+        "assessment": 0.6755,
+        "social_proof": 0.9043,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "NLP Engineer",
+      "company": "Aganitha",
+      "experience": 6.6,
+      "location": "Vizag, Andhra Pradesh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0081053",
+    "rank": 95,
+    "final_score": 0.6975056523175237,
+    "reasoning": "NLP Engineer at Glance with 5.4 yrs experience. 4/21 must-have skills matched (Machine Learning, QLoRA, OpenSearch, Weaviate). open to work; 83% response rate.",
+    "score_breakdown": {
+      "final_score": 0.6975,
+      "semantic_score": 0.5973,
+      "attribute_score": 0.7325,
+      "behavioral_score": 0.7547,
+      "attribute_breakdown": {
+        "skills": 0.174,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.88
+      },
+      "behavioral_breakdown": {
+        "recency": 0.557,
+        "responsiveness": 0.858,
+        "engagement": 0.754,
+        "availability": 0.79,
+        "assessment": 0.9405,
+        "social_proof": 0.8489,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "NLP Engineer",
+      "company": "Glance",
+      "experience": 5.4,
+      "location": "Chandigarh, Chandigarh"
+    }
+  },
+  {
+    "candidate_id": "CAND_0001610",
+    "rank": 96,
+    "final_score": 0.6961242827965837,
+    "reasoning": "Machine Learning Engineer at Dream11 with 3.0 yrs experience. 7/21 must-have skills matched (scikit-learn, PyTorch, FAISS, Haystack). open to work; 57% response rate.",
+    "score_breakdown": {
+      "final_score": 0.6961,
+      "semantic_score": 0.8411,
+      "attribute_score": 0.6039,
+      "behavioral_score": 0.6881,
+      "attribute_breakdown": {
+        "skills": 0.2557,
+        "experience": 0.5,
+        "title": 1.0,
+        "domain": 0.6,
+        "career_trajectory": 0.85,
+        "location": 0.7,
+        "education": 0.6
+      },
+      "behavioral_breakdown": {
+        "recency": 0.6109,
+        "responsiveness": 0.622,
+        "engagement": 0.993,
+        "availability": 0.79,
+        "assessment": 0.3,
+        "social_proof": 0.802,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Machine Learning Engineer",
+      "company": "Dream11",
+      "experience": 3.0,
+      "location": "Trivandrum, Kerala"
+    }
+  },
+  {
+    "candidate_id": "CAND_0070202",
+    "rank": 97,
+    "final_score": 0.6959033211112097,
+    "reasoning": "Machine Learning Engineer at BYJU'S with 5.1 yrs experience. 4/21 must-have skills matched (BM25, RAG, LoRA, PyTorch). 60% response rate; recently active.",
+    "score_breakdown": {
+      "final_score": 0.6959,
+      "semantic_score": 0.633,
+      "attribute_score": 0.7205,
+      "behavioral_score": 0.7271,
+      "attribute_breakdown": {
+        "skills": 0.234,
+        "experience": 0.8,
+        "title": 1.0,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 0.84
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8186,
+        "responsiveness": 0.76,
+        "engagement": 0.7534,
+        "availability": 0.385,
+        "assessment": 0.915,
+        "social_proof": 0.7485,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Machine Learning Engineer",
+      "company": "BYJU'S",
+      "experience": 5.1,
+      "location": "Jaipur, Rajasthan"
+    }
+  },
+  {
+    "candidate_id": "CAND_0040887",
+    "rank": 98,
+    "final_score": 0.6948117241105619,
+    "reasoning": "Machine Learning Engineer at Netflix with 4.7 yrs experience. 4/21 must-have skills matched (PEFT, Recommendation Systems, LangChain, Python). open to work; 84% response rate; recently active; 15-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.6948,
+      "semantic_score": 0.7554,
+      "attribute_score": 0.5673,
+      "behavioral_score": 0.8517,
+      "attribute_breakdown": {
+        "skills": 0.159,
+        "experience": 0.755,
+        "title": 1.0,
+        "domain": 0.35,
+        "career_trajectory": 0.75,
+        "location": 0.2,
+        "education": 0.78
+      },
+      "behavioral_breakdown": {
+        "recency": 0.8442,
+        "responsiveness": 0.704,
+        "engagement": 0.9758,
+        "availability": 0.925,
+        "assessment": 0.8267,
+        "social_proof": 0.8204,
+        "verification": 1.0
+      }
+    },
+    "profile_summary": {
+      "title": "Machine Learning Engineer",
+      "company": "Netflix",
+      "experience": 4.7,
+      "location": "Toronto"
+    }
+  },
+  {
+    "candidate_id": "CAND_0091909",
+    "rank": 99,
+    "final_score": 0.6941588647861194,
+    "reasoning": "Machine Learning Engineer at Rephrase.ai with 6.9 yrs experience. 5/21 must-have skills matched (OpenSearch, Sentence Transformers, Pinecone, LLMs). open to work; 65% response rate.",
+    "score_breakdown": {
+      "final_score": 0.6942,
+      "semantic_score": 0.5509,
+      "attribute_score": 0.7919,
+      "behavioral_score": 0.69,
+      "attribute_breakdown": {
+        "skills": 0.2358,
+        "experience": 1.0,
+        "title": 1.0,
+        "domain": 1.0,
+        "career_trajectory": 1.0,
+        "location": 0.7,
+        "education": 0.96
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5039,
+        "responsiveness": 0.67,
+        "engagement": 0.6502,
+        "availability": 0.86,
+        "assessment": 0.952,
+        "social_proof": 0.7494,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Machine Learning Engineer",
+      "company": "Rephrase.ai",
+      "experience": 6.9,
+      "location": "Bangalore, Karnataka"
+    }
+  },
+  {
+    "candidate_id": "CAND_0040117",
+    "rank": 100,
+    "final_score": 0.6853462847908078,
+    "reasoning": "Currently Recommendation Systems Engineer at PhonePe (6.5 yrs), has relevant technical background. 2/21 must-have skills matched (LlamaIndex, Embeddings, Prompt Engineering, RAG). open to work; 66% response rate; 15-day notice period.",
+    "score_breakdown": {
+      "final_score": 0.6853,
+      "semantic_score": 0.6476,
+      "attribute_score": 0.6695,
+      "behavioral_score": 0.7593,
+      "attribute_breakdown": {
+        "skills": 0.1298,
+        "experience": 1.0,
+        "title": 0.6351,
+        "domain": 0.9,
+        "career_trajectory": 1.0,
+        "location": 0.5,
+        "education": 1.0
+      },
+      "behavioral_breakdown": {
+        "recency": 0.5001,
+        "responsiveness": 0.796,
+        "engagement": 0.9398,
+        "availability": 1.0,
+        "assessment": 0.7643,
+        "social_proof": 0.743,
+        "verification": 0.6667
+      }
+    },
+    "profile_summary": {
+      "title": "Recommendation Systems Engineer",
+      "company": "PhonePe",
+      "experience": 6.5,
+      "location": "Vizag, Andhra Pradesh"
     }
   }
 ]

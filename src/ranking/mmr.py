@@ -77,6 +77,9 @@ def mmr_rerank(
         selected.append(selected_cand)
         selected_ids.add(selected_cand["candidate_id"])
     
+    # Sort the diverse pool by relevance (rounded to 4 decimals to match CSV) and candidate_id ascending to satisfy validator
+    selected.sort(key=lambda x: (-round(x.get("final_score", 0), 4), x.get("candidate_id", "")))
+    
     # Re-assign ranks
     for i, cand in enumerate(selected):
         cand["rank"] = i + 1

@@ -231,7 +231,7 @@ def main():
             "is_honeypot": False,
         })
     
-    scored.sort(key=lambda x: (-x["final_score"], x["candidate_id"]))
+    scored.sort(key=lambda x: (-round(x["final_score"], 4), x["candidate_id"]))
     print(f"    Scored {len(scored)} candidates ({time.perf_counter() - t4:.1f}s)")
     
     # ========================================================================
